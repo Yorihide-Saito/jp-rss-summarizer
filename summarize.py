@@ -38,17 +38,18 @@ def is_japanese(text: str) -> bool:
 def summarize_to_japanese(title: str, content: str) -> str:
     prompt = f"""
 あなたは最先端のトレンドを追う知的好奇心旺盛な読者向けの編集者です。
-次の英語記事を日本語で要約し、「なぜこれが面白いのか」が伝わるようにしてください。
+次の英語記事を日本語で要約し、RSSリーダーで読みやすいHTML形式で出力してください。
 
-## 出力フォーマット
-**一言で言うと:** （1文で核心を突く）
-
-**ポイント:**
-• （重要な発見・主張を3〜4点、箇条書き）
-
-**So What?:** （この情報が読者にとってなぜ重要か、どう活かせるか）
+## 出力フォーマット（HTML）
+<p><strong>一言で言うと:</strong> （1文で核心を突く）</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>（重要な発見・主張を3〜4点）</li>
+</ul>
+<p><strong>So What?:</strong> （この情報が読者にとってなぜ重要か、どう活かせるか）</p>
 
 ## ルール
+- 必ず上記のHTML形式で出力すること
 - 専門用語は残しつつ、初見でも分かる短い補足を括弧内に
 - 「〜と思われる」「〜の可能性」など、推測と事実を区別
 - 堅すぎず、知的な友人に話すようなトーンで
@@ -171,7 +172,7 @@ def main():
                         "link": link,
                         "guid": guid,
                         "pubDate": pub,
-                        "description": f"<p><a href='{rss_escape(link)}'>元記事</a></p><pre>{rss_escape(jp)}</pre>"
+                        "description": f"<p><a href='{link}'>元記事を読む</a></p>{jp}"
                     })
 
                     seen.add(guid)
