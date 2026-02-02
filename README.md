@@ -7,11 +7,11 @@
 | カテゴリ | URL |
 |---------|-----|
 | arXiv（学術論文） | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_arxiv.xml` |
-| 科学 × ファッション | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_1_material_tech.xml` |
-| 健康・最適化 | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_2_biohacking_self_data.xml` |
-| 野心・戦略思考 | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_3_strategy_performance.xml` |
-| AI・実装 | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_4_implementation_logic.xml` |
-| クリエイティブ・エンジニアリング | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_5_app_dev_creative_logic.xml` |
+| 科学 × ファッション | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_1.xml` |
+| 健康・最適化 | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_2.xml` |
+| 野心・戦略思考 | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_3.xml` |
+| AI・実装 | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_4_ai.xml` |
+| クリエイティブ・エンジニアリング | `https://yorihide-saito.github.io/jp-rss-summarizer/feed_5.xml` |
 
 ## セットアップ
 
