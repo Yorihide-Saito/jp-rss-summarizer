@@ -1,0 +1,40 @@
+# ===== arXiv (学術論文) =====
+https://rss.arxiv.org/rss/q-bio.NC
+https://rss.arxiv.org/rss/cs.AI
+https://rss.arxiv.org/rss/cs.LG
+https://rss.arxiv.org/rss/stat.ML
+
+# ===== ジャンル1：科学 × ファッション (Material & Tech) =====
+https://fashiontechnews.zozo.com/feed
+https://blog.delivered.co.kr/category/k-fashion/feed/
+https://interlace.substack.com/feed
+https://www.highsnobiety.com/feed/
+https://www.fashionsnap.com/feed/
+
+# ===== ジャンル2：健康・最適化 (Biohacking & Self-Data) =====
+https://bradyholmer.substack.com/feed
+https://www.foundmyfitness.com/news/feed
+https://quantifiedself.com/feed/
+https://nootropicsexpert.com/feed/
+https://blog.lifeextension.com/feed/
+
+# ===== ジャンル3：野心・戦略思考 (Strategy & Performance) =====
+https://gurwinder.substack.com/feed
+https://fs.blog/feed/
+https://www.lesswrong.com/feed.xml?view=curated
+https://pathlesspath.com/feed/
+https://www.astralcodexten.com/feed
+
+# ===== ジャンル4：AI・実装 (Implementation & Logic) =====
+https://www.interconnects.ai/feed
+https://www.therundown.ai/feed
+https://openai.com/news/rss.xml
+https://hnrss.org/frontpage?q=AI
+https://www.bensbites.co/feed
+
+# ===== ジャンル5：クリエイティブ・エンジニアリング (App Dev & Creative Logic) =====
+https://github.blog/feed/
+https://stackoverflow.blog/feed/
+https://www.joelonsoftware.com/feed/
+https://www.producthunt.com/feed
+https://codeforces.com/rss/blog/en
