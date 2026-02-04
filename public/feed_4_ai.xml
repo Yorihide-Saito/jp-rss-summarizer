@@ -4,35 +4,20 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Tue, 03 Feb 2026 12:56:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Feb 2026 01:51:10 +0000</lastBuildDate>
 <item>
-<title>[要約] LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.</title>
-<link>https://github.com/KrystianJonca/lnai</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46868318</guid>
-<pubDate>Tue, 03 Feb 2026 08:45:57 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.com/KrystianJonca/lnai'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIコード生成ツールの設定を一度定義すれば、複数のプラットフォームで同期利用できる新ツール「LNAI」の登場です。</p>
+<title>[要約] The Sora feed philosophy</title>
+<link>https://openai.com/index/sora-feed-philosophy</link>
+<guid isPermaLink='false'>https://openai.com/index/sora-feed-philosophy</guid>
+<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+<description><![CDATA[<p><a href='https://openai.com/index/sora-feed-philosophy'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Soraフィードは、創造性を刺激しつつ安全性とつながりを重視したパーソナライズされた情報提供を目指している。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>「LNAI」はClaude、Cursor、Codexなど複数のAIコーディングツールの設定を一元管理できる。</li>
-<li>設定を一度作れば各サービスに自動で同期され、手間や設定ミスの削減が期待される。</li>
-<li>オープンソースでGitHubにて公開されており、カスタマイズや拡張も可能。</li>
-<li>開発コミュニティからは利便性が高いと評価されており、活用が広がりそう。</li>
+<li>個々に合わせたおすすめ機能でユーザーの興味や創造性を引き出す。</li>
+<li>ユーザー同士のつながりを促進し、コミュニティ形成を支援。</li>
+<li>ペアレンタルコントロール（保護者管理機能）を搭載し、未成年の安全を守る。</li>
+<li>強力なガードレール（安全対策）で、不適切なコンテンツから利用者を保護。</li>
 </ul>
-<p><strong>So What?:</strong> 複数のAIコード生成ツールを使い分ける開発者やチームにとって、設定管理の負担軽減と効率化が図れるため、生産性向上に直結します。今後のツール連携の新基準となるかもしれません。</p>]]></description>
-</item>
-<item>
-<title>[要約] Rentahuman – The Meatspace Layer for AI</title>
-<link>https://rentahuman.ai</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46868675</guid>
-<pubDate>Tue, 03 Feb 2026 09:30:07 +0000</pubDate>
-<description><![CDATA[<p><a href='https://rentahuman.ai'>元記事を読む</a></p><p><strong>一言で言うと:</strong> RentahumanはAIと現実世界の橋渡しをする「肉体層」を提供し、新しい人間と機械の関係を築こうとしています。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>RentahumanはAIの「肉体」として人間をレンタルし、仮想ではなく現実世界での行動を可能にするプラットフォーム。</li>
-<li>これにより、AIは物理的タスクを直接人間に委ねられ、より複雑で柔軟な対応が可能に。</li>
-<li>サービスはリモートやオンサイトでの代行、カスタム対応など多様なニーズに応えられる設計。</li>
-<li>現実世界におけるAIの可能性拡大と、倫理的・社会的な新しい課題の提起も含んでいる。</li>
-</ul>
-<p><strong>So What?:</strong> AIが現実の身体的行動を人間に委ねることで、これまで難しかったタスクの自動化が進み、ビジネスや生活の効率化につながる一方、新たな倫理問題も意識する必要があります。これからのAI活用の最前線として注目すべき動きです。</p>]]></description>
+<p><strong>So What?:</strong> SNSや情報サービスが氾濫する中で、単なる情報羅列ではなく「クリエイティブな刺激」と「安心できる環境」を両立するSoraの考え方は、次世代のデジタル体験の参考になる。利用者の興味や安全を両立した情報取得が求められる今、それを実現した設計は多くのサービスにとって示唆的だ。</p>]]></description>
 </item>
 </channel></rss>
