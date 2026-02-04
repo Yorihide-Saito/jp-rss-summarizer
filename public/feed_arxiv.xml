@@ -4,5 +4,228 @@
 <title>日本語要約RSS - arXiv (学術論文)</title>
 <link>https://github.com/</link>
 <description>arXiv (学術論文)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 04 Feb 2026 01:49:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Feb 2026 12:54:53 +0000</lastBuildDate>
+<item>
+<title>[要約] Training-Free Self-Correction for Multimodal Masked Diffusion Models</title>
+<link>https://arxiv.org/abs/2602.02927</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02927v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02927'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 事前学習済みのマスクド拡散モデルに対して追加学習なしで自己訂正を可能にし、生成品質を大幅に改善する新手法が提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来の自己訂正は追加訓練や不正確な尤度推定に依存していたが、本手法はそれらを不要にした。</li>
+<li>モデルのパラメータを変えず、補助評価器を使わずに自己訂正を実現している。</li>
+<li>テキストから画像生成やマルチモーダル理解タスクの生成品質が向上し、サンプリングステップも削減可能。</li>
+<li>異なるマスクド拡散モデル構造にも応用できるため、汎用性と実用性が高い。</li>
+</ul>
+<p><strong>So What?:</strong> 追加訓練コストなしで高品質な生成を実現できるため、画像生成やマルチモーダルAIの効率的な運用・開発が期待できる。特にリソース制約のある環境や多様なモデルでの応用にメリットが大きい。</p>]]></description>
+</item>
+<item>
+<title>[要約] Plug-In Classification of Drift Functions in Diffusion Processes Using Neural Networks</title>
+<link>https://arxiv.org/abs/2602.02791</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02791v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02791'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ニューラルネットを使って拡散過程の「ドリフト関数」（確率的な動きの傾向）を推定し、多クラス分類を精度よく行う新手法が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>拡散過程の異なるクラスを、それぞれ異なるドリフト関数で特徴づける多クラス分類問題を扱う。</li>
+<li>既存の一次元モデル（Denisら2024）を多次元拡散過程に拡張し、ニューラルネットによるプラグイン（推定結果利用型）分類器を開発。</li>
+<li>ドリフト関数推定誤差や離散時間観測の影響を理論的に解析し、誤分類リスクの収束率を明示。</li>
+<li>数値実験で既存手法より高速かつ高精度、多次元でも構造を活かせば高性能であることを実証。</li>
+</ul>
+<p><strong>So What?:</strong> 拡散過程モデルの構造を活かした分類法は、金融データ分析や生物学的信号解析などで精度向上に役立ちます。ニューラルネットの汎用性を活かしつつ、理論裏付けもあるため信頼性が高く、実務での応用可能性が広がりそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Near-Universal Multiplicative Updates for Nonnegative Einsum Factorization</title>
+<link>https://arxiv.org/abs/2602.02759</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02759v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02759'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 非負テンソル分解を簡単かつ高速に実行できる新しい汎用型乗法更新アルゴリズム「NNEinFact」が発表されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>NNEinFactはテンソルの積和演算（einsum）を用いて、あらゆる非負テンソル分解モデルに対応可能。</li>
+<li>損失関数は多様で、$(\alpha,\beta)$-divergence（分布の差異を測る指標）なども選択できる。</li>
+<li>大規模な欠損データ付きテンソ]]></description>
+</item>
+<item>
+<title>[要約] Rethinking Test-Time Training: Tilting The Latent Distribution For Few-Shot Source-Free Adaptation</title>
+<link>https://arxiv.org/abs/2602.02633</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02633v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02633'>元記事を読む</a></p><p><strong>一言で言うと:</strong> モデルのパラメータを一切更新せずに、テスト時に少数ショットだけでタスク適応を実現する新手法を提案しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>パラメータ凍結（更新禁止）下での少数ショット分類に対応するテスト時適応手法。</li>
+<li>エンコーダーの潜在表現分布に対し「指数的ティルト（重み付け）」を施し、KL距離で最適化。</li>
+<li>少数のラベル付きサポートセットから算出するタスク類似度スコアを用いて推論を補正。</li>
+<li>パラメータ更新型手法に匹敵する性能を、より厳しい制約下で安定的に達成。</li>
+</ul>
+<p><strong>So What?:</strong> モデル改変が許されない環境でも、汎用モデルを迅速に新タスクに適応できるため、実運用での柔軟性や安全性が大幅に向上すると期待されます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Relaxed Triangle Inequality for Kullback-Leibler Divergence Between Multivariate Gaussian Distributions</title>
+<link>https://arxiv.org/abs/2602.02577</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02577v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02577'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 多変量ガウス分布間のKLダイバージェンス（情報差異）は厳密な三角不等式を満たさないものの、ある条件下でゆるい三角不等式が成り立つ上限値を明らかにした研究です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>KLダイバージェンスは距離のように振る舞わず、普通の三角不等式を満たさない。</li>
+<li>既存研究は「緩い三角不等式」の存在を示し、3つの多変量ガウス分布の間のKLダイバージェンスに上限式を提案していた。</li>
+<li>本研究はその上限の厳密な最大値と、それが達成される条件を初めて示した。</li>
+<li>小さな値（$\epsilon_1,\epsilon_2$）の場合、上限は $\epsilon_1+\epsilon_2+\sqrt{\epsilon_1\epsilon_2}$（補正項を除く） と具体的に求まる。</li>
+<li>応用例としてフロー系生成モデルによる異常検知や安全な強化学習への利用を示した。</li>
+</ul>
+<p><strong>So What?:</strong> KLダイバージェンスの「距離っぽさ」を理論的に捉えられることで、機械学習の応用である異常検知や安全強化学習のアルゴリズム設計がより精緻に行えるようになります。特に多変量ガウスを扱う場面での信頼性解析や性能保証に役立つ知見です。</p>]]></description>
+</item>
+<item>
+<title>[要約] What Drives Length of Stay After Elective Spine Surgery? Insights from a Decade of Predictive Modeling</title>
+<link>https://arxiv.org/abs/2602.02517</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02517v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02517'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 選択的脊椎手術後の入院期間を機械学習で高精度に予測できるが、実臨床への活用には標準化と検証の課題がある。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>過去10年間の研究から、機械学習モデルは従来の統計手法よりも入院期間予測で高い精度（AUC0.94〜0.99）を示す。</li>
+<li>重要な予測因子は年齢、併存症（特に高血圧・糖尿病）、BMI、手術の種類・時間、脊椎の手術レベル数など。</li>
+<li>用いられたモデルはロジスティック回帰やランダムフォレスト、ニューラルネットワークなど多様だが、検証の一貫性に欠ける。</li>
+<li>標準化された指標設定と透明な報告が今後の実用化には不可欠とされる。</li>
+</ul>
+<p><strong>So What?:</strong> 入院期間の正確な予測は退院計画の最適化や病院リソースの効率的管理につながり、患者の回復支援や医療現場の負担軽減に役立つ。とはいえ、機械学習モデルを日常診療で活かすにはさらなる検証と標準的な運用体制が求められる。</p>]]></description>
+</item>
+<item>
+<title>[要約] Learning ORDER-Aware Multimodal Representations for Composite Materials Design</title>
+<link>https://arxiv.org/abs/2602.02513</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02513v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02513'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 複雑な連続空間を持つ複合材料設計において、順序情報を活かしたマルチモーダル学習フレームワーク「ORDER」が性能を大幅に向上させた。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来のグラフ構造中心のAIモデルは、連続的・非線形な複合材料の設計空間には適応困難。</li>
+<li>ORDERは設計の「順序（Ordinality）」を重視し、似た特性を持つ材料を近い潜在表現に配置。</li>
+<li>複数データソースを統合するマルチモーダル学習で、希薄なデータ環境でも効果的に学習可能。</li>
+<li>ナノファイバー強化複合材データセットを含む複数の評価で従来手法を上回る成果を実証。</li>
+</ul>
+<p><strong>So What?:</strong> 複合材料の設計は構造が複雑で工学的に重要な分野。ORDERのような順序情報を取り込んだ学習技術は、限られたデータから高精度な特性予測や新材料創出を可能にし、素材開発のスピードと品質を飛躍的に高める可能性がある。</p>]]></description>
+</item>
+<item>
+<title>[要約] Sparse Adapter Fusion for Continual Learning in NLP</title>
+<link>https://arxiv.org/abs/2602.02502</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02502v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02502'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 新しいSparse Adapter Fusion Method（SAFM）は、自然言語処理の継続学習で効率的にパラメータを再利用し、性能を保ちながら不要なパラメータ増加を抑える革新的手法です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>継続学習での「壊滅的忘却」（過去知識の消失）やタスク間の不相似性による問題を解決。</li>
+<li>SAFMは「決定段階」と「調整段階」の2段階で動作し、既存のアダプターを再利用するか新規追加かを賢く判断。</li>
+<li>パラメータ消費を抑えつつ、同じタスク内の知識差別化を促進する層ごとの学習損失を導入。</li>
+<li>SOTA（最先端）手法と比べ、約60％以下のパラメータで同等以上の性能を実現。</li>
+</ul>
+<p><strong>So What?:</strong> 継続学習の効率化により、頻繁なモデル再訓練や巨大モデルの負荷を軽減できるので、実用的かつ省リソースなNLPシステム構築に直結します。特に多様なタスクを扱うAIの長期間運用に最適といえるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Augmenting Parameter-Efficient Pre-trained Language Models with Large Language Models</title>
+<link>https://arxiv.org/abs/2602.02501</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02501v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02501'>元記事を読む</a></p><p><strong>一言で言うと:</strong> パラメータ効率の良い事前学習済み言語モデルを大規模言語モデルと組み合わせて、サイバーセキュリティ分野での性能と信頼性を向上させる新手法が提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>データラベルが不足しがちな現実のサイバーセキュリティ領域で、大規模言語モデルを自動ラベル付けに活用。</li>
+<li>予測の信頼度が低いケースに対して、大規模言語モデルをフォールバック（補助）メカニズムとして使用。</li>
+<li>パラメータ効率の良い微調整技術（layer freezingやcompacters）を組み合わせてモデル更新の柔軟性を確保。</li>
+<li>実験で、これらの戦略がサイバーセキュリティ特化タスクでのモデルの堅牢性と信頼性を高めることを実証。</li>
+</ul>
+<p><strong>So What?:</strong> ラベル不足や頻繁なデータ変化という課題を抱えるサイバーセキュリティ分野で、効率的かつ信頼できるAIを実現できるため、現場での実用的なモデル運用や迅速な対応が期待できる。</p>]]></description>
+</item>
+<item>
+<title>[要約] UNSO: Unified Newton Schulz Orthogonalization</title>
+<link>https://arxiv.org/abs/2602.02500</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02500v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02500'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 従来のNewton-Schulz反復法を統合的に改良し、安定かつ効率的に行列の直交化ができる新フレームワーク「UNSO」が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Newton-Schulz反復はMuオンオプティマイザー（高性能な最適化手法）やStiefel多様体（直交行列群の数学的空間）で注目されているが、従来法は計算負荷と不安定性が課題だった。</li>
+<li>UNSOでは、多項式展開を避け、行列のべき乗の寄与を評価して無駄な項を省き、学習可能な係数を持つ多項式を推奨。</li>
+<li>この多項式係数は最適化可能であり、安定かつ優れた収束性を実現している。</li>
+<li>コードも公開されており、実装・応用のハードルが下がっている（https://github.com/greekinRoma/Unified_Newton_Schulz_Orthogonalization）。</li>
+</ul>
+<p><strong>So What?:</strong> 行列直交化は機械学習や物理シミュレーションで重要な処理なので、UNSOの効率的かつ安定した手法はより高速で信頼性の高いアルゴリズム開発に役立ち、最新の最適化技術を追求する研究者・開発者にとって強力な武器になるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] A Reproducible Framework for Bias-Resistant Machine Learning on Small-Sample Neuroimaging Data</title>
+<link>https://arxiv.org/abs/2602.02920</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02920v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02920'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 小規模な神経画像データでも偏りを抑えた再現性の高い機械学習フレームワークを提案しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>領域知識を活かした特徴エンジニアリング（データの重要な特徴抽出）を組み合わせている</li>
+<li>モデル選択と性能評価に別々のクロスバリデーション（検証方法）を用いることでバイアスを削減</li>
+<li>解釈可能性のある特徴を重要度ランキングで抽出し、理解しやすくデータ次元を圧縮</li>
+<li>深部脳刺激の認知機能予測MRIデータセットで、バランスの取れた精度約66%を達成</li>
+</ul>
+<p><strong>So What?:</strong> データが少なくても偏りが少ない評価が可能なので、医療などの限られたデータ環境下で信頼できる機械学習モデル開発に役立ちます。解釈性もあるため、専門家が結果を理解しやすい点も魅力です。</p>]]></description>
+</item>
+<item>
+<title>[要約] Fine-Tuning Language Models to Know What They Know</title>
+<link>https://arxiv.org/abs/2602.02605</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02605v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02605'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 言語モデルが「自分が何を知っているか」を正確に認識し、それを反映する能力を高める新手法が提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>メタ認知（自分の知識状態を意識する能力）を評価するためのデュアルプロンプト法を開発した。</li>
+<li>ESMA（進化戦略によるメタ認知調整法）でモデルの内的知識と外的応答の整合性を強化。</li>
+<li>未学習の多様な状況でも自己知識の参照能力が向上し、汎用性が高まった。</li>
+<li>改善はわずかなパラメータ調整によってもたらされたことが解析で判明。</li>
+</ul>
+<p><strong>So What?:</strong> AIが自分の知識の有無や精度を正しく把握できれば、不確実な回答を避けたり信頼できる情報だけを提供したりできるため、実用性や安全性が格段に向上する。今後のAI活用において重要な進展と言える。</p>]]></description>
+</item>
+<item>
+<title>[要約] A Distinct Communication Strategies Model of the Double Empathy Problem</title>
+<link>https://arxiv.org/abs/2602.02562</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.02562v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.02562'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 自閉症スペクトラムと定型発達者間の共感困難は、一方の問題ではなく双方のコミュニケーション違いによる双方向の現象だと数学モデルで示された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>「ダブルエンパシー問題」は共感の形成が双方のコミュニケーション差から起きる双方向の課題と捉え直した概念。</li>
+<li>著者らはコミュニケーションの好みの違いだけで共感が失われるメカニズムを数理モデルで再現した。</li>
+<li>モデル解析により、実際の対話における共感の推移を予測できる可能性が示された。</li>
+<li>今後の実験設計の提案も含め、理論の実証と発展が期待されている。</li>
+</ul>
+<p><strong>So What?:</strong> 共感の困難は一方の欠如ではなく双方向の問題と理解すると、対話や支援方法の新しいアプローチが見えてくる。科学的根拠に基づくモデルは実践的なコミュニケーション改善に役立てられそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Systematic review of self-supervised foundation models for brain network representation using electroencephalography</title>
+<link>https://arxiv.org/abs/2602.03269</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.03269v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.03269'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 自己教師あり学習（SSL）を用いたトランスフォーマー基盤モデルが、マルチチャネル脳波（EEG）解析の新たな標準となりつつあるが、まだ汎用性や評価基準の統一が課題となっている。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>EEG基盤モデルは大量のラベルなしデータで事前学習し、多様な下流タスクに適応可能。</li>
+<li>多くの研究がTemple University EEG Corpusを主要データセットとして使用し、トランスフォーマーが主流のアーキテクチャ。</li>
+<li>自己教師あり学習の手法としてマスクオートエンコーダーが多く用いられ、対照学習も一部で採用されている。</li>
+<li>現在は単一タスクのファインチューニングが主であり、真の汎用EEGモデル開発には多様なデータと評価基準の整備が必要。</li>
+</ul>
+<p><strong>So What?:</strong> EEG解析の自動化と汎用化は脳科学・医療領域の革新に直結します。多様で大規模なデータや評価指標が整えば、疾患診断や脳機能研究の効率化・精度向上に大きく寄与する可能性が高いです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Estimating measures of information processing during cognitive tasks using functional magnetic resonance imaging</title>
+<link>https://arxiv.org/abs/2602.03240</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.03240v1</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.03240'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 認知課題中の脳の情報処理を定量化する新たなfMRI解析手法が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来のfMRI解析が活性化や機能的結合に偏る中、脳内の情報の保持や伝達を数値化する枠組みを提案。</li>
+<li>情報保持量（AIS）、情報の流れ（TE）、相乗効果と冗長性の比較（net synergy）を算出し、情報処理の特徴を定量的に評価。</li>
+<li>相互情報量（クロスミューチュアルインフォメーション）を用い、安静時と課題時のデータを組み合わせてノイズやサンプル不足を克服。</li>
+<li>作業記憶課題で実証され、前頭・頭頂領域での情報保持増加、制御経路での情報流の活性化、全体的な冗長性の増加が示された。</li>
+</ul>
+<p><strong>So What?:</strong> この方法により、認知機能を情報処理の観点で深く理解でき、精神疾患の解析や脳機能の個別最適化にも活用できる可能性があり、より精度の高い脳科学の発展に貢献します。</p>]]></description>
+</item>
 </channel></rss>
