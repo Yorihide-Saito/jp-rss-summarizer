@@ -4,35 +4,109 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 04 Feb 2026 12:55:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 01:53:15 +0000</lastBuildDate>
 <item>
-<title>[要約] Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering</title>
-<link>https://github.com/bethington/ghidra-mcp</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46882389</guid>
-<pubDate>Wed, 04 Feb 2026 06:51:51 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.com/bethington/ghidra-mcp'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Ghidra MCP ServerはAI支援によるリバースエンジニアリングのための110種のツールセットを提供する画期的なプラットフォームです。</p>
+<title>[要約] AI is killing B2B SaaS</title>
+<link>https://nmn.gl/blog/ai-killing-b2b-saas</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46888441</guid>
+<pubDate>Wed, 04 Feb 2026 17:09:28 +0000</pubDate>
+<description><![CDATA[<p><a href='https://nmn.gl/blog/ai-killing-b2b-saas'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIの進化がB2B向けSaaS市場のビジネスモデルを根本から変えつつある。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>Ghidra MCP Serverは、NSAが開発した解析ツールGhidraの拡張機能として機能する。</li>
-<li>110種類のAIベースツールが統合され、自動解析やコード理解を強力にサポートする。</li>
-<li>GitHubでオープンソースとして公開され、誰でも利用・カスタマイズ可能。</li>
-<li>専門知識が浅いユーザーでも高度な解析が行いやすくなる可能性がある。</li>
+<li>AIツールが高機能な自動化やカスタマイズを可能にし、従来のB2B SaaS（企業向けクラウドサービス）の価値提案を脅かしている。</li>
+<li>多くのSaaS企業がサブスクリプション収益に依存しているが、AIベースの無料または低価格ソリューションがユーザーを引き寄せている。</li>
+<li>AIによってサービスの導入障壁が下がり、顧客自身がツールを作成・最適化できる環境が整いつつある。</li>
+<li>この変化は、SaaS事業者にとって製品戦略の再考と迅速なイノベーション推進が不可欠となっていることを示す。</li>
 </ul>
-<p><strong>So What?:</strong> AIサポートによりリバースエンジニアリングの効率と精度が飛躍的に向上し、セキュリティ調査や脆弱性分析を迅速に進めたいエンジニアや研究者にとって強力な武器となるため、知っておいて損はありません。</p>]]></description>
+<p><strong>So What?:</strong> AIによる競争激化はB2B SaaS企業にとって脅威である一方、ユーザー側はより柔軟で低コストな選択肢を得られるチャンス。これを踏まえ、企業はAIを活用した差別化戦略を早急に構築する必要があり、個人や中小企業でも効率化ツールの自作が現実的になっている。</p>]]></description>
 </item>
 <item>
-<title>[要約] VfL Wolfsburg turns ChatGPT into a club-wide capability</title>
-<link>https://openai.com/index/vfl-wolfsburg</link>
-<guid isPermaLink='false'>https://openai.com/index/vfl-wolfsburg</guid>
-<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-<description><![CDATA[<p><a href='https://openai.com/index/vfl-wolfsburg'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ブンデスリーガのVfLヴォルフスブルクが、ChatGPTをクラブ全体で活用し、効率や創造性を高めながらサッカーの本質を保っている。</p>
+<title>[要約] Show HN: Morph – Videos of AI testing your PR, embedded in GitHub</title>
+<link>https://morphllm.com/products/glance</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46891827</guid>
+<pubDate>Wed, 04 Feb 2026 21:10:55 +0000</pubDate>
+<description><![CDATA[<p><a href='https://morphllm.com/products/glance'>元記事を読む</a></p><p><strong>一言で言うと:</strong> GitHubのプルリクエスト(PR)にAIが動的に操作動画を添えてレビューの効率と精度を革新するツールが登場。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>ChatGPTを単なる試験的ツールではなく、クラブ全員が使う実践的な能力として導入している。</li>
-<li>人（スタッフや選手）にフォーカスし、AIが補助する形で業務効率やアイデア創出を促進。</li>
-<li>サッカーの情熱やクラブのアイデンティティを損なわずに、知識共有や意思決定を強化している。</li>
-<li>先進的なAI活用が、スポーツクラブ運営の新たなスタンダードになる可能性を示唆。</li>
+<li>従来の差分（diff）ベースのPRレビューは巨大かつAI生成コードが増え、人間の注意力が追いつかない問題がある</li>
+<li>AIがReactアプリの変更箇所を特定し、実際の動作を操作しながら動画を生成しPRに埋め込む仕組みを開発</li>
+<li>Reactの内部構造（Fiberツリー）を解析して変更箇所のUI要素を正確に特定し、RL（強化学習）でユーザー行動を模倣</li>
+<li>これによりユニットテストで見逃すクリック不可能な要素やスクロールトラップなどの問題も検出可能</li>
 </ul>
-<p><strong>So What?:</strong> AIを導入しても人が主役であることを重視することで、テクノロジーの恩恵を最大化できる。これからのスポーツや他の分野での効率化や革新に活用でき、単なる効率化を超えた深い価値創造につながるヒントになるはずです。</p>]]></description>
+<p><strong>So What?:</strong> 開発者はPRの膨大なテキスト差分を読む負担から解放され、視覚的かつ具体的な動作例でレビューできるため品質向上と効率化が期待できる。特に大規模なフロントエンド開発でミスの早期発見に役立つ革新的アプローチだ。</p>]]></description>
+</item>
+<item>
+<title>[要約] A real-world benchmark for AI code review</title>
+<link>https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46891860</guid>
+<pubDate>Wed, 04 Feb 2026 21:13:17 +0000</pubDate>
+<description><![CDATA[<p><a href='https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIのコードレビュー能力を実際の開発現場に近い環境で評価するための新しいベンチマークが開発されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Qodoが実際のソフトウェア開発プロジェクトから収集したリアルなコード変更を使い、AIモデルのコードレビュー性能を評価。</li>
+<li>単なる静的解析や自動生成とは異なり、コンテキストを理解し問題指摘や改善提案ができるかに着目。</li>
+<li>従来のベンチマークは人工的なケースが多く、実務に適用する際のギャップがあった点を改善。</li>
+<li>このベンチマークはAIのコードレビューツールの開発や評価、導入判断に役立つ実証的な指標となる可能性。</li>
+</ul>
+<p><strong>So What?:</strong> AIにコードレビューを任せる際の信頼性や実用性を見極めやすくなり、効率的なソフトウェア開発や品質向上に直結する判断材料になります。開発チームやツール開発者がより実践的なAI活用を進める手助けになるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Sam Altman responds to Anthropic&apos;s &quot;Ads are coming to AI. But not to Claude&quot; ads</title>
+<link>https://xcancel.com/sama/status/2019139174339928189</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46894151</guid>
+<pubDate>Thu, 05 Feb 2026 00:50:11 +0000</pubDate>
+<description><![CDATA[<p><a href='https://xcancel.com/sama/status/2019139174339928189'>元記事を読む</a></p><p><strong>一言で言うと:</strong> サム・アルトマンが、Anthropicの「広告はAIに来るがClaudeには来ない」という広告キャンペーンにユーモアを交えて応答しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Anthropicが自社AI「Claude」には広告を載せないと宣言し、広告付きAIの流れに一石を投じた。</li>
+<li>サム・アルトマンはこのキャンペーンに対し、やや軽妙なトーンでコメントしつつも広告収益モデルの可能性を示唆。</li>
+<li>この議論はAIサービスの収益化手法やユーザー体験のバランスを考えるうえで注目されている。</li>
+<li>ユーザーと開発者双方の受け取り方次第で、広告の導入が今後のAI進化に影響を与える可能性がある。</li>
+</ul>
+<p><strong>So What?:</strong> AIの広告導入は今後避けられない話題で、どのように実装するかはユーザー体験を左右します。興味深いのは、主要プレイヤーたちが異なる戦略を打ち出しており、今後の動向を見極めることが新たなAIサービス選びの鍵になりそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Unlocking the Codex harness: how we built the App Server</title>
+<link>https://openai.com/index/unlocking-the-codex-harness</link>
+<guid isPermaLink='false'>https://openai.com/index/unlocking-the-codex-harness</guid>
+<pubDate>Wed, 04 Feb 2026 13:00:00 GMT</pubDate>
+<description><![CDATA[<p><a href='https://openai.com/index/unlocking-the-codex-harness'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Codex App Serverを使って双方向JSON-RPC API経由でCodexエージェントを埋め込み、進行状況のストリーミングやツール連携、承認プロセスを効率化しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Codex App Serverは双方向（双方向で通信可能な）JSON-RPC APIを提供し、リアルタイムで進捗をストリーミングできる。</li>
+<li>ツールの使用や変更差分（diff）の管理がAPI経由で可能になった。</li>
+<li>ユーザーの承認プロセスも統合され、操作性と安全性が向上している。</li>
+</ul>
+<p><strong>So What?:</strong> この仕組みにより、開発者はCodexエージェントを自在にカスタマイズしやすくなり、効率的かつ透明性の高いワークフローを実現できる。最先端の自動化ツールを活用したい人に特に役立つ情報です。</p>]]></description>
+</item>
+<item>
+<title>[要約] Navigating health questions with ChatGPT</title>
+<link>https://openai.com/index/navigating-health-questions</link>
+<guid isPermaLink='false'>https://openai.com/index/navigating-health-questions</guid>
+<pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+<description><![CDATA[<p><a href='https://openai.com/index/navigating-health-questions'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ChatGPTを活用して、家族ががん治療に関する重要な意思決定を医師の助言と共にサポートした事例が紹介されています。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>家族がChatGPTを使い、がん治療の複雑な質問や情報収集を効率化できた。</li>
+<li>医師の専門的な指導とAIの情報が相互補完的に役立った。</li>
+<li>AIツールは専門医との相談を深めるための準備として有効である。</li>
+<li>治療方針の理解を助け、家族の不安軽減にもつながった。</li>
+</ul>
+<p><strong>So What?:</strong> 医療の専門知識が限られる中で、ChatGPTのようなAIを賢く使うことで、患者や家族が自分たちの健康に主体的に関われる時代が来ていると実感できる内容です。医師との対話をより充実させたい人に特に役立ちそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Why Nvidia builds open models with Bryan Catanzaro</title>
+<link>https://www.interconnects.ai/p/why-nvidia-builds-open-models-with</link>
+<guid isPermaLink='false'>https://www.interconnects.ai/p/why-nvidia-builds-open-models-with</guid>
+<pubDate>Wed, 04 Feb 2026 18:00:28 GMT</pubDate>
+<description><![CDATA[<p><a href='https://www.interconnects.ai/p/why-nvidia-builds-open-models-with'>元記事を読む</a></p><p><strong>一言で言うと:</strong> NvidiaはBryan Catanzaroと共に、Nemotronプロジェクトを通じてオープンなAIモデル開発に挑戦している。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Nemotronプロジェクトは、過去から現在、未来にかけてオープンなモデル構築を推進している。</li>
+<li>Bryan CatanzaroはNvidiaでAIと機械学習の最先端を牽引しているキーパーソン。</li>
+<li>オープンモデルとは、誰でもアクセス・改良可能なAIモデルを指し、イノベーション促進が狙い。</li>
+<li>Nvidiaは独自のハードウェア強みを活かしつつ、コミュニティ主導の開発を支援している。</li>
+</ul>
+<p><strong>So What?:</strong> AI開発の今後はオープンな協業がカギで、Nvidiaの取り組みは多様な研究者や企業が技術を共有しやすくするため、あなたの未来のテクノロジー利用法にも直接影響するかもしれません。</p>]]></description>
 </item>
 </channel></rss>

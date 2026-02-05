@@ -4,5 +4,20 @@
 <title>日本語要約RSS - ジャンル3：野心・戦略思考 (Strategy &amp; Performance)</title>
 <link>https://github.com/</link>
 <description>ジャンル3：野心・戦略思考 (Strategy &amp; Performance)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 04 Feb 2026 12:55:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 01:52:37 +0000</lastBuildDate>
+<item>
+<title>[要約] IABIED Book Review: Core Arguments and Counterarguments</title>
+<link>https://www.lesswrong.com/posts/qFzWTTxW37mqnE6CA/iabied-book-review-core-arguments-and-counterarguments</link>
+<guid isPermaLink='false'>qFzWTTxW37mqnE6CA</guid>
+<pubDate>Sat, 24 Jan 2026 14:25:35 GMT</pubDate>
+<description><![CDATA[<p><a href='https://www.lesswrong.com/posts/qFzWTTxW37mqnE6CA/iabied-book-review-core-arguments-and-counterarguments'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AI超知能の価値観を人間に完全に合わせること（AIアライメント）は非常に難しく、失敗すれば人類絶滅のリスクが高いと主張されるが、その困難さには反論も多い。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>本書は、超知能（ASI）が近い将来生まれる可能性が高く、そのアライメント問題（人間の価値観に沿った動作を保証すること）が極めて困難だと主張。</li>
+<li>アライメント難易度の根拠は、①人間の価値観は極めて特異で壊れやすい狭い目標であること、②現行のAI訓練手法は目標設定に曖昧さがあること、③宇宙探査や原子力安全などと似た高リスクのエンジニアリング挑戦だという類推。</li>
+<li>この主張に対しては、「人間の価値観は自然な抽象概念でAIも獲得しやすい」「勾配降下法によるAI訓練は進化よりも精密」「大規模ニューラルネットは堅牢で安全設計が可能」などの反論がある。</li>
+<li>AIの未来に対する4つの主要思想派閥（懐疑派、楽観派、IABIED派、継承派）があり、それぞれリスク評価や対応策に大きな違いがある。</li>
+</ul>
+<p><strong>So What?:</strong> AI開発における最重要課題の一つが「アライメント問題」の難しさにあるため、この議論の行方は技術開発の進め方や社会的規制に直結します。楽観的な証拠もある一方で、悲観的な可能性を真剣に検討しつつ、確かな根拠に基づいた現実的な対応策を多角的に模索する必要があります。AI安全性に興味があるなら、この議論を理解し、技術と倫理のバランス感覚を鍛えておく価値が大いにあるでしょう。</p>]]></description>
+</item>
 </channel></rss>

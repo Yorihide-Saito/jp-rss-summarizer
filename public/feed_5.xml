@@ -4,77 +4,79 @@
 <title>日本語要約RSS - ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 04 Feb 2026 12:55:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 01:53:40 +0000</lastBuildDate>
 <item>
-<title>[要約] Nexuscale AI</title>
-<link>https://www.producthunt.com/products/nexuscale-ai</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1061823</guid>
-<pubDate>2026-01-12T06:12:34-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/nexuscale-ai'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Nexuscale AIは、リード（見込み顧客）を自動で見つけてミーティングを設定してくれるAI営業アシスタントです。</p>
+<title>[要約] Candle (YC F24)</title>
+<link>https://www.producthunt.com/products/candle-4</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/982767</guid>
+<pubDate>2025-06-23T15:51:44-07:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/candle-4'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Candleは毎日一緒に過ごす特別なひとときを共有することにフォーカスした新しいサービスです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>AIが営業活動の初期プロセスを自動化し、効率化を実現</li>
-<li>適切な見込み顧客を探し出し、そのままミーティングの予約まで代行</li>
-<li>時間を大幅に節約し、営業担当者はより戦略的な業務に集中可能</li>
-<li>シンプルな導入で即戦力になるため、スタートアップから大企業まで幅広く活用できそう</li>
+<li>YC F24（Y Combinator 2024年秋バッチ）のスタートアップが開発</li>
+<li>「One shared moment a day」（毎日一つの共有された瞬間）をテーマにしている</li>
+<li>ユーザー同士のつながりや親密なコミュニケーションを促進する仕組みと思われる</li>
+<li>詳細は限定的だが、今後の進展や使い勝手に注目が集まっている</li>
 </ul>
-<p><strong>So What?:</strong> 営業活動の負担を減らし、成果を最大化したい人にとって、Nexuscale AIは強力な味方。無駄な手間を省くことで、本当に重要な顧客対応や成長戦略に注力できる点が、とても魅力的です。</p>]]></description>
+<p><strong>So What?:</strong> 日々の忙しさの中で、質の高い「共有体験」を持つことは心の豊かさに直結するので、新しい形のコミュニケーションツールとして注目です。情報感度の高い人は早めにチェックしておくと話題の波に乗りやすいでしょう。</p>]]></description>
 </item>
 <item>
-<title>[要約] SERA</title>
-<link>https://www.producthunt.com/products/allen-institute-of-artificial-intelligence</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1072594</guid>
-<pubDate>2026-02-03T22:39:14-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/allen-institute-of-artificial-intelligence'>元記事を読む</a></p><p><strong>一言で言うと:</strong> どんなコードリポジトリ（ソースコードの保管場所）にもすばやく適応するコーディング支援エージェント「SERA」が登場。</p>
+<title>[要約] Postproxy</title>
+<link>https://www.producthunt.com/products/postproxy</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1072275</guid>
+<pubDate>2026-02-03T06:19:02-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/postproxy'>元記事を読む</a></p><p><strong>一言で言うと:</strong> PostproxyはInstagramやTikTok、YouTubeなど複数プラットフォームに一括で投稿できる画期的なAPIです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>SERAは高速かつ使いやすいAIコーディングエージェントで、既存のリポジトリに即座に対応可能。</li>
-<li>複雑なコードベースでも効率的に解析し、適切なコード提案や補助を行う。</li>
-<li>開発者の手間を減らし、コードを書くスピードと質を向上させることが狙い。</li>
+<li>一つのAPIで複数のSNSに同時投稿が可能</li>
+<li>Instagram、TikTok、YouTubeといった主要な動画・画像プラットフォームに対応</li>
+<li>SNS運用を効率化し、開発者やマーケターの時間を大幅に節約</li>
+<li>API形式なので、各種アプリやサービスと簡単に連携できる</li>
 </ul>
-<p><strong>So What?:</strong> SERAのような適応性の高いコーディングエージェントを活用すれば、多様なプロジェクトで開発効率が大幅にアップ。特に新しいプロジェクトや他者のコードを扱う際の理解コストを減らせるため、時間の節約やミスの削減につながるでしょう。</p>]]></description>
+<p><strong>So What?:</strong> SNSごとに投稿作業を繰り返す手間を省けるため、コンテンツ戦略の立案やクリエイティブ制作に集中できるようになります。最先端のWebサービスや自社ツールに組み込みやすく、運用効率を格段に向上させる武器になるでしょう。</p>]]></description>
 </item>
 <item>
-<title>[要約] Genstore.ai</title>
-<link>https://www.producthunt.com/products/genstore-ai-2</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1059870</guid>
-<pubDate>2026-01-07T13:21:54-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/genstore-ai-2'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Genstore.aiは、数分でエージェント機能を備えたオンラインストアをテスト・改善・公開できるツールです。</p>
+<title>[要約] Multitui</title>
+<link>https://www.producthunt.com/products/multitui</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1072231</guid>
+<pubDate>2026-02-03T04:49:26-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/multitui'>元記事を読む</a></p><p><strong>一言で言うと:</strong> macOS上でClaudeやCodexなどのAIベースTUI（テキストユーザーインターフェース）を使える新ツール「Multitui」が登場しました。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>エージェント型（自動対応するAIやボットを搭載）ストアフロントを短時間で構築可能。</li>
-<li>テストと反復的な改善を容易に行いながら、素早くローンチできる。</li>
-<li>ユーザー体験の向上が期待でき、販売プロセスの自動化による効率化にも寄与。</li>
+<li>Multituiは複数のAIチャットモデル（Claude、Codexなど）を一括で操作できるTUI環境を提供する</li>
+<li>macOS向けに最適化されており、コードやテキスト操作をターミナル感覚で高速に行える</li>
+<li>CLI（コマンドラインインターフェース）好きには新しいAIとの接し方を提案するツール</li>
 </ul>
-<p><strong>So What?:</strong> 変化の激しいEC市場でスピーディーに顧客接点を持ちたいビジネスに最適。実験的な新機能も気軽に試せるため、競争優位を築きやすくなります。</p>]]></description>
+<p><strong>So What?:</strong> AIとの対話をGUI（グラフィカルユーザーインターフェース）ではなく、よりシンプルで軽量なテキスト画面で行いたい開発者や技術好きに最適。作業効率アップや自動化の幅が広がりそうです。</p>]]></description>
 </item>
 <item>
-<title>[要約] CreateOS</title>
-<link>https://www.producthunt.com/products/createos</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1066866</guid>
-<pubDate>2026-01-22T17:05:55-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/createos'>元記事を読む</a></p><p><strong>一言で言うと:</strong> CreateOSは、あらゆるAIコーディングツールからのアプリ開発とデプロイを一元化するプラットフォームです。</p>
+<title>[要約] Code smells for AI agents: Q&amp;A with Eno Reyes of Factory</title>
+<link>https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/</link>
+<guid isPermaLink='false'>d4245515-5e30-4965-9ec5-b81a5cc0d339</guid>
+<pubDate>Wed, 04 Feb 2026 15:00:00 GMT</pubDate>
+<description><![CDATA[<p><a href='https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIエージェントのコードにも「コードスメル」（品質の悪いコードの兆候）は存在し、高品質なソフトウェアには依然として良質なコードが不可欠である。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>AIコーディングツール（自動でコード生成を助けるソフト）を複数使っても、CreateOS上で一つの環境にまとめられる</li>
-<li>アプリの構築から公開（デプロイ）までをワンストップで管理可能</li>
-<li>開発プロセスの効率化と手間削減が期待できる</li>
-<li>複数のAIツールによる開発の継続性と互換性を高める狙いがある</li>
+<li>AIエージェントの開発でも伝統的なソフトウェア品質の課題があり、「コードスメル」が性能や保守性に影響する。</li>
+<li>FactoryのEno Reyes氏は、AI特有の複雑さがコード管理の難易度を高めていると指摘。</li>
+<li>コードスメルの検出と対処は、AIエージェントの信頼性向上やバグ減少につながる。</li>
+<li>AI時代でもプログラミングの基本は変わらず、読みやすく保守しやすいコードを書くことが重要。</li>
 </ul>
-<p><strong>So What?:</strong> これにより、AI技術を活用したアプリ開発がよりシームレスかつスピーディーになり、開発者やスタートアップが迅速にプロダクトを世に出せるため、今後のAI活用の幅が広がっていくと考えられます。</p>]]></description>
+<p><strong>So What?:</strong> AI技術の発展に伴い、つい機能優先になりがちなコード品質だが、基本を押さえた設計やレビューでトラブルを防げる。最先端の開発者にも品質管理の確かな目が求められているという点で、自分のスキルアップやチーム運営に活かせそうです。</p>]]></description>
 </item>
 <item>
-<title>[要約] Xcode 26.3</title>
-<link>https://www.producthunt.com/products/xcode</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1072468</guid>
-<pubDate>2026-02-03T14:05:32-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/xcode'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Xcode 26.3は「コーディングエージェント」を活用し、自律的に複雑なプログラミング作業を進められるようになりました。</p>
+<title>[要約] Pick your agent: Use Claude and Codex on Agent HQ</title>
+<link>https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/</link>
+<guid isPermaLink='false'>https://github.blog/?p=93566</guid>
+<pubDate>Wed, 04 Feb 2026 17:00:19 +0000</pubDate>
+<description><![CDATA[<p><a href='https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> GitHubのAgent HQでAnthropicのClaudeとOpenAIのCodexがCopilot Pro+またはEnterprise向けにプレビュー公開され、コード支援の選択肢が広がりました。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>新機能「コーディングエージェント」は人工知能を活用し、開発者の指示なしにタスクを自動実行できる。</li>
-<li>複雑で多段階のコーディングタスクも効率的に処理可能で、開発時間の短縮が期待される。</li>
-<li>既存のXcode環境に統合されており、従来の開発フローを大きく変えずに導入できる。</li>
+<li>Claude（Anthropic製）とCodex（OpenAI製）のAIエージェントがGitHubとVS Code上で利用可能に</li>
+<li>利用にはCopilot Pro+またはEnterpriseサブスクリプションが必要</li>
+<li>エージェントを選んでコード補完や生成など開発支援が可能</li>
+<li>従来のGitHub Copilotに加え、多様なAIツールを同一環境で試せる新機能</li>
 </ul>
-<p><strong>So What?:</strong> 開発者は単純作業から解放され、よりクリエイティブで高付加価値な部分に集中できるため、効率アップと質の向上を同時に実現しやすくなります。</p>]]></description>
+<p><strong>So What?:</strong> 開発者は自分のニーズや好みに合わせてAIエージェントを選べるため、生産性向上や最適なコード支援が期待できる。最新AI技術を手軽に使い分けて効率的な開発環境を実現しやすくなった点が特に魅力的です。</p>]]></description>
 </item>
 </channel></rss>
