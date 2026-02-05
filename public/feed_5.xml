@@ -4,79 +4,77 @@
 <title>日本語要約RSS - ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Thu, 05 Feb 2026 01:53:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 12:58:58 +0000</lastBuildDate>
 <item>
-<title>[要約] Candle (YC F24)</title>
-<link>https://www.producthunt.com/products/candle-4</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/982767</guid>
-<pubDate>2025-06-23T15:51:44-07:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/candle-4'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Candleは毎日一緒に過ごす特別なひとときを共有することにフォーカスした新しいサービスです。</p>
+<title>[要約] AutoBandStudio</title>
+<link>https://www.producthunt.com/products/autobandstudio</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1072828</guid>
+<pubDate>2026-02-04T06:22:58-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/autobandstudio'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIがあなたのメロディを自動でフルアレンジに変換してくれるサービスです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>YC F24（Y Combinator 2024年秋バッチ）のスタートアップが開発</li>
-<li>「One shared moment a day」（毎日一つの共有された瞬間）をテーマにしている</li>
-<li>ユーザー同士のつながりや親密なコミュニケーションを促進する仕組みと思われる</li>
-<li>詳細は限定的だが、今後の進展や使い勝手に注目が集まっている</li>
+<li>AutoBandStudioは簡単なメロディ入力をもとに、即座に伴奏や楽器アレンジを自動生成するAIツール。</li>
+<li>特別な音楽制作の知識がなくても、プロ並みの曲作りが可能になる仕組み。</li>
+<li>作曲のアイデア出しやデモ制作のスピードアップが期待できる。</li>
+<li>オンラインで手軽に利用でき、クリエイターやアマチュア双方に向いている。</li>
 </ul>
-<p><strong>So What?:</strong> 日々の忙しさの中で、質の高い「共有体験」を持つことは心の豊かさに直結するので、新しい形のコミュニケーションツールとして注目です。情報感度の高い人は早めにチェックしておくと話題の波に乗りやすいでしょう。</p>]]></description>
+<p><strong>So What?:</strong> 作曲のハードルを大幅に下げることで、音楽制作の新たな可能性が広がります。アイデアが浮かんだ瞬間に形にできるため、創作活動や音楽ビジネスでの効率化・質向上に役立つでしょう。</p>]]></description>
 </item>
 <item>
-<title>[要約] Postproxy</title>
-<link>https://www.producthunt.com/products/postproxy</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1072275</guid>
-<pubDate>2026-02-03T06:19:02-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/postproxy'>元記事を読む</a></p><p><strong>一言で言うと:</strong> PostproxyはInstagramやTikTok、YouTubeなど複数プラットフォームに一括で投稿できる画期的なAPIです。</p>
+<title>[要約] Therapist AI</title>
+<link>https://www.producthunt.com/products/therapist-ai-time-for-what-matters</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1069767</guid>
+<pubDate>2026-01-28T20:56:10-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/therapist-ai-time-for-what-matters'>元記事を読む</a></p><p><strong>一言で言うと:</strong> セラピストのために作られたAIツールが、専門家の業務効率を大幅に高める可能性があります。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>一つのAPIで複数のSNSに同時投稿が可能</li>
-<li>Instagram、TikTok、YouTubeといった主要な動画・画像プラットフォームに対応</li>
-<li>SNS運用を効率化し、開発者やマーケターの時間を大幅に節約</li>
-<li>API形式なので、各種アプリやサービスと簡単に連携できる</li>
+<li>Therapist AIは実際にセラピスト自身が開発に関わっているため、現場のニーズに合った設計になっている。</li>
+<li>心理療法やカウンセリングの記録作成や分析といった反復作業を自動化し、時間の節約を狙う。</li>
+<li>専門的な対話内容を理解できるため、クライアント対応の質を落とさずに効率化が可能。</li>
 </ul>
-<p><strong>So What?:</strong> SNSごとに投稿作業を繰り返す手間を省けるため、コンテンツ戦略の立案やクリエイティブ制作に集中できるようになります。最先端のWebサービスや自社ツールに組み込みやすく、運用効率を格段に向上させる武器になるでしょう。</p>]]></description>
+<p><strong>So What?:</strong> 煩雑な事務作業に追われるセラピストにとって、AIの導入はより本質的な対話や治療に集中する時間を増やし、患者満足度や治療効果の向上につながるかもしれません。</p>]]></description>
 </item>
 <item>
-<title>[要約] Multitui</title>
-<link>https://www.producthunt.com/products/multitui</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1072231</guid>
-<pubDate>2026-02-03T04:49:26-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/multitui'>元記事を読む</a></p><p><strong>一言で言うと:</strong> macOS上でClaudeやCodexなどのAIベースTUI（テキストユーザーインターフェース）を使える新ツール「Multitui」が登場しました。</p>
+<title>[要約] WebTerm</title>
+<link>https://www.producthunt.com/products/webterm</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1072860</guid>
+<pubDate>2026-02-04T07:36:57-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/webterm'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ブラウザ上で安全にUnixコマンドを試せる「WebTerm」が登場。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>Multituiは複数のAIチャットモデル（Claude、Codexなど）を一括で操作できるTUI環境を提供する</li>
-<li>macOS向けに最適化されており、コードやテキスト操作をターミナル感覚で高速に行える</li>
-<li>CLI（コマンドラインインターフェース）好きには新しいAIとの接し方を提案するツール</li>
+<li>「rm -rf /」のような危険なコマンドもブラウザ内で安全に実行可能。</li>
+<li>実際のマシンに影響を与えずにUnix環境をシミュレーションできる。</li>
+<li>初心者から開発者まで気軽にコマンド操作の練習や検証が可能。</li>
 </ul>
-<p><strong>So What?:</strong> AIとの対話をGUI（グラフィカルユーザーインターフェース）ではなく、よりシンプルで軽量なテキスト画面で行いたい開発者や技術好きに最適。作業効率アップや自動化の幅が広がりそうです。</p>]]></description>
+<p><strong>So What?:</strong> 実機を壊すリスクなしにコマンドライン操作を学べるため、新しいコマンドの検証や学習の敷居が大幅に下がる、とても便利なツールです。</p>]]></description>
 </item>
 <item>
-<title>[要約] Code smells for AI agents: Q&amp;A with Eno Reyes of Factory</title>
-<link>https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/</link>
-<guid isPermaLink='false'>d4245515-5e30-4965-9ec5-b81a5cc0d339</guid>
-<pubDate>Wed, 04 Feb 2026 15:00:00 GMT</pubDate>
-<description><![CDATA[<p><a href='https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIエージェントのコードにも「コードスメル」（品質の悪いコードの兆候）は存在し、高品質なソフトウェアには依然として良質なコードが不可欠である。</p>
+<title>[要約] Higgsfield Vibe-Motion</title>
+<link>https://www.producthunt.com/products/higgsfield</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1073029</guid>
+<pubDate>2026-02-04T11:39:29-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/higgsfield'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Higgsfield Vibe-Motionは、単一のテキストプロンプトから動く画像を簡単に生成できる新しい編集ツールです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>AIエージェントの開発でも伝統的なソフトウェア品質の課題があり、「コードスメル」が性能や保守性に影響する。</li>
-<li>FactoryのEno Reyes氏は、AI特有の複雑さがコード管理の難易度を高めていると指摘。</li>
-<li>コードスメルの検出と対処は、AIエージェントの信頼性向上やバグ減少につながる。</li>
-<li>AI時代でもプログラミングの基本は変わらず、読みやすく保守しやすいコードを書くことが重要。</li>
+<li>一つのプロンプト（指示文）だけで動画のような動きのある画像を作成可能</li>
+<li>編集キャンバス上で直感的にビジュアルを操作できるインターフェース</li>
+<li>クリエイターが複雑なアニメーション制作をもっと手軽に始められる</li>
+<li>動きの表現を簡素化し、アイデアをスピーディに形にできる点が特徴</li>
 </ul>
-<p><strong>So What?:</strong> AI技術の発展に伴い、つい機能優先になりがちなコード品質だが、基本を押さえた設計やレビューでトラブルを防げる。最先端の開発者にも品質管理の確かな目が求められているという点で、自分のスキルアップやチーム運営に活かせそうです。</p>]]></description>
+<p><strong>So What?:</strong> これまで高度な技術や時間が必要だった動画作成が、シンプルな指示で可能になるため、クリエイターやマーケターがアイデアを素早く試作・共有できるようになります。デジタル表現の新たな表現手段として、今後注目されそうです。</p>]]></description>
 </item>
 <item>
-<title>[要約] Pick your agent: Use Claude and Codex on Agent HQ</title>
-<link>https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/</link>
-<guid isPermaLink='false'>https://github.blog/?p=93566</guid>
-<pubDate>Wed, 04 Feb 2026 17:00:19 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> GitHubのAgent HQでAnthropicのClaudeとOpenAIのCodexがCopilot Pro+またはEnterprise向けにプレビュー公開され、コード支援の選択肢が広がりました。</p>
+<title>[要約] Supaboard</title>
+<link>https://www.producthunt.com/products/supaboard-ai</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1064974</guid>
+<pubDate>2026-01-19T04:31:17-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/supaboard-ai'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Supaboardは自然な英語で質問するだけで、データから正確な答えを得られるAIツールです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>Claude（Anthropic製）とCodex（OpenAI製）のAIエージェントがGitHubとVS Code上で利用可能に</li>
-<li>利用にはCopilot Pro+またはEnterpriseサブスクリプションが必要</li>
-<li>エージェントを選んでコード補完や生成など開発支援が可能</li>
-<li>従来のGitHub Copilotに加え、多様なAIツールを同一環境で試せる新機能</li>
+<li>ユーザーは専門知識不要で、英語のシンプルな問いかけでデータ解析が可能</li>
+<li>複雑なSQL（データベース言語）やプログラミングなしで使える点が特徴</li>
+<li>ビジネスや研究でのデータ活用を手軽にし、意思決定を迅速化できる</li>
 </ul>
-<p><strong>So What?:</strong> 開発者は自分のニーズや好みに合わせてAIエージェントを選べるため、生産性向上や最適なコード支援が期待できる。最新AI技術を手軽に使い分けて効率的な開発環境を実現しやすくなった点が特に魅力的です。</p>]]></description>
+<p><strong>So What?:</strong> データ分析のハードルが下がることで、非エンジニアも直感的にデータから洞察を得やすくなり、業務効率や戦略立案に革新をもたらす可能性があります。</p>]]></description>
 </item>
 </channel></rss>
