@@ -4,35 +4,5 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Mon, 09 Feb 2026 01:59:15 +0000</lastBuildDate>
-<item>
-<title>[要約] AI makes the easy part easier and the hard part harder</title>
-<link>https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46939593</guid>
-<pubDate>Sun, 08 Feb 2026 23:13:34 +0000</pubDate>
-<description><![CDATA[<p><a href='https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIは単純作業をより簡単にする一方で、複雑な問題解決はむしろ難しくしている。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>AIはルーチンワークやデータ処理の自動化で大幅な効率化を実現している。</li>
-<li>しかし、本質的な創造性や複雑な意思決定にはまだ大きなサポートはできていない。</li>
-<li>AIによって簡単な部分が速く片付くことで、逆に難しい課題の重要性や難易度が際立つ傾向がある。</li>
-<li>この傾向は、ビジネスや創作領域でのAI活用のある種の「トレードオフ」を示唆している。</li>
-</ul>
-<p><strong>So What?:</strong> AIを取り入れるなら、得意分野（単純作業の自動化）と不得意分野（高度な判断や創造性）の見極めが重要。そうすることで、効果的に効率アップしつつ、人間の強みを活かせる戦略が立てやすくなるはずです。</p>]]></description>
-</item>
-<item>
-<title>[要約] In the AI gold rush, tech firms are embracing 72-hour weeks</title>
-<link>https://www.bbc.com/news/articles/cvgn2k285ypo</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46940511</guid>
-<pubDate>Mon, 09 Feb 2026 01:28:16 +0000</pubDate>
-<description><![CDATA[<p><a href='https://www.bbc.com/news/articles/cvgn2k285ypo'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIブームでテック企業の労働時間が72時間／週に達し、過酷な競争が続いている。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>AI開発競争の激化により、一部のテック企業が週72時間労働を強いる超長時間労働体制を採用している。</li>
-<li>これにより従業員の心身の健康リスクが高まり、持続可能性に疑問が呈されている。</li>
-<li>ただし高速な開発ペースは新技術の迅速な市場投入を可能にし、企業の競争力強化に寄与している。</li>
-<li>労働環境の見直しや法規制強化の動きも同時進行中で、今後の労働慣行に注目が集まっている。</li>
-</ul>
-<p><strong>So What?:</strong> AI関連ビジネスの核心は「スピード」であり、労働環境の変化は業界全体に大きな影響を与える。最先端技術の恩恵を受ける一方で、労働時間の現実も知り、持続可能な働き方を考えるヒントになるだろう。</p>]]></description>
-</item>
+<lastBuildDate>Mon, 09 Feb 2026 13:05:29 +0000</lastBuildDate>
 </channel></rss>
