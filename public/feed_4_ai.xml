@@ -4,5 +4,49 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Mon, 09 Feb 2026 13:05:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Feb 2026 02:09:44 +0000</lastBuildDate>
+<item>
+<title>[要約] Testing ads in ChatGPT</title>
+<link>https://openai.com/index/testing-ads-in-chatgpt</link>
+<guid isPermaLink='false'>https://openai.com/index/testing-ads-in-chatgpt</guid>
+<pubDate>Mon, 09 Feb 2026 11:00:00 GMT</pubDate>
+<description><![CDATA[<p><a href='https://openai.com/index/testing-ads-in-chatgpt'>元記事を読む</a></p><p><strong>一言で言うと:</strong> OpenAIが無料利用継続のため、ChatGPT内で広告テストを開始しつつもユーザーのプライバシーや回答の独立性を重視している。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>ChatGPTに広告を導入し、無料アクセスの持続を目指す。</li>
+<li>広告は明確に表示され、回答内容には影響を与えない設計。</li>
+<li>ユーザーのプライバシー保護を強化し、操作性も確保。</li>
+<li>利用者が広告表示をコントロールできる仕組みを用意。</li>
+</ul>
+<p><strong>So What?:</strong> 無料で賢いAIを使い続けたいなら、この動きは注目すべき。広告による収益化でサービスの質が落ちず、プライバシーも守られる可能性が高く、安心して試せるチャンスが増えそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Bringing ChatGPT to GenAI.mil</title>
+<link>https://openai.com/index/bringing-chatgpt-to-genaimil</link>
+<guid isPermaLink='false'>https://openai.com/index/bringing-chatgpt-to-genaimil</guid>
+<pubDate>Mon, 09 Feb 2026 11:00:00 GMT</pubDate>
+<description><![CDATA[<p><a href='https://openai.com/index/bringing-chatgpt-to-genaimil'>元記事を読む</a></p><p><strong>一言で言うと:</strong> OpenAIが米国防省向けに安全性重視のカスタムChatGPTをGenAI.milに導入しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>OpenAI for Governmentが特化型ChatGPTを米国防省のプラットフォームGenAI.milに展開。</li>
+<li>安全性やセキュリティを最優先に設計されたAIツールを提供。</li>
+<li>防衛チームの効率化や意思決定支援に役立つことを目指している。</li>
+<li>政府機関向けのAI活用が一層進む新しいステップといえる。</li>
+</ul>
+<p><strong>So What?:</strong> これにより、防衛分野で安全かつ効果的にAIを使った情報分析やコミュニケーションが可能になり、防衛力強化や迅速な対応が期待できます。知的好奇心旺盛な私たちにとっても、AIの軍事利用と安全管理の両立という今後の課題を考えるヒントになります。</p>]]></description>
+</item>
+<item>
+<title>[要約] Opus 4.6, Codex 5.3, and the post-benchmark era</title>
+<link>https://www.interconnects.ai/p/opus-46-vs-codex-53</link>
+<guid isPermaLink='false'>https://www.interconnects.ai/p/opus-46-vs-codex-53</guid>
+<pubDate>Mon, 09 Feb 2026 14:03:12 GMT</pubDate>
+<description><![CDATA[<p><a href='https://www.interconnects.ai/p/opus-46-vs-codex-53'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 2026年のモデル比較は従来のベンチマーク指標に頼らない、新たな評価軸へと進化しつつある。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Opus 4.6やCodex 5.3など最新モデルは、従来のベンチマーク（性能評価基準）を超えた実用性や柔軟性が重視されている。</li>
+<li>単純な数値比較よりも、多様なシナリオでの応用力やユーザビリティの向上が評価の中心に。</li>
+<li>これにより「ポストベンチマーク時代」が到来し、AIモデルの価値基準が大きく変わる可能性がある。</li>
+</ul>
+<p><strong>So What?:</strong> 技術を追う私たちとしては、単なる性能データだけでなく、モデルが実際にどう役立つかを注視する視点が必要。これが次世代AI選びの鍵になるでしょう。</p>]]></description>
+</item>
 </channel></rss>
