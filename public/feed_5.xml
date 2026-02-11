@@ -4,63 +4,79 @@
 <title>日本語要約RSS - ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 11 Feb 2026 02:05:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Feb 2026 13:06:53 +0000</lastBuildDate>
 <item>
-<title>[要約] CasDoc</title>
-<link>https://www.producthunt.com/products/casdoc</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1076709</guid>
-<pubDate>2026-02-09T13:26:11-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/casdoc'>元記事を読む</a></p><p><strong>一言で言うと:</strong> CasDocは文脈理解に優れたAI開発を促進する新しいツールです。</p>
+<title>[要約] Ordo</title>
+<link>https://www.producthunt.com/products/ordo</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1076939</guid>
+<pubDate>2026-02-10T00:27:50-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/ordo'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Ordoは、リール動画（短尺動画）を簡単に保存・整理・検索できる新しいツールです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>CasDocは環境や状況をより深く理解しながらAIを設計・計画できる。</li>
-<li>文脈認識（コンテキストアウェア）能力を強化することで、AIの応答の質が向上する。</li>
-<li>開発者が詳細なシナリオを反映したAI挙動を設定しやすくなる。</li>
-<li>Product Huntで話題になっており、実際の利用者のフィードバックも集まっている。</li>
+<li>リール動画を手軽にブックマークできるインターフェースを提供</li>
+<li>保存した動画をカテゴリーやタグで整理可能</li>
+<li>探したい動画を効率的に検索できる機能を備えている</li>
+<li>動画コンテンツの管理をシンプルにし、ストレスなく使える設計</li>
 </ul>
-<p><strong>So What?:</strong> 文脈を踏まえたAI設計を簡単にできることで、より人間らしい自然な対話や高精度な判断を実現可能。最先端AIに興味がある人や開発者は、CasDocをチェックして次世代AI体験の先取りに活かせます。</p>]]></description>
+<p><strong>So What?:</strong> 日々大量に増える短尺動画の中から、自分にとって価値あるものを素早く見つけたい人にとって、Ordoは情報整理の強力な味方になりそうです。動画コンテンツ消費の効率を上げたいなら、一度使ってみる価値があります。</p>]]></description>
 </item>
 <item>
-<title>[要約] claw.fm</title>
-<link>https://www.producthunt.com/products/claw-fm</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1076642</guid>
-<pubDate>2026-02-09T10:33:18-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/claw-fm'>元記事を読む</a></p><p><strong>一言で言うと:</strong> OpenClawエージェントに音楽キャリアを持たせる新しいサービス、claw.fmが登場しました。</p>
+<title>[要約] JumprAI</title>
+<link>https://www.producthunt.com/products/jumprai</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1077121</guid>
+<pubDate>2026-02-10T05:22:37-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/jumprai'>元記事を読む</a></p><p><strong>一言で言うと:</strong> JumprAIはYouTube動画内の任意の瞬間をAIで瞬時に検索できるツールです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>claw.fmはAIエージェント（OpenClaw）が音楽活動をできるプラットフォーム。</li>
-<li>ユーザーはAIを通じてオリジナルの音楽作品を制作・配信できる可能性がある。</li>
-<li>コミュニティやディスカッションを通じて、多様な音楽表現やコラボが期待されている。</li>
+<li>動画の内容をテキスト化し、キーワード検索で該当シーンに直接ジャンプ可能</li>
+<li>AIを活用することで膨大な動画から必要な情報を効率的に抽出できる</li>
+<li>YouTubeの長尺動画や講義、解説動画を効率的に活用できるため時間節約になる</li>
 </ul>
-<p><strong>So What?:</strong> AIが音楽業界に新たな可能性を開き、個人やクリエイターが手軽にAIと共創し新しい音楽の世界を体験できる点で注目。あなたもAIの「音楽デビュー」を間近で見届けられるかもしれません。</p>]]></description>
+<p><strong>So What?:</strong> 毎日の情報収集や学習の効率が劇的に高まり、膨大な動画コンテンツから必要な瞬間だけをすばやく取り出せるため、忙しい現代人にとって強力な知的支援となります。</p>]]></description>
 </item>
 <item>
-<title>[要約] Video Forms</title>
-<link>https://www.producthunt.com/products/video-forms</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1074191</guid>
-<pubDate>2026-02-05T12:25:52-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/video-forms'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 動画にアンケートを埋め込んで、視聴者参加型のインタラクティブなフォームを作成できるサービスです。</p>
+<title>[要約] Willow for Developers</title>
+<link>https://www.producthunt.com/products/willow-voice</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1076736</guid>
+<pubDate>2026-02-09T15:04:25-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/willow-voice'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Willowは音声入力でコードを書く新しい開発ツールで、AI搭載のIDE（統合開発環境）と連携し、コーディング体験を劇的に効率化します。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>動画内に直接アンケートや質問を挿入し、視聴者の反応をリアルタイムで収集可能。</li>
-<li>視聴体験を損なわずに、エンゲージメント（視聴者の関与度）を高められる。</li>
-<li>マーケティングや教育現場など、様々な用途で活用が見込まれる。</li>
+<li>Dictation for Cursor（カーソル用の音声認識機能）を使い、タイピングより速く自然にコードを生成できる。</li>
+<li>AI IDEs（人工知能搭載の統合開発環境）との連携により、コードの補完や修正がスマートに進む。</li>
+<li>従来のキーボード操作を大幅に減らし、ハンズフリーでのコーディングが可能に。</li>
+<li>プロダクトハントで話題になっており、注目の最新ツールとして期待されている。</li>
 </ul>
-<p><strong>So What?:</strong> 単なる視聴から「参加する体験」へと動画の役割が拡大し、ユーザー理解やデータ収集が効率化。顧客のニーズ把握や教材の効果測定に役立ち、新しいコミュニケーションの形を模索するあなたには注目のツールです。</p>]]></description>
+<p><strong>So What?:</strong> コーディングの効率化が求められる現代、Willowのような音声＋AI連携ツールは開発者の作業負担を軽減し、生産性向上に直結。新しいインターフェースとして、今後のプログラミングスタイルに影響を与える可能性があります。</p>]]></description>
 </item>
 <item>
-<title>[要約] Total addressable Market calculator</title>
-<link>https://www.producthunt.com/products/hunter</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1076390</guid>
-<pubDate>2026-02-09T01:57:28-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/hunter'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 100万社以上の実データから市場規模（TAM：Total Addressable Market）が簡単に計算できるツールが登場しました。</p>
+<title>[要約] Subscription Day² for iOS</title>
+<link>https://www.producthunt.com/products/subscription-day</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1071619</guid>
+<pubDate>2026-02-02T04:07:50-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/subscription-day'>元記事を読む</a></p><p><strong>一言で言うと:</strong> iOS向けの「Subscription Day²」は、複数のサービスからの有料サブスクリプションを一元的に分析・管理できるアプリです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>100M（1億）以上の実在企業データを活用しているため、信頼性が高い</li>
-<li>自社製品やサービスの市場規模を短時間で具体的に算出可能</li>
-<li>スタートアップやマーケターに適したシンプルかつ実用的な計算方法を提供</li>
-<li>オンラインで利用でき、わざわざ複雑な市場調査をしなくても済む</li>
+<li>複数の有料サブスクリプションをまとめてトラッキングできる</li>
+<li>分析機能により支出の見える化や最適化が可能</li>
+<li>iOS対応でスマホで簡単に利用できる設計</li>
+<li>ユーザーのサブスク管理の手間を大幅に減らせる点が特徴</li>
 </ul>
-<p><strong>So What?:</strong> 新規事業や製品開発の戦略立案時に、現実的な市場の大きさを迅速に把握できるのは大きな武器。資金調達や営業計画の説得力も増すので、ビジネスの成功率を上げたい人は要チェックです。</p>]]></description>
+<p><strong>So What?:</strong> 定期課金が増え続ける現代、何にいくら使っているか把握するのは意外と難しいですよね。Subscription Day²を使えば、不要な契約の見直しや支出の最適化ができて、お金の管理が賢くなります。忙しいあなたにこそおすすめのツールです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Hermes Markdown</title>
+<link>https://www.producthunt.com/products/hermesmd</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1077277</guid>
+<pubDate>2026-02-10T09:57:08-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/hermesmd'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIプロンプト作成を助ける「Hermes Markdown」は、明瞭さを数値化して改善を促す未来型ノートツールです。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Hermes MarkdownはAIへの指示文（プロンプト）を下書きするためのノートアプリ。</li>
+<li>「明瞭さスコア」（どれだけ分かりやすいかを示す指標）をリアルタイムで表示できる。</li>
+<li>分かりやすさを数値で評価することで、洗練されたプロンプト作成が可能に。</li>
+<li>シンプルながらAIアウトプットの質向上を狙った最先端のツールといえる。</li>
+</ul>
+<p><strong>So What?:</strong> 良いAIプロンプトは成果を左右する中、Hermes Markdownを使えば客観的に分かりやすさをチェックでき、初心者でも効率良く質の高い指示文が書ける。AI活用の成果を最大化したい人に特に役立つツールです。</p>]]></description>
 </item>
 </channel></rss>

@@ -4,50 +4,20 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 11 Feb 2026 02:05:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Feb 2026 13:06:29 +0000</lastBuildDate>
 <item>
-<title>[要約] Ex-GitHub CEO launches a new developer platform for AI agents</title>
-<link>https://entire.io/blog/hello-entire-world/</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46961345</guid>
-<pubDate>Tue, 10 Feb 2026 15:44:47 +0000</pubDate>
-<description><![CDATA[<p><a href='https://entire.io/blog/hello-entire-world/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 元GitHub CEOがAIエージェント向けの新しい開発プラットフォーム「Entire」を立ち上げ、開発者エコシステムの未来を切り拓こうとしている。</p>
+<title>[要約] Computer Chronicles: AI (1984-1998)</title>
+<link>https://computerchronicles.tv/#collection/ai</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46904710</guid>
+<pubDate>Thu, 05 Feb 2026 20:24:34 +0000</pubDate>
+<description><![CDATA[<p><a href='https://computerchronicles.tv/#collection/ai'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 1984年から1998年にかけて「Computer Chronicles」が取り上げたAIの進化は、今の最先端技術の基盤を理解するうえで貴重な歴史的資料です。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>「Entire」はAIエージェント（自動でタスクをこなすAIプログラム）を簡単に作成・展開できる開発環境。</li>
-<li>元GitHub CEOの経験を活かし、GitHubのような分散型コラボレーションプラットフォームをAI開発に応用。</li>
-<li>プラットフォームはオープンかつ拡張可能で、開発者コミュニティの成長を狙う。</li>
-<li>今後はAIツールの相互運用性や自動化がより進み、複雑な問題解決が効率化される可能性が高い。</li>
+<li>「Computer Chronicles」はAIの黎明期から90年代末までの発展を分かりやすく伝えている。</li>
+<li>当時のAIは主にルールベースや専門システムに焦点を当てていたが、その限界も明確だった。</li>
+<li>機械学習やニューラルネットワークなど現代AIの先駆けとなる技術も徐々に紹介されている。</li>
+<li>当時の技術と現在を比較することで、AIの進歩と課題がより鮮明になる。</li>
 </ul>
-<p><strong>So What?:</strong> AI技術がさらに加速する中、このプラットフォームが普及すれば、個人から企業までが手軽にAIエージェントを活用・開発でき、業務効率や新規プロジェクト創出に直結します。最先端の開発環境を知り、未来のAI活用に備えたい人に必見のニュースです。</p>]]></description>
-</item>
-<item>
-<title>[要約] Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)</title>
-<link>https://github.com/rowboatlabs/rowboat</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46962641</guid>
-<pubDate>Tue, 10 Feb 2026 16:47:29 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.com/rowboatlabs/rowboat'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 作業内容をリンク付きMarkdownで記録し、ローカル上でAIがコンテキストを理解してタスクを自動化するオープンソースツール「Rowboat」が登場。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>RowboatはGmailや会議メモ（GranolaやFirefliesなど）から意思決定や締切を抽出し、編集可能なMarkdown形式でローカルに保存。</li>
-<li>リンクされたナレッジグラフを基に、ローカルシェル操作で資料作成や音声メモ生成など具体的な作業を実行可能。</li>
-<li>大量のメールやドキュメントをただ検索するだけでなく、会話の文脈や関係性を時間経過で蓄積し、知らなかったパターンも発見できる。</li>
-<li>データは完全にローカルに保存され、どのLLM（大規模言語モデル）とも連携可能でプライバシー保護にも配慮。</li>
-</ul>
-<p><strong>So What?:</strong> 日々の業務で散在しがちな情報を体系化し、AIに適切な文脈を提供することで自動化や効率化が格段に進む。この自然なナレッジグラフ連携型エージェントは、単なる検索を超えた「仕事の記憶」を作り出し、あなたのAI活用をワンランク上へ押し上げる可能性がある。</p>]]></description>
-</item>
-<item>
-<title>[要約] Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis</title>
-<link>https://livedocs.com</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46964162</guid>
-<pubDate>Tue, 10 Feb 2026 18:09:14 +0000</pubDate>
-<description><![CDATA[<p><a href='https://livedocs.com'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIエージェントが内蔵されたリアクティブなノート環境で、データ分析を自動化・協働化できる新世代ワークスペース「LiveDocs」が登場。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>LiveDocsはSQLやPython、チャートやテキストを混在させつつ、変更箇所だけを再計算する依存グラフ型のリアクティブノートブック。</li>
-<li>AIエージェントはノート内で多段階の分析計画、コード生成・デバッグ、外部情報の参照などを行い、人間と同じ実行環境で動作。</li>
-<li>インタラクティブなUIの作成や分析結果のアプリ化が可能で、ダッシュボードや従来のノートの限界を超える自由度を実現。</li>
-<li>リアルタイムでの多人数コラボレーションに対応し、チームの分析ワークフローを効率化・柔軟化する設計。</li>
-</ul>
-<p><strong>So What?:</strong> 複雑で変化するビジネス課題に対応するための分析環境として、静的なレポートやチャット形式のAIとは異なる「生きた」データ作業が可能。チームでの共同作業や分析自動化を加速し、手戻りや管理コストを削減できる革新的ツールとして注目したい。</p>]]></description>
+<p><strong>So What?:</strong> AI理解の土台を築いた過去の技術や思想を知ることで、現在のAIトレンドをより深く理解でき、未来への応用や課題解決に役立てられます。</p>]]></description>
 </item>
 </channel></rss>
