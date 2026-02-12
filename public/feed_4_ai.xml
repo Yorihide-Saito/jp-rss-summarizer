@@ -4,20 +4,35 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 11 Feb 2026 13:06:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Feb 2026 01:58:29 +0000</lastBuildDate>
 <item>
-<title>[要約] Computer Chronicles: AI (1984-1998)</title>
-<link>https://computerchronicles.tv/#collection/ai</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46904710</guid>
-<pubDate>Thu, 05 Feb 2026 20:24:34 +0000</pubDate>
-<description><![CDATA[<p><a href='https://computerchronicles.tv/#collection/ai'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 1984年から1998年にかけて「Computer Chronicles」が取り上げたAIの進化は、今の最先端技術の基盤を理解するうえで貴重な歴史的資料です。</p>
+<title>[要約] Show HN: AI agents play SimCity through a REST API</title>
+<link>https://hallucinatingsplines.com</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=46946593</guid>
+<pubDate>Mon, 09 Feb 2026 15:54:33 +0000</pubDate>
+<description><![CDATA[<p><a href='https://hallucinatingsplines.com'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIエージェントがオープンソースのSimCityエンジン「Micropolis」をREST API経由で操作し、誰でも自動でまちづくりシミュレーションを楽しめるプラットフォームが公開された。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>「Computer Chronicles」はAIの黎明期から90年代末までの発展を分かりやすく伝えている。</li>
-<li>当時のAIは主にルールベースや専門システムに焦点を当てていたが、その限界も明確だった。</li>
-<li>機械学習やニューラルネットワークなど現代AIの先駆けとなる技術も徐々に紹介されている。</li>
-<li>当時の技術と現在を比較することで、AIの進歩と課題がより鮮明になる。</li>
+<li>作者は週末プロジェクトとして、SNES版SimCityのROMをAIに遊ばせる試みから着想を得て、オープンソース版エンジンにAPIを追加し開発を拡大。</li>
+<li>Cloudflare Durable Objects上でMicropolisシミュレーションを実行し、誰でもAPIキーを取得してAIに市長業を任せられる環境を提供。</li>
+<li>大型言語モデル（LLM）は空間認識が苦手で、建物配置や道路、電力線の管理がランダムになりがちで人間の子どもを扱うような面白さがある。</li>
+<li>REST APIとMCP（Micropolis Control Protocol）サーバーを備え、Claude CodeやCursorなどのAIツールとの連携も簡単で、即座にビルド開始が可能。</li>
 </ul>
-<p><strong>So What?:</strong> AI理解の土台を築いた過去の技術や思想を知ることで、現在のAIトレンドをより深く理解でき、未来への応用や課題解決に役立てられます。</p>]]></description>
+<p><strong>So What?:</strong> ゲームAIの自動化や都市計画AIの発展に興味がある人は、このオープンプラットフォームを使って実験できる。空間把握が苦手なAIの挙動から新しい指導法や改善策を学べるほか、複数AIエージェントの共演や対戦といった未来的な遊びも期待できる。</p>]]></description>
+</item>
+<item>
+<title>[要約] Harness engineering: leveraging Codex in an agent-first world</title>
+<link>https://openai.com/index/harness-engineering</link>
+<guid isPermaLink='false'>https://openai.com/index/harness-engineering</guid>
+<pubDate>Wed, 11 Feb 2026 09:00:00 GMT</pubDate>
+<description><![CDATA[<p><a href='https://openai.com/index/harness-engineering'>元記事を読む</a></p><p><strong>一言で言うと:</strong> エンジニアリング分野で、OpenAIのCodex（コード生成AI）を活用し、エージェント主導の開発環境が急速に広がっている。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Codexはプログラミング作業を自動化し、コード生成やバグ修正を効率化する。</li>
+<li>エージェント（自律的に動くAI）がプロジェクト管理から実装まで幅広く対応可能に。</li>
+<li>これによりエンジニアはより創造的な作業に集中でき、プロダクト開発速度が向上する。</li>
+<li>ハーネスエンジニアリング（機械に制御を与える技術）にも新たな応用が期待されている。</li>
+</ul>
+<p><strong>So What?:</strong> AIを取り入れたエージェント主導の開発は、今後のエンジニアリング手法を根本から変える可能性があり、最新技術に敏感な人ほど早めに適応して競争力を上げられる。</p>]]></description>
 </item>
 </channel></rss>
