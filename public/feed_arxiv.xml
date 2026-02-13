@@ -4,5 +4,305 @@
 <title>日本語要約RSS - arXiv (学術論文)</title>
 <link>https://github.com/</link>
 <description>arXiv (学術論文)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Fri, 13 Feb 2026 02:00:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 12:55:28 +0000</lastBuildDate>
+<item>
+<title>[要約] PAC-Bayesian Generalization Guarantees for Fairness on Stochastic and Deterministic Classifiers</title>
+<link>https://arxiv.org/abs/2602.11722</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11722v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11722'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 公平性（フェアネス）を理論的に保証するための新しいPACベイズ枠組みが、確率的・決定的分類器の両方に適用可能になりました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来のPAC一般化理論は公平性の保証には不十分であるため、PACベイズ理論を公平性評価に拡張。</li>
+<li>確率的（ランダムな出力を持つ）分類器には標準的なPACベイズ技術で公平性の一般化境界を導出。</li>
+<li>決定的（常に一定の出力を返す）分類器にも対応可能な新しいPACベイズ手法を適用し、範囲を拡大。</li>
+<li>多様な公平性指標をリスク差分として扱え、予測性能と公平性の最適なトレードオフを直接学習可能に。</li>
+</ul>
+<p><strong>So What?:</strong> AIや機械学習の公平性が求められる現代で、理論的保証を持つフェアなモデル設計が可能になり、信頼性の高いサービス開発や政策立案に活かせる実用的な枠組みとして期待されます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Estimation of instrument and noise parameters for inverse problem based on prior diffusion model</title>
+<link>https://arxiv.org/abs/2602.11711</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11711v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11711'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 事前情報として拡散過程モデルを用いることで、逆問題における観測パラメータやノイズの推定が効率的かつ高精度に行える新手法が提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>ベイズ枠組みでの正則化に拡散過程（diffusion process）が事前モデルとして活用されている。</li>
+<li>観測応答や誤差パラメータの推定において、新しい単純かつ効果的なサンプリング手法が導入された。</li>
+<li>推定値の不確実性（どれくらい信頼できるか）が定量的に評価可能。</li>
+<li>MCMC（マルコフ連鎖モンテカルロ）アルゴリズムにより計算効率と推定の保証が両立された。</li>
+</ul>
+<p><strong>So What?:</strong> この手法はノイズや観測条件が不明瞭なデータ解析に威力を発揮し、医療画像や天文学など多様な分野で使える。結果の信頼性を数値で示せるので、実務や研究での意思決定がより根拠あるものになるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Provable Offline Reinforcement Learning for Structured Cyclic MDPs</title>
+<link>https://arxiv.org/abs/2602.11679</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11679v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11679'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 複雑な周期的環境下でも理論的保証付きでオフライン強化学習を行う新しい方法「CycleFQI」が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>周期的かつ段階ごとに異なる動的特徴を持つMDP（行動決定問題）に対応する枠組みを開発。</li>
+<li>オフライン学習で起こる各段階の状態分布のずれを、段階毎の部分問題に分解して解決。</li>
+<li>段階別のQ関数ベクトルを用いたCycleFQIアルゴリズムは収束率や誤差の理論的保証を持つ。</li>
+<li>シミュレーションや糖尿病治療データで効果を実証し、高次元問題の難しさ（次元の呪い）を軽減。</li>
+</ul>
+<p><strong>So What?:</strong> 複数段階にわたり時間的・環境的に変化する問題を扱う際、CycleFQIは現実的かつ安定的に最適政策の学習が可能。医療やロボティクスなど複雑な循環環境に応用でき、信頼性の高い意思決定支援を実現します。</p>]]></description>
+</item>
+<item>
+<title>[要約] The Cost of Learning under Multiple Change Points</title>
+<link>https://arxiv.org/abs/2602.11406</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11406v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11406'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 複数の変化点がある環境でのオンライン学習は従来手法が大幅な失敗を招く一方、新提案のアルゴリズムが理論的に最適に近い成果を示す。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来の「高信頼度」変化検知法は複数の変化点環境で「内因的混乱（endogenous confounding）」により高い後悔（損失）を招く問題がある。</li>
+<li>「Anytime Tracking CUSUM（ATC）」という新アルゴリズムを提案し、変化点の大きさに応じて反応速度を調整する「選択的検知」を実装。</li>
+<li>ATCは事前の時間 horizon（学習期間の長さ）を設定不要で、情報理論上の下限にほぼ一致する最小後悔を証明。</li>
+<li>合成データ・実データ両方の実験で理論通りの優れた性能が確認された。</li>
+</ul>
+<p><strong>So What?:</strong> 変化点が複数あるリアルな状況下で安定かつ効率的に学習したい研究者やエンジニアにとって、従来手法の限界を超えた新たな枠組みが提供された。これにより、より現実的な環境適応型アルゴリズム開発が加速するだろう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Amortised and provably-robust simulation-based inference</title>
+<link>https://arxiv.org/abs/2602.11325</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11325v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11325'>元記事を読む</a></p><p><strong>一言で言うと:</strong> シミュレーションベース推論において、外れ値に強く計算効率も高い新手法が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来の推論手法が苦手とする外れ値（異常値）を数学的に保証された形で扱える。</li>
+<li>一般化ベイズ推論（不確実性の扱いを拡張したベイズ推論）に基づく独自の損失関数を用いている。</li>
+<li>ニューラルネットワークを使って推論を事前学習（アモータイズド）し、再利用可能に。</li>
+<li>マルコフ連鎖モンテカルロ（MCMC）などの重いサンプリングを不要にし、計算コストを大幅削減。</li>
+</ul>
+<p><strong>So What?:</strong> 外れ値の影響を受けやすい複雑な科学・工学モデル解析で、より堅牢かつ高速な推論が実現できるため、現場のデータ分析や実験設計の効率化に大きく貢献しそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] TDPNavigator-Placer: Thermal- and Wirelength-Aware Chiplet Placement in 2.5D Systems Through Multi-Agent Reinforcement Learning</title>
+<link>https://arxiv.org/abs/2602.11187</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11187v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11187'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 2.5D半導体設計で、熱管理と配線長のトレードオフを多エージェント強化学習で最適化する新手法が登場しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来の配置設計は配線長の短縮か単一目的最適化に偏り、多目的間の競合を十分に扱えていなかった。</li>
+<li>熱設計電力（TDP）が異なるチップレットに対し、それぞれ専用の強化学習エージェントを割り当てる多エージェント方式を導入。</li>
+<li>各エージェントは異なる報酬設計と制約条件のもと動作し、熱管理と配線長をバランスよく改善。</li>
+<li>実験では最先端技術を上回るパレート最適（複数目標の最適解の集合）を達成。</li>
+</ul>
+<p><strong>So What?:</strong> 複雑化する半導体設計において熱と配線は性能・信頼性を左右する重要課題。TDPNavigator-Placerは設計自動化の新たな方向性を示し、今後の大規模で多様な2.5Dシステム開発を効率化し、より高性能なデバイス実現に寄与します。</p>]]></description>
+</item>
+<item>
+<title>[要約] GAC-KAN: An Ultra-Lightweight GNSS Interference Classifier for GenAI-Powered Consumer Edge Devices</title>
+<link>https://arxiv.org/abs/2602.11186</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11186v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11186'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 生成AI時代の極限リソース環境でも動作可能な、超軽量GNSS干渉分類器「GAC-KAN」が高精度かつ省リソースで衛星信号の安全を守る。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>生成AI（GenAI）搭載の消費者端末は計算負荷が高く、GNSS（全地球測位システム）信号保護に割けるリソースが非常に限られる。</li>
+<li>現実の干渉データ不足を解決するため、物理シミュレーションで高品質なジャミング（妨害）データを人工生成した。</li>
+<li>MS-GAC（多尺度非対称畳み込み＋ゴーストモジュール）で効率的かつ豊富な周波数・時間情報を抽出し、省パラメータなKAN（コルモゴロフ・アーノルドネットワーク）で非線形変換を実現。</li>
+<li>モデルサイズは約13万パラメータで、最先端のVision Transformerの約660分の1、精度は98％と極めて優秀。</li>
+</ul>
+<p><strong>So What?:</strong> 超小型・低消費電力な生成AI対応端末でも信号妨害検知が常時可能になり、GPSなど位置情報の信頼性を確保しつつAIタスクのパフォーマンスを最大限活用できる点で、今後のスマート機器に不可欠な技術だといえる。</p>]]></description>
+</item>
+<item>
+<title>[要約] Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy</title>
+<link>https://arxiv.org/abs/2602.11185</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11185v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11185'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 大規模言語モデル（LLM）の学習効率と精度を劇的に改善する、新しいスペクトル特性を考慮した最適化アルゴリズム「Spectra」が登場しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>LLMの勾配信号は「スペクトル異方性（特定の周波数方向に偏った構造）」を持ち、ごく一部の支配的な方向（スパイク）が学習全体を支配している。</li>
+<li>従来の最適化手法はこのスパイクの影響で、長い尾部分（文脈特有の情報）の学習が抑制されてしまう問題がある。</li>
+<li>Spectraはスパイク方向を特定・抑制しつつ、ノイズに弱い尾成分を拡大しない設計で、効率的なスペクトル調整を実現。</li>
+<li>LLaMA3 8Bモデルでの実験では、AdamW比で30%高速化、メモリ使用量半減、精度も1.62%向上など大幅な性能改善を達成。</li>
+</ul>
+<p><strong>So What?:</strong> SpectraはLLMのトレーニング時間短縮とリソース節約を両立しつつ、より精度の高いモデル構築を可能にします。研究者や実務者にとって、効率的かつ高性能なモデル開発の新たな選択肢となるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] KBVQ-MoE: KLT-guided SVD with Bias-Corrected Vector Quantization for MoE Large Language Models</title>
+<link>https://arxiv.org/abs/2602.11184</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11184v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11184'>元記事を読む</a></p><p><strong>一言で言うと:</strong> MoE型大型言語モデルを超低ビット量子化しつつ、性能劣化を大幅に抑える新手法KBVQ-MoEが提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>MoE（専門家の混合）モデルは計算効率が高いが、大規模なパラメータとメモリ消費が課題。</li>
+<li>従来のベクトル量子化（VQ）は、専門家間の冗長な表現と出力バイアスにより性能が落ちやすい。</li>
+<li>KBVQ-MoEは、KLT（カールーネ・ローヴ変換）による特異値分解で冗長成分を共有・削減しつつ、専門家固有成分のみを量子化。</li>
+<li>さらにチャネル単位のバイアス補正で出力の偏りを抑え、3ビット量子化でもほぼFP16の精度を維持。</li>
+</ul>
+<p><strong>So What?:</strong> リソース制約の厳しい環境でも大規模MoEモデルの実用化が近づくため、スマホやエッジデバイスで高性能なAIをより手軽に活用できる可能性が広がります。</p>]]></description>
+</item>
+<item>
+<title>[要約] Automated Optimization Modeling via a Localizable Error-Driven Perspective</title>
+<link>https://arxiv.org/abs/2602.11164</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11164v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11164'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 最適化モデル作成の自動化において、エラーの局所的な性質に着目した新しい学習フレームワーク「MIND」が従来手法を大幅に上回る成果を示しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>大規模言語モデル（LLM）の最適化モデル自動生成はデータ不足と難問の報酬希薄性という壁に直面している。</li>
+<li>従来の問題はエラーが全体に波及するのではなく、特定の意味的セグメントに局所化する特徴を見落としていた。</li>
+<li>MINDはこの局所化エラーの特性を活かし、問題データ生成から後学習までカスタマイズしたフレームワーク。</li>
+<li>動的かつ局所的に問題を絞り込むDFPO手法により、難しい問題も効率的に改善できる。</li>
+</ul>
+<p><strong>So What?:</strong> 複雑な意思決定を支援する最適化モデルの質向上と効率化が期待でき、AIによる自動化・高度化の実用拡大に直結する技術的ブレークスルーと言えるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates</title>
+<link>https://arxiv.org/abs/2602.11301</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11301v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11301'>元記事を読む</a></p><p><strong>一言で言うと:</strong> エンタープライズの大規模AI環境を安全に管理するための多エージェント参照アーキテクチャ「PBSAIガバナンスエコシステム」が提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>PBSAIは、モデルやエージェント、データパイプライン、ヒューマンワークフローなど多層的に構成される「AIエステート」を統合的に守る仕組み。</li>
+<li>12のドメインに責任を分割し、ツールとポリシー間を仲介する制約付きエージェント群を設計している。</li>
+<li>既存のNIST AIリスクマネジメントフレームワークなどにも整合し、監視・協調防御・適応的対応といったセキュリティ技術を組み込んでいる。</li>
+<li>トレーサビリティ（追跡可能性）や人間の関与保証を明確化しつつ、大規模クラウド環境やSOC（セキュリティ運用センター）での実装を想定。</li>
+</ul>
+<p><strong>So What?:</strong> AIシステムが複雑化＆大規模化する中で、単発モデルの管理を超えた包括的なガバナンスが必須に。PBSAIは今後の企業AIの安全運用を支える基盤となり、リスク管理やサイバー防御を効率的かつ透明に行うための土台を提供する点で、実務者にとって極めて有益です。</p>]]></description>
+</item>
+<item>
+<title>[要約] Voxtral Realtime</title>
+<link>https://arxiv.org/abs/2602.11298</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11298v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11298'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Voxtral Realtimeは、遅延わずか480ミリ秒でオフライン並みの高精度なリアルタイム自動音声認識を実現した最新モデルです。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>リアルタイム処理に特化してエンドツーエンドで訓練された自動音声認識モデル</li>
+<li>音声とテキストのストリームを明示的に同期させる新しいアーキテクチャを採用</li>
+<li>13言語にまたがる大規模データセットで事前学習を実施し、多言語対応を強化</li>
+<li>480ミリ秒の遅延で人気の高いオフラインモデルWhisperと同等の性能を達成し、モデルはApache 2.0ライセンスで公開</li>
+</ul>
+<p><strong>So What?:</strong> 低遅延かつ高精度のリアルタイム音声認識は、ビデオ会議やライブ字幕など即時性が求められる場面で新たな可能性を開きます。さらにオープンライセンスのため、幅広いアプリケーションへの応用が期待でき、言語の壁を越えたグローバルな情報アクセスが促進されるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] On Decision-Valued Maps and Representational Dependence</title>
+<link>https://arxiv.org/abs/2602.11295</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11295v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11295'>元記事を読む</a></p><p><strong>一言で言うと:</strong> データの異なる表現が計算結果に与える影響を形式化し、その関係を記録・監査する仕組みが提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>同じデータでも表現の仕方によって計算結果（離散的な判断）が変わることがある。</li>
+<li>decision-valued mapは、どの表現が結果を保持し、どの表現が変えるかを記録するマップ。</li>
+<li>DecisionDBというシステムは、計算結果とその表現の関係を識別子付きで一度書き込み後は変更不可な形で保存・再現・監査できる。</li>
+<li>この仕組みにより、表現空間が結果を変えない領域（Persistence Regions）と変える境界に分けられ、結果の再利用を機械的に検証可能にしている。</li>
+</ul>
+<p><strong>So What?:</strong> 表現依存性（データの見え方による計算結果の違い）を明確に管理できることで、機械学習やデータ解析の信頼性向上や結果の再現性確保に貢献し、アルゴリズムの挙動理解や検証が格段にやりやすくなるはずです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Latent Generative Solvers for Generalizable Long-Term Physics Simulation</title>
+<link>https://arxiv.org/abs/2602.11229</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11229v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11229'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 多様な偏微分方程式（PDE）にまたがる長期物理シミュレーションを、高速かつ安定的に実現する新しい生成的ニューラルソルバーを開発しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Latent Generative Solvers（LGS）は、VAE（変分オートエンコーダ）でPDEの状態を共通の潜在空間に写像し、Transformerで確率的な潜在動態を学習する二段階構造。</li>
+<li>不確実性調整（uncertainty knob）により、予測のドリフト（ずれ）を補正し、自己回帰的予測の安定化を実現。</li>
+<li>2.5百万の多様な軌跡データで事前学習し、短期では確定的モデルに匹敵、長期では大幅にドリフトを減少させる性能を発揮。</li>
+<li>計算コストは非生成モデルと比べ最大70倍削減、限られた微調整でも未見の条件に効率的に適応可能。</li>
+</ul>
+<p><strong>So What?:</strong> 物理シミュレーションの長期予測で信頼性と効率性を両立し、気象予測や科学研究など多様な分野で実用的に使いやすいニューラルソルバーの可能性が広がります。高速かつ不確実性を考慮できるため、複雑システムの継続的な解析や設計に革新をもたらすでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Explaining AI Without Code: A User Study on Explainable AI</title>
+<link>https://arxiv.org/abs/2602.11159</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11159v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11159'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ノーコード機械学習プラットフォームにおける説明可能AI（XAI）は、初心者にも分かりやすく信頼感を高める一方、専門家にはまだ情報の深さが課題となっている。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>医療や金融などの重要分野での機械学習活用が増え、透明性への関心が高まっている。</li>
+<li>DashAIというオープンソースのノーコードMLプラットフォームに、PDP（部分依存プロット）・PFI（特徴重要度の入替え検証）・KernelSHAP（予測影響度解析）を組み込んだXAIモジュールを開発。</li>
+<li>20名の初心者と専門家を対象にした利用調査では、80%以上の課題成功率を達成し、初心者は説明の有用性や正確性を高く評価。</li>
+<li>専門家は説明の十分性や詳細さに対して厳しい評価をしつつも、全体的に説明によって自動化への信頼が向上した。</li>
+</ul>
+<p><strong>So What?:</strong> ノーコードMLの普及には、初心者でも理解できる説明が不可欠。一方で専門家の要求にも応える必要があり、このバランスを取る設計が今後の鍵。AIの透明性向上が、現場での幅広い受容と活用を後押しするでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Learning Glioblastoma Tumor Heterogeneity Using Brain Inspired Topological Neural Networks</title>
+<link>https://arxiv.org/abs/2602.11234</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11234v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11234'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 脳腫瘍の多様な構造を捉え、異なる病院のMRI環境でも安定した予後予測を可能にする新しいトポロジカルニューラルネットワークが開発された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>GBM（膠芽腫）の極めて多様な空間的・構造的特徴を捉えることが従来の深層学習では困難だった。</li>
+<li>TopoGBMはトポロジカル正則化（形状の非ユークリッドな性質を保持する制約）を利用し、腫瘍の複雑な形態を忠実に表現。</li>
+<li>複数の病院データセットでの検証で、異なるMRIスキャナー間の違いによる性能低下を抑えながら高い予後予測精度を達成。</li>
+<li>未監督学習ながら、予測に重要な腫瘍部分や周辺組織を科学的に特定可能で、臨床応用への信頼感を高めている。</li>
+</ul>
+<p><strong>So What?:</strong> この技術により、異なる病院のMRI環境でも安定した膠芽腫の予後予測が可能となり、患者ごとの最適な治療戦略立案が期待される。トポロジカルデータ分析の応用が腫瘍研究に新たな展望を開き、医学とAIの融合を加速させる重要な一歩と言える。</p>]]></description>
+</item>
+<item>
+<title>[要約] UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra</title>
+<link>https://arxiv.org/abs/2602.11206</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11206v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11206'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 超離散化（ultradiscretization）とmax-plus代数を使い、完全微分可能なスパイキングニューラルネットワーク（SNN）を実現したUltraLIFが登場しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>SNNの非微分可能なスパイク発生問題を、従来の経験的な近似ではなく数学的に厳密な超離散化で解決。</li>
+<li>log-sum-exp関数という滑らかな最大値関数を使い、学習可能な温度パラメータで閾値動作を連続的に近似。</li>
+<li>時間方向のLIFモデル（UltraLIF）と空間方向の拡散モデル（UltraDLIF）の2種類を提案し、両者とも標準的な逆伝播で学習可能。</li>
+<li>画像、音声、神経形態学データの6つのベンチマークで従来の代理勾配法より優れた結果を示し、特に単一ステップ処理で効果が顕著。</li>
+</ul>
+<p><strong>So What?:</strong> SNNの学習効率とエネルギー効率を両立することで、低消費電力のリアルタイム認識や神経科学の応用が広がる可能性が高く、今後の脳型AI開発の重要な一歩と言えます。</p>]]></description>
+</item>
+<item>
+<title>[要約] TAVAE: A VAE with Adaptable Priors Explains Contextual Modulation in the Visual Cortex</title>
+<link>https://arxiv.org/abs/2602.11956</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11956v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11956'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 目の初期領域であるV1皮質は、タスクに応じて柔軟に変化する事前期待（プライオリ）を学習し、状況に合わせた視覚情報の処理を実現していることが示されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>視覚野V1の神経活動は、生成モデルの潜在変数（観測データの背後にある隠れた要因）として捉えられる。</li>
+<li>新モデル「Task-Amortized VAE（変分オートエンコーダ）」は、過去に学習した表現を活用しつつ、特定タスクのプライオリを効率的に学習。</li>
+<li>マウスの実験データと併せて解析すると、タスクで学んだ期待と異なる刺激を呈示した際に不確実性の神経応答（2峰性の応答パターン）が生じることが分かった。</li>
+<li>こうした柔軟なプライオリの適応は、視覚情報の初期段階で可能であり、日々の学習や状況変化に対応している。</li>
+</ul>
+<p><strong>So What?:</strong> 視覚野が単に受動的に情報を処理するだけでなく、タスクや状況に応じて内部モデルを柔軟に書き換える仕組みが明らかに。AIや神経科学の分野で、リアルタイム適応する知覚システムの開発や理解に役立ちそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] CL API: Real-Time Closed-Loop Interactions with Biological Neural Networks</title>
+<link>https://arxiv.org/abs/2602.11632</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11632v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11632'>元記事を読む</a></p><p><strong>一言で言うと:</strong> CL APIは、生物学的神経ネットワーク（BNNs）とのリアルタイムで緻密なクローズドループ（入出力連携）インタラクションを可能にする新しいプログラミングインターフェースです。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>生物神経ネットワークを計算基盤として活用するには、高精度な刺激とリアルタイム応答が必須。</li>
+<li>既存の技術は、低レベルハードウェア依存や時間的・構造的コントロールの妥協という課題を抱えている。</li>
+<li>CL APIは、マイクロ秒単位の同期や決定論的な刺激制御を契約ベース（契約に基づく操作保証）の設計で実現。</li>
+<li>Pythonの宣言的インターフェースにより、専門知識が浅いプログラマーでも複雑なクローズドループ制御を手軽に記述可能。</li>
+</ul>
+<p><strong>So What?:</strong> この技術により、生物神経ネットワークの実験の精度と再現性が大幅に向上し、神経科学の基礎研究だけでなく、新たな神経計算（ニューロコンピューティング）への応用が加速すると期待されます。刺激と応答がリアルタイムで連携するため、これまで難しかった神経回路の動的制御や応用開発が身近になります。</p>]]></description>
+</item>
+<item>
+<title>[要約] Defining causal mechanism in dual process theory and two types of feedback control</title>
+<link>https://arxiv.org/abs/2602.11478</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.11478v1</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.11478'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 意識と自己決定を説明するために、二重過程理論（直感的処理と熟考的処理）を物理的因果機構と結びつけた新しい統合モデルが提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>心的現象は物理的現象に依存し、その因果関係を「階層間因果機構」としてモデル化。</li>
+<li>複数の神経ネットワーク（超発現機能）を代数的に組み合わせて、フィードバック誤差を制御する仕組みを提示。</li>
+<li>誤差制御は二つの独立したプロセスで行われ、これが二重過程理論のType 1（迅速・自動的）とType 2（熟考・制御的）に対応。</li>
+<li>この枠組みで意識・エージェンシー（自己決定）・二重過程理論を統合し、各過程の特徴を自然に説明可能になる。</li>
+</ul>
+<p><strong>So What?:</strong> この研究は、脳の物理的動態と意識的認知の二重過程を結びつけ、人工知能や神経科学の理解向上に貢献。複雑な認知機能の解明やより高度なAI設計に活用できそうです。</p>]]></description>
+</item>
 </channel></rss>
