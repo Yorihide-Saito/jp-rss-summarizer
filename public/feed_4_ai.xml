@@ -4,50 +4,5 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Sun, 15 Feb 2026 02:00:24 +0000</lastBuildDate>
-<item>
-<title>[要約] IBM tripling entry-level jobs after finding the limits of AI adoption</title>
-<link>https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47009327</guid>
-<pubDate>Fri, 13 Feb 2026 23:34:09 +0000</pubDate>
-<description><![CDATA[<p><a href='https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> IBMがAI活用の限界を認識し、Z世代の新卒採用を3倍に増やす戦略に舵を切った。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>IBMはAIの完全自動化が期待ほど進んでいないと判断。</li>
-<li>その結果、創造力や柔軟な思考を持つ若手人材の重要性が再評価された。</li>
-<li>特にZ世代（1990年代後半〜2010年代初頭生まれ）を積極採用し、エントリーレベルのポジションを3倍に増やす。</li>
-<li>これは「AI時代における仕事の書き換え（rewriting jobs）」の一環であり、人間とAIの共存を意識した戦略だ。</li>
-</ul>
-<p><strong>So What?:</strong> AIで仕事が完全に代替される未来はまだ遠く、むしろ人間の新しいスキルや柔軟性が求められる時代。若手の成長を支援して自社競争力を高める動きは、我々のキャリア形成や企業の採用戦略にも示唆を与えてくれます。</p>]]></description>
-</item>
-<item>
-<title>[要約] News publishers limit Internet Archive access due to AI scraping concerns</title>
-<link>https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47017138</guid>
-<pubDate>Sat, 14 Feb 2026 18:46:32 +0000</pubDate>
-<description><![CDATA[<p><a href='https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ニュース出版社がAIによるデータ収集（スクレイピング）懸念からInternet Archiveのアクセス制限を始めている。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>多くのニュース出版社が、自身の記事がAIトレーニングに無断で使われることを防ぐため、Internet Archiveへのアクセスを制限している。</li>
-<li>Internet Archiveはウェブの過去データを保存する非営利のデジタル図書館だが、大量のコンテンツがAI開発に利用される現状に対応が迫られている。</li>
-<li>出版社側は著作権保護やコンテンツのコントロール維持が主な理由で、一方でオープンな情報アクセスとのバランス調整が課題となっている。</li>
-<li>この流れは今後、デジタルアーカイブとAI活用の関係性や法整備にも影響を与える可能性が高い。</li>
-</ul>
-<p><strong>So What?:</strong> AI開発に不可欠なデータの出処が厳しくなることで、ニュースコンテンツの利用範囲が変わりそうです。読者としては、信頼ある情報源の保護が進む一方で、情報入手の自由度が減るかもしれません。今後の動向を注視し、AIとメディアの新たな関係性を理解しておくことが重要です。</p>]]></description>
-</item>
-<item>
-<title>[要約] Show HN: Off Grid – Run AI text, image gen, vision offline on your phone</title>
-<link>https://github.com/alichherawalla/off-grid-mobile</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47019133</guid>
-<pubDate>Sat, 14 Feb 2026 22:39:24 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.com/alichherawalla/off-grid-mobile'>元記事を読む</a></p><p><strong>一言で言うと:</strong> スマホの高性能GPUを活用し、完全オフラインでAI処理ができるオープンソースアプリ「Off Grid」が登場しました。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>スマホのGPUは2018年頃の多くのノートPCよりも強力でありながら、普段はAI処理に使われていない。</li>
-<li>「Off Grid」はテキスト生成（llama.cpp）、画像生成（Stable Diffusion）、音声文字起こし（Whisper）、視覚AI（SmolVLM/Qwen3-VL）をスマホ上でオフライン実行。</li>
-<li>クラウドと違いデータが外部に送信されず、プライバシーを守りつつインターネットがなくてもAIを使える。</li>
-<li>Android、iOS両対応で、MITライセンスのオープンソースとしてGitHubで提供中。</li>
-</ul>
-<p><strong>So What?:</strong> インターネット環境が不安定な場所やプライバシー重視の状況でも、高度なAI機能をスマホ単体で安全に使える点が画期的。AI依存のスタイルを変え、個人情報の漏洩リスクを減らしつつ、最先端技術に身近に触れられます。</p>]]></description>
-</item>
+<lastBuildDate>Sun, 15 Feb 2026 12:43:40 +0000</lastBuildDate>
 </channel></rss>
