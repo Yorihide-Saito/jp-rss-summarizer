@@ -4,50 +4,20 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Tue, 17 Feb 2026 01:54:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Feb 2026 12:59:55 +0000</lastBuildDate>
 <item>
-<title>[要約] Show HN: Maths, CS and AI Compendium</title>
-<link>https://github.com/HenryNdubuaku/maths-cs-ai-compendium</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47036063</guid>
-<pubDate>Mon, 16 Feb 2026 15:15:50 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.com/HenryNdubuaku/maths-cs-ai-compendium'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIや数学、コンピューターサイエンスの本質を直感的かつ現実的に理解できる新しいオープン教材が公開された。</p>
+<title>[要約] Show HN: GitHub &quot;Lines Viewed&quot; extension to keep you sane reviewing long AI PRs</title>
+<link>https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47006587</guid>
+<pubDate>Fri, 13 Feb 2026 19:19:45 +0000</pubDate>
+<description><![CDATA[<p><a href='https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi'>元記事を読む</a></p><p><strong>一言で言うと:</strong> GitHubの大規模なAIプルリクエスト(PR)のレビュー効率を上げる「Lines Viewed（閲覧行数）」拡張機能が登場しました。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>従来の教科書は難解な記法や前提知識に依存しがちで、直感や実践的な説明が不足している。</li>
-<li>投稿者は7年間のAI/機械学習経験を踏まえ、理解しやすさを重視したメモを蓄積してきた。</li>
-<li>2024年にはその内容をもとにDeepMindやOpenAIなどの面接準備をした友人たちが全員合格・活躍中。</li>
-<li>知的好奇心が高い学生や異分野の専門家も含め、AI研究者や博士課程進学を目指す人に最適な教材。</li>
+<li>「Files viewed（閲覧ファイル数）」だけでは進捗把握が難しい大規模PRに対し、「Lines Viewed（閲覧行数）」という新指標を追加。</li>
+<li>GitHubのUIになじむデザインで、ライト・ダークモード対応のため視認性も抜群。</li>
+<li>完全ローカル動作（APIコール不要）なので、プライバシーと速度面で安心。</li>
+<li>差分の挿入と削除を分けて表示できるほか、設定で合算表示も可能。</li>
 </ul>
-<p><strong>So What?:</strong> 教科書の壁に挫折してきた人でも、理論と実践を結びつけてAI技術を深く理解しやすくなるため、キャリアアップや研究挑戦への大きな一歩となるだろう。</p>]]></description>
-</item>
-<item>
-<title>[要約] Building for an audience of one: starting and finishing side projects with AI</title>
-<link>https://codemade.net/blog/building-for-one/</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47041973</guid>
-<pubDate>Tue, 17 Feb 2026 00:00:03 +0000</pubDate>
-<description><![CDATA[<p><a href='https://codemade.net/blog/building-for-one/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIを活用して自分だけのためにサイドプロジェクトを作り、最後まで完成させる方法が注目されている。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>「一人の観客」のために作ることで、モチベーションとクリエイティビティが高まる。</li>
-<li>AI（人工知能）がコード作成やアイデア出しをサポートし、開発が効率化される。</li>
-<li>サイドプロジェクトを小さく始め、素早く完成まで持っていくコツが重要。</li>
-<li>結果として、自分のニーズに合ったツールやサービスを手軽に作れるようになる。</li>
-</ul>
-<p><strong>So What?:</strong> AIの力を借りて「自分だけ」のプロジェクトを完成させる経験は、スキルアップや新しい趣味の発見につながる。これからのクリエイティブな仕事や学びに活かせる、新しいモノづくりのスタイルとして注目したい。</p>]]></description>
-</item>
-<item>
-<title>[要約] AI is destroying Open Source, and it&apos;s not even good yet</title>
-<link>https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47042136</guid>
-<pubDate>Tue, 17 Feb 2026 00:26:20 +0000</pubDate>
-<description><![CDATA[<p><a href='https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIの急速な普及がオープンソースコミュニティの健全な発展を妨げており、現状のAI技術は十分に成熟していない。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>AI生成コードの質がまだ低く、多くのバグや非効率なコードを生み出している。</li>
-<li>AIの普及により、一部ユーザーがオープンソースプロジェクトを安易なコピペや改変に使い、本来のコラボレーション精神が損なわれている。</li>
-<li>コミュニティのモチベーションが低下し、メンテナンスやイノベーションの停滞が懸念される。</li>
-<li>今後の方向性として、AIツールと人間の開発者が補完し合う形への改善が必要とされる。</li>
-</ul>
-<p><strong>So What?:</strong> オープンソースは技術革新の土台。AIがその価値を損なうリスクを理解し、AIとの共存を模索することで、持続的な開発と質の高いソフトウェア作りを維持できる可能性がある。</p>]]></description>
+<p><strong>So What?:</strong> AI生成コードの長大なPRが増える昨今、従来の「ファイル単位」進捗指標に代わる「行単位」の可視化は、レビューの抜け漏れや見落としを減らし、生産性向上に直結します。開発者やレビュアーはより正確な進捗管理ができ、ストレスフリーに作業を進められます。</p>]]></description>
 </item>
 </channel></rss>
