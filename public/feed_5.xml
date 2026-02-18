@@ -4,76 +4,78 @@
 <title>日本語要約RSS - ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 18 Feb 2026 02:00:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Feb 2026 13:01:32 +0000</lastBuildDate>
 <item>
-<title>[要約] Qwen3.5</title>
-<link>https://www.producthunt.com/products/qwen3</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1080275</guid>
-<pubDate>2026-02-16T05:47:06-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/qwen3'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Qwen3.5は、巨大なマルチモーダル（複数データ形式対応）AIモデルで、非常に効率的に動作する新世代エージェントです。</p>
+<title>[要約] Calendarly</title>
+<link>https://www.producthunt.com/products/calendarly-calendar-on-lock-screen</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1080341</guid>
+<pubDate>2026-02-16T07:55:48-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/calendarly-calendar-on-lock-screen'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Calendarlyはカレンダーをロック画面のライブ壁紙として表示できる画期的なアプリです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>3970億パラメータを持つ大規模モデルに対し、17億のアクティブパラメータ（実際に稼働中の部分）で処理する省リソース設計。</li>
-<li>テキストだけでなく画像や他のタイプの情報も理解・生成できるマルチモーダル対応。</li>
-<li>高い計算効率により、大規模モデルの強力さと軽快な動作を両立。</li>
-<li>外部リンクでさらなるディスカッションや詳細情報が参照できる。</li>
+<li>スマホのロック画面に予定をリアルタイムで表示、確認がとても簡単に。</li>
+<li>予定管理と視認性が一体化し、無駄な操作なしでスケジュールを把握可能。</li>
+<li>直感的で美しいデザインにより、普段使いの壁紙として違和感なく使える。</li>
+<li>Product Huntで話題となり、パワーユーザーの注目を集めている。</li>
 </ul>
-<p><strong>So What?:</strong> これにより、大規模AIの高精度さを保ちながら、扱いやすいサイズでの活用が可能になり、実務や研究、クリエイティブな応用での実用性が一気に広がるでしょう。</p>]]></description>
+<p><strong>So What?:</strong> 毎日の予定を瞬時に確認できることで、忙しい現代人の時間管理効率が飛躍的に上がり、タスク忘れやリマインダーアプリの煩わしさから解放される可能性があります。</p>]]></description>
 </item>
 <item>
-<title>[要約] Brainstream</title>
-<link>https://www.producthunt.com/products/brainstream</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1077051</guid>
-<pubDate>2026-02-10T03:37:39-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/brainstream'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Brainstreamは、エージェント型AIを活用したスマートな検索と要約、タスク管理を一体化した新しいツールです。</p>
+<title>[要約] BotBot</title>
+<link>https://www.producthunt.com/products/botbot</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1080914</guid>
+<pubDate>2026-02-17T05:56:00-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/botbot'>元記事を読む</a></p><p><strong>一言で言うと:</strong> BotBotはあらゆる多脚ロボット向けのオープンソースの「頭脳」として機能するプラットフォームです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>エージェント型AI（自律的に動くAI）が検索や情報収集を自動化し、効率的なブリーフィング（要約）を生成</li>
-<li>単なる情報探索だけでなく、タスク管理機能も備え、作業の流れをスムーズにサポート</li>
-<li>ユーザーの意図を理解して、必要な情報を的確に抽出するスマート検索技術を搭載</li>
+<li>多脚ロボットとは、四脚や六脚など複数の脚を持つロボットのこと。</li>
+<li>BotBotはこの種ロボットの制御を共通化し、開発効率を大幅に向上させるオープンソース技術。</li>
+<li>多くの開発者が参加できるため、新機能追加や改善が期待できる。</li>
+<li>オープンソースなので、自分好みにカスタマイズ可能で学習コストも抑えられる。</li>
 </ul>
-<p><strong>So What?:</strong> 日々の情報収集や複雑なタスク処理が増える現代で、Brainstreamを使うことで時間を節約しながら、質の高い意思決定が可能になります。知的作業の効率アップに直結するツールとして注目です。</p>]]></description>
+<p><strong>So What?:</strong> ロボット開発を始めたい人や独自の多脚ロボットを作りたいと考えている技術者にとって、BotBotは手軽に高性能な制御基盤を手に入れられる貴重なリソース。これからのロボットイノベーションを加速させる鍵となりそうです。</p>]]></description>
 </item>
 <item>
-<title>[要約] Boost.space v5</title>
-<link>https://www.producthunt.com/products/boost-space</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1077674</guid>
-<pubDate>2026-02-11T01:45:53-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/boost-space'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Boost.space v5は、AIエージェントや自動化ツール間での共有コンテキストを強化し、効率的な連携を実現する最新プラットフォームです。</p>
+<title>[要約] Deckary</title>
+<link>https://www.producthunt.com/products/deckary</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1080455</guid>
+<pubDate>2026-02-16T10:55:30-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/deckary'>元記事を読む</a></p><p><strong>一言で言うと:</strong> DeckaryはPowerPoint用のAIコンサルティングツールキットで、プレゼン作成を劇的に効率化します。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>AIエージェント（人工知能プログラム）同士が情報を共有しやすくなるため、タスクの連携がスムーズに。</li>
-<li>バージョン5では共有コンテキスト機能が大幅にアップデートされ、より複雑な作業も効率化。</li>
-<li>自動化プロセスの中での認識のズレを減らし、エラー率の低下が期待される。</li>
+<li>PowerPoint向けに特化したAIツールキットで、スライド作成をサポート。</li>
+<li>コンテンツの構成やデザイン提案など、コンサルティング的な支援が可能。</li>
+<li>AIを活用し、専門知識がなくても質の高いプレゼン資料を短時間で作成できる。</li>
+<li>Product Hunt上でユーザーからの注目とフィードバックを集めている。</li>
 </ul>
-<p><strong>So What?:</strong> 多様なAIツールを使いこなす現代において、Boost.space v5を活用すれば、複数のAIが連携し合い、日常業務や開発の効率化に直結。次世代の自動化環境を整える手助けとなるでしょう。</p>]]></description>
+<p><strong>So What?:</strong> 忙しいビジネスパーソンやプレゼン初心者でも、Deckaryを使えばプロ並みの資料を効率よく作れるため、時間節約と説得力の強化に直結します。</p>]]></description>
 </item>
 <item>
-<title>[要約] Layers</title>
-<link>https://www.producthunt.com/products/layers-6</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1078605</guid>
-<pubDate>2026-02-12T14:40:24-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/layers-6'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Layersは、あなたのコードを理解してより効果的なマーケティングメッセージを作る新しいツールです。</p>
+<title>[要約] Cencurity</title>
+<link>https://www.producthunt.com/products/cencurity</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1081126</guid>
+<pubDate>2026-02-17T12:25:52-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/cencurity'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Cencurityは、大規模言語モデル（LLM）エージェントの安全性を守るためのセキュリティゲートウェイです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>マーケティングエージェントがプログラムコードを解析し、最適なメッセージング戦略を提案する</li>
-<li>単なるテンプレートではなく、コードの意図や構造に基づいたパーソナライズが可能</li>
-<li>開発者とマーケター間のギャップを埋め、コミュニケーション効率を向上させる設計</li>
+<li>LLMエージェントが外部のアプリやサービスと連携する際のリスクを軽減する仕組みを提供。</li>
+<li>不正アクセスや悪用を防ぐための監視・制御機能が搭載されている。</li>
+<li>開発者が安心してAIを活用できる環境を整えることを目指している。</li>
 </ul>
-<p><strong>So What?:</strong> 技術的なバックグラウンドを持つ人の行動パターンやニーズに合った広告や案内が実現可能になり、ビジネスの成果アップだけでなく、ユーザー体験の質向上にもつながるでしょう。</p>]]></description>
+<p><strong>So What?:</strong> AI活用の拡大に伴い、LLMが誤った動作や悪意ある使用されるリスクも増加中。Cencurityのようなセキュリティゲートウェイを使うことで、安全にAIエージェントを運用し、ビジネスや日常のDX（デジタルトランスフォーメーション）を加速させられるでしょう。</p>]]></description>
 </item>
 <item>
-<title>[要約] Securing the AI software supply chain: Security results across 67 open source projects</title>
-<link>https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/</link>
-<guid isPermaLink='false'>https://github.blog/?p=93831</guid>
-<pubDate>Tue, 17 Feb 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> GitHubの支援で67のAI関連オープンソースプロジェクトがセキュリティ強化に成功し、AIソフトウェアの供給網の安全性が向上しました。</p>
+<title>[要約] yottoCode</title>
+<link>https://www.producthunt.com/products/yottocode</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1081161</guid>
+<pubDate>2026-02-17T13:23:16-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/yottocode'>元記事を読む</a></p><p><strong>一言で言うと:</strong> yottoCodeはTelegram（メッセージアプリ）とClaude Code（AIコード生成ツール）を組み合わせた新しい開発支援サービスです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>GitHub Secure Open Source Fundの支援により、重要なAIスタック（AIを支える基盤技術）プロジェクトの脆弱性修正が加速。</li>
-<li>67のオープンソースプロジェクト全体でセキュリティ体制が強化され、エコシステム全体の耐久性（レジリエンス）が向上。</li>
-<li>AIソフトウェアのサプライチェーン（開発から提供までの流れ）に潜むリスクを減らすための具体的な成果が報告されている。</li>
+<li>yottoCodeはTelegramをプラットフォームとして活用し、チャット感覚でコード生成や開発サポートができる。</li>
+<li>Claude CodeはAIによるコード自動生成技術で、開発の効率化やアイデアの具体化を助ける。</li>
+<li>この統合により、開発者が日常的に使うチャットアプリ上で気軽に高度なAI支援を受けられるようになる。</li>
 </ul>
-<p><strong>So What?:</strong> AIの発展にはオープンソースの安定した基盤が不可欠なので、こうした取り組みは技術者だけでなく、安心してAIを利用する全てのユーザーにとっても重要です。興味があるなら、どのように安全性が確保されているか知ることで、より深くAI技術の未来を理解できるでしょう。</p>]]></description>
+<p><strong>So What?:</strong> 開発者は普段使いのTelegramから離れることなく、AIによるコード支援を得られるため、作業効率が大幅にアップし、アイデア検証も素早く行えます。これにより新しいプロジェクトの立ち上げや問題解決が非常にスムーズになる可能性があります。</p>]]></description>
 </item>
 </channel></rss>

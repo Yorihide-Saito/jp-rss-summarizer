@@ -4,5 +4,275 @@
 <title>日本語要約RSS - arXiv (学術論文)</title>
 <link>https://github.com/</link>
 <description>arXiv (学術論文)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 18 Feb 2026 01:57:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Feb 2026 13:00:34 +0000</lastBuildDate>
+<item>
+<title>[要約] Functional Central Limit Theorem for Stochastic Gradient Descent</title>
+<link>https://arxiv.org/abs/2602.15538</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15538v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15538'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 確率的勾配降下法（SGD）の経路（たどる軌跡）が、関数の最小値付近でどのように揺らぐかを時間軸ごとに詳細に記述する定理が示されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>凸関数最適化におけるSGDの経路を適切に拡大縮小して解析した。</li>
+<li>経路全体の揺らぎを捉える「関数型中心極限定理（Functional Central Limit Theorem）」を証明。</li>
+<li>従来の最終点やポリヤック・ラプリュール平均の中心極限定理と異なり、時間的な構造も考慮した解析。</li>
+<li>非滑らかな関数（ロバスト位置推定や幾何学的中央値など）にも適用可能な汎用性の高さ。</li>
+</ul>
+<p><strong>So What?:</strong> SGDの挙動を時間軸で詳しく理解できるため、アルゴリズムの安定性や収束過程の解析に新たな視点を提供。ロバスト統計や非滑らかな問題設定でも活用でき、機械学習や統計推定の信頼性向上に役立ちそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Sparse Additive Model Pruning for Order-Based Causal Structure Learning</title>
+<link>https://arxiv.org/abs/2602.15306</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15306v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15306'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 新しいスパース加法モデルを使った枝刈り手法が、因果構造学習の計算効率と精度を大幅に改善します。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>因果関係推定では、DAG（有向非閉路グラフ）の順序決定と枝刈りの二段階があり、従来は順序決定に注目が集まっていた。</li>
+<li>既存の枝刈り手法（CAM-pruning）は加法モデルと仮説検定に基づくが、多数の繰り返しモデル適合が必要で計算負荷が高い。</li>
+<li>提案手法はスパース加法モデルを用い、仮説検定なしで不要な枝を直接削除可能にし、ランダム化木埋め込み＋グループスパース回帰で効率化。</li>
+<li>合成データ・実データで既存手法より高速かつ同等以上の精度を実証している。</li>
+</ul>
+<p><strong>So What?:</strong> 因果構造を高速かつ正確に推定できることで、複雑なデータ解析や機械学習のモデル解釈がより実用的になり、多変量の因果関係理解や政策評価などに活用しやすくなります。</p>]]></description>
+</item>
+<item>
+<title>[要約] Universal priors: solving empirical Bayes via Bayesian inference and pretraining</title>
+<link>https://arxiv.org/abs/2602.15136</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15136v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15136'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 事前学習したトランスフォーマーが、未知の分布にも強く適応できる理由を理論的に示した研究です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>シンセティック（人工的に生成した）データで事前学習したトランスフォーマーが、経験的ベイズ（EB）問題で高い性能を示す理由を理論的に解明。</li>
+<li>モデルの構造ではなく、「普遍的事前分布（universal priors）」の存在を軸に考察し、任意のテスト分布に対して均一に近最適な遅れ誤差（regret）を保証。</li>
+<li>ベイズ統計の「事後収縮（posterior contraction）」という古典的現象により、事前学習済みモデルが未知の分布へ適応できることを説明。</li>
+<li>テスト時のシーケンス長がトレーニング時より長くても対応できる「長さ一般化（length generalization）」の現象も、一般化された事後分布によるベイズ推論で説明可能。</li>
+</ul>
+<p><strong>So What?:</strong> これにより、事前学習済みモデルの柔軟性と強力な適応能力の理論的基盤が明らかになり、異なる問題にまたがる汎用的な機械学習モデル設計や、分布変化に強いAIの発展に寄与します。</p>]]></description>
+</item>
+<item>
+<title>[要約] Mixture-of-Experts under Finite-Rate Gating: Communication--Generalization Trade-offs</title>
+<link>https://arxiv.org/abs/2602.15091</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15091v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15091'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Mixture-of-Experts（専門家モデル）のゲーティング（選択）を通信理論で解析し、情報量制限下での表現力と一般化性能のトレードオフを明らかにした研究です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>MoEモデルは複数の専門家サブネットワークにタスクを分解し、ゲート（選択機構）がどの専門家を使うか決定する。</li>
+<li>この研究ではゲーティングを「確率的通信チャネル」と見なし、有限の情報レート（伝送量）で動作するモデルとして解析。</li>
+<li>情報理論のフレームワークで、ゲーティング情報量（$R_g$）に基づく一般化性能の上限（相互情報量とレート歪み理論を用いて）を数式で示した。</li>
+<li>数値シミュレーションにより、ゲーティングの伝送容量がモデルの表現力や一般化能力に及ぼす影響を定量的に確認。</li>
+</ul>
+<p><strong>So What?:</strong> モデルの選択機構に通信帯域の制約がある現実的な状況で、どれだけ情報を伝えられるかが性能の鍵。この解析は、資源制約下でも効率的に専門家モデルを設計・運用する指針を提供し、AIの実環境応用や省リソース推論に役立ちそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Learning Representations from Incomplete EHR Data with Dual-Masked Autoencoding</title>
+<link>https://arxiv.org/abs/2602.15159</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15159v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15159'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 不完全な電子カルテデータから直接効率的に特徴表現を学習する新手法が登場しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>電子カルテ（EHR）データは不規則な記録や欠損が多く、学習が難しいという問題がある。</li>
+<li>従来は欠損値を補完（インピュテーション）したり、欠損情報を入力に加えたりしていたが、どれも表現学習の効率を落としやすい。</li>
+<li>AID-MAEは「内在的欠損マスク」と「追加マスク」の二重マスク構造で、欠損も観測値の隠蔽も学習対象にしながら特徴の抽出に成功。</li>
+<li>結果的にXGBoostやDuETTを含む既存手法を上回る性能を発揮し、患者群の自然なクラスタリングも可能にした。</li>
+</ul>
+<p><strong>So What?:</strong> 欠損だらけの医療タイムシリーズデータでも、補完に頼らずに有用な表現が学べるため、臨床でのリスク予測や患者層の把握がより正確かつ効率的になる可能性があります。</p>]]></description>
+</item>
+<item>
+<title>[要約] Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields</title>
+<link>https://arxiv.org/abs/2602.15155</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15155v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15155'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 高精度かつ高速な推論を両立するために「遅いが高表現力のネットワーク」と「速い埋め込み構造」を分離する新しいニューラル表現法が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Implicit Neural Representations（INRs）という３D科学シミュレーションの連続的空間表現における精度と速度のトレードオフを解決。</li>
+<li>DRR（Decoupled Representation Refinement）パラダイムでは、一度だけ重いネットワークで詳細表現を生成し、それを高速な埋め込みへ変換して推論に活用。</li>
+<li>DRR-NetというシンプルなネットワークとVariational Pairsというデータ拡張手法で複雑な高次元モデルも扱いやすく。</li>
+<li>実験結果では、従来の高精度モデルより最大27倍速く、かつ高い精度を維持することに成功。</li>
+</ul>
+<p><strong>So What?:</strong> 最新の3Dシミュレーションや科学的モデリングで、高精度を犠牲にせず高速な推論が可能になるので、リアルタイム解析や大規模データ処理に大きな恩恵をもたらします。研究や産業応用での効率化に直結する技術です。</p>]]></description>
+</item>
+<item>
+<title>[要約] PolyNODE: Variable-dimension Neural ODEs on M-polyfolds</title>
+<link>https://arxiv.org/abs/2602.15128</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15128v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15128'>元記事を読む</a></p><p><strong>一言で言うと:</strong> PolyNODEは次世代の可変次元ニューラル常微分方程式モデルで、多様な次元変化を扱える空間上での深層学習を可能にします。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来のNODE（ニューラル常微分方程式）は固定次元の多様体（manifold）上でしか動作しなかった。</li>
+<li>PolyNODEはM-polyfold（可変次元かつ微分可能な空間）上に拡張された、初の可変次元フローモデル。</li>
+<li>次元のボトルネックを通過する可変次元の流れをパラメータ化されたベクトル場で表現し、自己符号化などの再構築タスクに成功。</li>
+<li>このモデルの潜在表現は分類など後続のタスクにも活用可能で、コードもオープンソースで公開中。</li>
+</ul>
+<p><strong>So What?:</strong> 固定次元の制約を超え、より複雑で柔軟なデータ構造や変化する特徴空間に対応できるため、次世代の深層学習モデル設計や応用範囲拡大に期待が持てます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Hybrid Feature Learning with Time Series Embeddings for Equipment Anomaly Prediction</title>
+<link>https://arxiv.org/abs/2602.15089</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15089v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15089'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 深層学習と統計的特徴量を組み合わせたハイブリッド手法で、設備の異常予測精度を大幅に向上させました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Granite TinyTimeMixerによる64次元の時系列埋め込みと、専門知識に基づく28種類の統計的特徴量を統合。</li>
+<li>LightGBM（勾配ブースティング）の分類器で30日、60日、90日先の異常を予測し、ROC-AUC0.995の高精度を達成。</li>
+<li>偽陽性率1.1％以下かつ検出率88〜94％で、実運用レベルの性能を実証。</li>
+<li>LoRA（ローランク適応）を利用しモデルの微調整を効率化しつつ、高い性能を維持。</li>
+</ul>
+<p><strong>So What?:</strong> 実際の設備保全で使える高精度・低誤報の異常検知システムを実現できるため、保守コスト削減や故障の早期発見に直結し、信頼性向上に貢献します。</p>]]></description>
+</item>
+<item>
+<title>[要約] Near-Optimal Sample Complexity for Online Constrained MDPs</title>
+<link>https://arxiv.org/abs/2602.15076</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15076v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15076'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 安全性制約付きの強化学習（CMDPs）において、従来よりも少ない試行回数でほぼ最適かつ安全なポリシーをオンラインで学習できる新アルゴリズムが提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>安全性が重要な応用分野（自動運転やロボット、医療）での強化学習でCMDPsが利用されるが、既存手法は安全性違反や高いサンプル複雑度に悩まされていた。</li>
+<li>緩和された許容違反（小さな安全性違反を認める）と厳格な違反ゼロの2設定に対応したモデルベースのプライマル・デュアル手法を開発。</li>
+<li>緩和条件下では、無制約のMDPと同レベルの試行回数（サンプル複雑度）でほぼ最適な方策を高確率で学習可能。</li>
+<li>厳格違反ゼロの条件下でも、理論的にほぼ最適な方策が達成可能で、関連下界（限界）に到達する結果を示した。</li>
+</ul>
+<p><strong>So What?:</strong> 実用的かつ安全な強化学習アルゴリズムの開発により、自動運転車や医療ロボットのような重要分野で安全性を担保しつつ効率よく学習させることが可能になり、今後の応用展開が大きく期待されます。</p>]]></description>
+</item>
+<item>
+<title>[要約] da Costa and Tarski meet Goguen and Carnap: a novel approach for ontological heterogeneity based on consequence systems</title>
+<link>https://arxiv.org/abs/2602.15158</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15158v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15158'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 新しい「da Costian-Tarskianism」という理論で、異なる存在論（オントロジー）同士のズレを数学的に扱う方法が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>CarnapやGoguenの哲学を基盤に、da Costaの許容原理（多様な論理体系を認める考え方）とTarskiの帰結演算子（論理的結論を導く仕組み）を組み合わせた新アプローチ。</li>
+<li>Carnielliらが提唱した帰結システム（論理的帰結の枠組み）を拡張し、存在論的公理を含む「拡張帰結システム」を導入。</li>
+<li>「拡張展開グラフ」という構造を用いて、異なるオントロジー同士を関係付ける（モルフィズムやファイバリング、分割などの操作で接続可能）。</li>
+<li>この理論は応用存在論（実際の知識表現やデータ統合など）に新たな視点をもたらし、今後の研究の方向性を示唆。</li>
+</ul>
+<p><strong>So What?:</strong> 異なる専門分野やシステム間での知識の食い違いを数学的に整理できるため、高度なデータ統合やAIの知識処理に役立つ可能性があります。理論的基盤を理解することで、複雑な情報の調和や連携がよりスムーズになるかもしれません。</p>]]></description>
+</item>
+<item>
+<title>[要約] Panini: Continual Learning in Token Space via Structured Memory</title>
+<link>https://arxiv.org/abs/2602.15156</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15156v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15156'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Paniniは、人間の記憶のように経験を構造化して蓄積し、効率的かつ高精度に継続的学習を実現する新しい言語モデル補助システムです。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来のRAG（検索強化生成）とは異なり、Paniniは生の文書を逐一検索するのではなく、質問回答ペアで構造化した「Generative Semantic Workspaces（GSW）」に知識を蓄積。</li>
+<li>GSWは事象や主体を意識したネットワークで、新しい情報を非パラメトリック（モデルの重みを変えない外部記憶）に統合可能。</li>
+<li>6つの質問応答ベンチマークで5-7%の精度向上を達成しつつ、回答に使うトークン数を2-30倍も削減。</li>
+<li>オープンソースかつ、無回答クエリに対する誤答も減少し、実用性の高い継続学習を実現。</li>
+</ul>
+<p><strong>So What?:</strong> 継続的に学習を行う際の計算コストと誤答リスクを大幅に抑えられるため、ユーザー固有の最新情報や動的知識を取り扱うAIアプリの性能向上に直結します。これにより、より信頼できるAI体験が期待できるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Protecting Language Models Against Unauthorized Distillation through Trace Rewriting</title>
+<link>https://arxiv.org/abs/2602.15143</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15143v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15143'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 言語モデルの知識を無断でコピーされるのを防ぐため、回答の途中過程（推論トレース）を書き換えて効果的に阻止しつつ正確さも維持する新手法が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>知識蒸留（大規模言語モデルの能力を小型化モデルに移す技術）を無断使用から守る対策として、教師モデルの推論トレースを動的に書き換える方法を開発。</li>
+<li>書き換えで回答は正しく意味の整ったまま、訓練に役立たない「アンチ蒸留」効果を実現。</li>
+<li>API利用者のモデルに埋め込む識別可能な「ウォーターマーク」も同時に付与可能で、不正利用の証明に役立つ。</li>
+<li>実験では、シンプルな指示ベースの書き換えが効果的で、教師モデルの性能を損なわないどころか向上させる事例も報告。</li>
+</ul>
+<p><strong>So What?:</strong> 大規模言語モデル開発の巨額投資を守りつつ、メーカーがAPI提供を安心して拡大できる技術であり、開発者は自社モデルの知的財産保護に活用可能。今後のAI普及において公正な競争環境を支える重要な一歩となりそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] ResearchGym: Evaluating Language Model Agents on Real-World AI Research</title>
+<link>https://arxiv.org/abs/2602.15112</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15112v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15112'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ResearchGymは、最先端の言語モデルエージェントが実際のAI研究課題を解く能力を試す新しい評価環境です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>実際のAI研究論文の課題を再現し、エージェントに仮説提案や実験、結果改善を求める5つの環境を構築。</li>
+<li>GPT-5を搭載したエージェントは、全15回の評価でわずか6.7%の確率で基準を上回り、タスク完了率は26.5%にとどまる。</li>
+<li>失敗要因として、長期間の作業計画の難しさ、時間・リソース管理の甘さ、弱い仮説への過信、並列実験の調整困難が判明。</li>
+<li>ただし、稀にICML 2025の最先端課題で人間を上回る成果もあり、潜在力の高さも示唆される。</li>
+</ul>
+<p><strong>So What?:</strong> AI研究の自動化を目指す上で、現状の言語モデルはまだ信頼性に課題があることが明確に。ResearchGymは失敗ポイントの分析や改善を促進し、将来の高度な自律エージェント開発に役立つ基盤を提供します。</p>]]></description>
+</item>
+<item>
+<title>[要約] Attention-gated U-Net model for semantic segmentation of brain tumors and feature extraction for survival prognosis</title>
+<link>https://arxiv.org/abs/2602.15067</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15067v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15067'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 注意機構を組み込んだ改良型U-Netモデルが脳腫瘍の高精度セグメンテーションと生存予測に有望な成果を示した。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>グリオーマ（脳の悪性腫瘍）の画像解析に特化したAttention-Gated R2U-Net（注意機構付き残差再帰型U-Net）を使い、三方向（トリプラナー）の2.5D入力でセグメンテーション精度を向上。</li>
+<li>BraTS2021データセットにて、腫瘍全体の分割でDice類似度スコア0.900を達成し、最先端モデルと肩を並べる性能。</li>
+<li>トリプラナーそれぞれのモデルから抽出した64特徴量をANN（人工ニューラルネットワーク）で28に絞り込み、生存日数の予測モデルを構築。</li>
+<li>予測精度は約46％、平均二乗誤差10万超ながら腫瘍画像からの生存予測として一定の相関（Spearman係数0.338）を示した。</li>
+</ul>
+<p><strong>So What?:</strong> 複雑な脳腫瘍画像解析で高精度な腫瘍検出が可能になれば、外科手術や治療計画の質が向上し、患者ごとの予後予測にも役立つ。最新の深層学習技術を臨床応用に近づける重要な一歩と言えそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Lesion-Independent Associations Between Thalamic Nuclei Volumes and Information Processing Speed in Multiple Sclerosis</title>
+<link>https://arxiv.org/abs/2511.21677</link>
+<guid isPermaLink='false'>oai:arXiv.org:2511.21677v2</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2511.21677'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 多発性硬化症（MS）における情報処理速度低下は、脳の視床（ししょう）の特定核の縮小が病変（損傷）とは独立して影響していることが明らかになりました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>MS患者100名の視床26領域の容積と情報処理速度（Symbol Digit Modalities Test）を自動解析で評価</li>
+<li>病変量を考慮しても、全視床および感覚中継核（腹側後外側核・内側外側膝状体など）と連合核（プルビナーや内側背側核）で処理速度との関連が維持された</li>
+<li>これらの部位は病変に依存しない萎縮が認められ、病変に直接影響された部位より情報処理障害への寄与が少なめ（13.4%対34.2%）</li>
+<li>焦点性損傷と慢性神経変性による多様なメカニズムが情報処理速度低下を引き起こしていると示唆される</li>
+</ul>
+<p><strong>So What?:</strong> 伝統的に病変だけで評価されがちなMSの認知障害ですが、視床核ごとの萎縮パターンを理解することで、より正確なリスク判定や個別化治療への道が開けます。専門的な画像解析を活用し、病変非依存的な神経変性にも注目することが重要です。</p>]]></description>
+</item>
+<item>
+<title>[要約] A Foundational Theory for Decentralized Sensory Learning</title>
+<link>https://arxiv.org/abs/2503.15130</link>
+<guid isPermaLink='false'>oai:arXiv.org:2503.15130v2</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2503.15130'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 生物の学習は、細胞レベルで進化した負のフィードバック制御を基本とし、それが大脳の局所的な学習アルゴリズムの基盤になっている可能性が示された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来のAIや神経科学は全体の誤差指標を使うが、本研究は感覚信号を負のフィードバック制御として再解釈している。</li>
+<li>この仕組みは単細胞生物にも見られ、局所的な学習シグナルだけで適応可能と仮説を立てている。</li>
+<li>多細胞生物では細胞間分業を支える通信手段として神経系が進化したと示唆されている。</li>
+<li>この理論は生物の感覚処理や身体制御の理解を深め、AIの局所学習アルゴリズム開発に応用可能と期待される。</li>
+</ul>
+<p><strong>So What?:</strong> 複雑な全体のエラーフィードバックを必要としない局所的な学習の原理は、より効率的で柔軟な人工知能やロボットの設計に役立ち、生物の進化と学習を繋ぐ新たな架け橋となる可能性があります。</p>]]></description>
+</item>
+<item>
+<title>[要約] A golden-ratio partition of information and the balance between prediction and surprise: a neuro-cognitive route to antifragility</title>
+<link>https://arxiv.org/abs/2602.15266</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15266v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15266'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 予測と驚きのバランスを黄金比で捉え、脳が持つ「アンチフラジャイル」（逆境に強い）な適応メカニズムの設計原理を示した。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>情報理論的関数$f(p)$で予測の精度$p$と未解明の新奇性$(1-p)$のバランスを定量化。</li>
+<li>関数の最大点$p^* \approx 0.882$は確信度が高いが驚きの余地も残す状態を示す。</li>
+<li>さらに、既知情報と未知情報の自己相似性を課すと、黄金比の逆数$p \approx 0.618$という構造的に特別な分割が導かれる。</li>
+<li>この黄金比バランスは予測と驚きの臨界点を維持し、神経活動のパワーロー分布やアンチフラジャイルな適応を説明する鍵とされる。</li>
+</ul>
+<p><strong>So What?:</strong> 予測とサプライズの黄金比的バランスは、人工知能や神経科学、適応システム設計に新たな指針を与え、リスクを最小化しつつ環境変化に強くなる仕組みの理解と実装に役立つだろう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Energy budgets govern synaptic precision and its regulation during plasticity</title>
+<link>https://arxiv.org/abs/2602.15787</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15787v1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15787'>元記事を読む</a></p><p><strong>一言で言うと:</strong> シナプス（神経の接合部）の情報伝達の正確さは、利用可能なエネルギー予算によって制約されていることが明らかになりました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>シナプスの応答のばらつきを最小化しつつ、一定の平均応答とエネルギー制約の下で最適化する理論フレームワークを開発。</li>
+<li>既存の生理学的データを解析し、シナプスの平均・分散ペアが最小エネルギー境界近くに位置することを発見。</li>
+<li>カルシウムポンプ（Ca²⁺を輸送するタンパク質）関連のエネルギーコストが主要で、シナプス精度とエネルギー消費には特定のべき乗関係があることを示した。</li>
+<li>シナプス可塑性（学習や適応での変化）は、エネルギー予算の配分を調整し、それによって応答のばらつきも予測可能になる。</li>
+</ul>
+<p><strong>So What?:</strong> この発見は、神経回路の信号の「正確さ」と「エネルギー消費」のバランスに新たな理論的な裏付けを与え、脳機能の効率的な設計や人工神経ネットワークのエネルギー管理に役立つ可能性があります。</p>]]></description>
+</item>
 </channel></rss>
