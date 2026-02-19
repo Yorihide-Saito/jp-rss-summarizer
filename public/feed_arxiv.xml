@@ -4,5 +4,305 @@
 <title>日本語要約RSS - arXiv (学術論文)</title>
 <link>https://github.com/</link>
 <description>arXiv (学術論文)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Thu, 19 Feb 2026 01:56:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 13:01:20 +0000</lastBuildDate>
+<item>
+<title>[要約] Empirical Cumulative Distribution Function Clustering for LLM-based Agent System Analysis</title>
+<link>https://arxiv.org/abs/2602.16131</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16131v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16131'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 大規模言語モデル（LLM）の応答品質を分布の視点から評価し、隠れたパフォーマンス差を明らかにする新手法を提案。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来の正解一致率だけでなく、コサイン類似度の経験分布関数（ECDF）を使い回答の質を多角的に評価。</li>
+<li>ECDF間の距離に基づいて$k$-medoids法でクラスタリングし、異なるLLM設定の特徴的な応答パターンを可視化。</li>
+<li>温度設定やペルソナ（話者の性格付け）、質問トピックごとの応答質の違いを深く理解できる。</li>
+<li>単一の最終答案では見えにくい回答群の分布的な多様性と質のばらつきを捉えることに成功。</li>
+</ul>
+<p><strong>So What?:</strong> この評価方法により、同精度のモデルでも回答の質や多様性の違いを分析可能で、LLMの性能改善や用途別の最適設定選定に役立つ。単なる正誤判定以上の洞察を得たい研究者や開発者に特に重要な手法と言えそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Partial Identification under Missing Data Using Weak Shadow Variables from Pretrained Models</title>
+<link>https://arxiv.org/abs/2602.16061</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16061v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16061'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 不完全なユーザーフィードバック（回答漏れ）問題を、大規模言語モデル（LLM）による予測を取り入れて部分的に識別し、より正確な評価範囲を得る新手法を提案。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>ユーザーフィードバックは「Missing Not At Random（MNAR）」＝回答する人の偏りでバイアスがかかる問題がある</li>
+<li>従来法は強いパラメトリック仮定や特別な補助変数に依存しがちで実務で使いづらい</li>
+<li>本研究は、LLMなどの事前学習済みモデルからの予測を「弱いシャドウ変数（weak shadow variables）」として活用し、線形計画問題を解くことで評価指標の範囲を絞り込む</li>
+<li>この方法は推定区間を大幅に狭めつつ（75～83%縮小）、現実的なMNAR状況下でも正確さを保つ</li>
+</ul>
+<p><strong>So What?:</strong> ユーザーフィードバックの偏りによる評価の不確実性を実務的に減らせるため、プラットフォーム運営や社会調査での意思決定がより根拠あるものに。LLMの活用で従来困難だった欠損問題の部分識別が現実的に。</p>]]></description>
+</item>
+<item>
+<title>[要約] Robust Stochastic Gradient Posterior Sampling with Lattice Based Discretisation</title>
+<link>https://arxiv.org/abs/2602.15925</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15925v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15925'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ミニバッチサイズや勾配ノイズに強い新しいベイズ後方分布サンプリング法「SGLRW」が提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>確率的勾配マルコフ連鎖モンテカルロ法（SG-MCMC）は大規模ベイズ推論で使われるが、ミニバッチサイズやノイズに敏感。</li>
+<li>新手法「Stochastic Gradient Lattice Random Walk（SGLRW）」はラティス（格子）に基づく離散化を応用し、更新共分散行列の非対角要素にのみノイズを加える。</li>
+<li>この設計により、従来のSGLD（確率的勾配ランジュバン動力学）と比べてミニバッチサイズの影響を受けにくく、理論的にも正確性を保つ。</li>
+<li>重み付きノイズが強い状況でも安定し、回帰・分類問題でSGLDを凌駕する性能を実証した。</li>
+</ul>
+<p><strong>So What?:</strong> ミニバッチサイズや勾配ノイズへの耐性が高いSGLRWは、大規模データやノイズが激しい環境でのベイズ推論をより信頼できるものにし、実用的な機械学習モデルの精度向上につながる可能性がある。</p>]]></description>
+</item>
+<item>
+<title>[要約] Including Node Textual Metadata in Laplacian-constrained Gaussian Graphical Models</title>
+<link>https://arxiv.org/abs/2602.15920</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15920v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15920'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ノードのテキストメタデータを活用した新しいガウスグラフモデル学習法が、より精度の高いクラスタリングを実現する。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来のガウスグラフモデル（GGM）はノードのデータ信号のみを使い、テキストメタデータは無視されがち。</li>
+<li>本研究はラプラシアン制約下のGGMにテキストメタデータを統合し、両情報を同時に活用する手法を提案。</li>
+<li>最適化問題として定式化され、効率的に解を得るためのmajorization-minimization（MM）アルゴリズムを開発。</li>
+<li>実金融データでの実験で、従来法よりもクラスタリング性能が大幅に向上することを確認。</li>
+</ul>
+<p><strong>So What?:</strong> グラフ構造の解析精度を高めたいなら、単なる数値信号だけでなくテキストなどの補助情報も統合するのが効果的。特に金融やソーシャルネットワーク解析など多様な情報源を扱う分野での応用が期待できる。</p>]]></description>
+</item>
+<item>
+<title>[要約] Generalized Leverage Score for Scalable Assessment of Privacy Vulnerability</title>
+<link>https://arxiv.org/abs/2602.15919</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15919v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15919'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 個々のデータのプライバシーリスクをモデル再学習なしで効率的に評価できる新しい指標を提案した研究です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>メンバーシップ推論攻撃(MIA)によるプライバシー漏洩は、データ点のモデルへの影響度（leverage score）で理論的に説明可能。</li>
+<li>線形モデルの枠組みでleverage scoreと個別MIAリスクの対応関係を確立し、プライバシー脆弱性の指標に。</li>
+<li>この考えを深層学習にも応用し計算負荷を大幅に削減した拡張版leverage scoreを提案。</li>
+<li>実験で提案指標がMIA成功率と高い相関を持ち、実用的なリスク評価ツールとなることを検証。</li>
+</ul>
+<p><strong>So What?:</strong> モデルを再学習したり攻撃をシミュレーションしたりせずに各データのプライバシーリスクを把握できるので、大規模データ利用時の安全性評価や個別保護対策がより迅速かつ効率的に行えます。最先端のAIモデル運用に必須のツールとなり得るでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] IT-OSE: Exploring Optimal Sample Size for Industrial Data Augmentation</title>
+<link>https://arxiv.org/abs/2602.15878</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15878v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15878'>元記事を読む</a></p><p><strong>一言で言うと:</strong> IT-OSEは産業用データ拡張で最適なサンプルサイズを理論的に推定し、モデル性能を効率的に向上させる手法です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>データ拡張の効果は一方的ではなく、最適サンプル数（OSS）の理論的推定が未整備だった問題を解決。</li>
+<li>IT-OSE（情報理論に基づく最適サンプルサイズ推定）を提案し、精度評価のためのICDスコア（推定の直感的評価指標）も開発。</li>
+<li>実験で、分類タスクの精度を平均4.38%向上、回帰タスクの誤差を平均18.80%削減し、推定の安定性も大幅に改善。</li>
+<li>既存の総当たり探索に比べて、計算コストを約84%、データコストを約93%削減しつつ同等の結果を達成。</li>
+</ul>
+<p><strong>So What?:</strong> 膨大なデータや計算資源を使いがちな産業向けの機械学習で、IT-OSEを使えば効率的かつ理論的にサンプルサイズを決定でき、コスト削減と高精度化を両立可能。特にセンサーデータが中心の現場で即戦力になるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Genetic Generalized Additive Models</title>
+<link>https://arxiv.org/abs/2602.15877</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15877v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15877'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 遺伝的アルゴリズムを使って、解釈しやすく高精度なGeneralized Additive Models（GAM）を自動最適化する新手法が登場しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>NSGA-IIという多目的遺伝的アルゴリズムで、予測誤差（RMSE）とモデルの複雑さ（スパース性、滑らかさ、不確実性）を同時に最小化。</li>
+<li>カリフォルニア住宅価格データセットで、従来のLinearGAMを超えるか同等の精度で、より簡潔で滑らかなモデルを発見。</li>
+<li>結果的に信頼区間（予測の不確かさ）が狭まり、モデルの解釈性が向上。</li>
+<li>透明性と性能を両立したモデル設計の自動化に有望な一般的フレームワークとなる。</li>
+</ul>
+<p><strong>So What?:</strong> 複雑なモデル設計を手動で調整する手間を減らしつつ、精度と解釈性を両立できるため、実務や研究で信頼できる説明可能な予測モデルを効率的に作りたい人に役立ちます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Kalman-Inspired Runtime Stability and Recovery in Hybrid Reasoning Systems</title>
+<link>https://arxiv.org/abs/2602.15855</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15855v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15855'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ハイブリッド推論システムの動作安定性をカルマンフィルターに着想を得た手法で解析・回復する枠組みを提案しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>モデルベース推論と学習コンポーネントを組み合わせたシステムの内部推論過程で起こる「認知ドリフト」（誤差の蓄積）を定量化</li>
+<li>カルマンフィルターの考え方を応用し、逸脱検出（イノベーション統計の監視）と回復制御を組み合わせた安定性枠組みを構築</li>
+<li>実験では、不安定化をタスク失敗前に高精度で検出でき、回復可能な場合は有限時間で内部状態を正常範囲に戻せることを確認</li>
+<li>安定性を単なる正当性ではなく、継続的な監視・回復可能性というシステムレベルの要件として再定義</li>
+</ul>
+<p><strong>So What?:</strong> 部分観測や誤情報が混在する現実環境で、人間のように柔軟に推論し続けるAIシステムの信頼性向上に貢献し、実用的なツール連携や自律判断が求められる領域での安定した運用を支えます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Memes-as-Replies: Can Models Select Humorous Manga Panel Responses?</title>
+<link>https://arxiv.org/abs/2602.15842</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15842v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15842'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 最新の大規模言語モデルは、漫画パネルを使った面白い返信を選ぶタスクで一定の手応えを見せつつも、ニュアンスあるユーモアの理解はまだ難しいことが分かりました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>「Meme Reply Selection」という漫画パネルを返信に使う新タスクを提案し、10万件以上の人間注釈データを公開。</li>
+<li>大規模言語モデル（LLM）は誇張表現などの複雑な社会的合図をある程度理解できる可能性あり。</li>
+<li>期待に反し、画像情報を加えてもユーモア判別の性能は向上せず、視覚情報と文脈理解のギャップを示唆。</li>
+<li>言語モデルは統制された環境では人間の評価と近い結果を出すが、似た意味の候補間での細かい機知の差別化は苦手。</li>
+</ul>
+<p><strong>So What?:</strong> ユーモアや文脈を生かした高度な対話AIやソーシャルメディア応答生成の開発には、言語モデルの視覚理解や社会的ニュアンスへの対応力向上が必須で、今回のベンチマークはその研究基盤として役立ちます。</p>]]></description>
+</item>
+<item>
+<title>[要約] A Koopman-Bayesian Framework for High-Fidelity, Perceptually Optimized Haptic Surgical Simulation</title>
+<link>https://arxiv.org/abs/2602.15834</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.15834v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.15834'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 手術シミュレーションのリアリティを、非線形力学と人間の感覚特性を融合した新手法で大幅に向上させたフレームワークが提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Koopmanオペレーター（非線形システムを線形化する手法）で手術器具と軟組織の動的挙動を高精度に予測・制御。</li>
+<li>人間の力覚感覚に基づくベイズ補正を採用し、個々の感覚閾値に合わせて力の再現を最適化。</li>
+<li>感圧触診や切開、骨削りの手術タスクで、平均遅延4.3ms、力誤差2.8％未満、知覚差別能20％向上を達成。</li>
+<li>従来のスプリング・ダンパー方式やエネルギーベース再現法よりも統計的に優れた性能を示す。</li>
+</ul>
+<p><strong>So What?:</strong> 本技術の導入により、手術トレーニングの精度と効率がアップし、VR医療教育の現場でもよりリアルな触覚体験が可能に。将来的には神経フィードバックと連動させた高次元な触覚インターフェースの実現も期待される。</p>]]></description>
+</item>
+<item>
+<title>[要約] Improving Interactive In-Context Learning from Natural Language Feedback</title>
+<link>https://arxiv.org/abs/2602.16066</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16066v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16066'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 大規模言語モデルが対話的な言語フィードバックを通じて効率的に学習し、自律的に自己改善できる新たな訓練手法が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来の大規模言語モデルは主に静的な大量データで訓練され、対話的なフィードバックを活用する力が弱い。</li>
+<li>本研究では「インタラクティブなコンテキスト内学習能力」を明確な訓練対象スキルとして位置づけ、多段階の対話型フィードバックを活用する枠組みを開発。</li>
+<li>これにより、小規模モデルでも大規模モデルに匹敵するフィードバック反映能力を獲得し、数学問題以外の領域（プログラミングや迷路探索など）にも汎用的に応用可能。</li>
+<li>さらに、教師の批評を模倣して自己修正できる自己改善機能も実現できる可能性を示唆。</li>
+</ul>
+<p><strong>So What?:</strong> 対話的な指摘や修正を受け入れて動的に成長するAIの実現は、人とAIのコラボレーションや、より柔軟で適応的な応用システム構築に道を拓きます。将来的にはユーザーのフィードバックを即時に活かせるインテリジェンスが身近になるかもしれません。</p>]]></description>
+</item>
+<item>
+<title>[要約] Evidence-Grounded Subspecialty Reasoning: Evaluating a Curated Clinical Intelligence Layer on the 2025 Endocrinology Board-Style Examination</title>
+<link>https://arxiv.org/abs/2602.16050</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16050v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16050'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 専門分野向けに厳選された根拠ベースのAI「January Mirror」が、内分泌学の専門試験で最新LLMを上回る性能を示した。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>January Mirrorは、内分泌・心血管代謝領域の厳選エビデンスデータベースと構造化推論を組み合わせている。</li>
+<li>2025年の内分泌学ボード試験（120問）で、Mirrorは87.5%の正答率を達成し、人間専門家（62.3％）や最先端LLM（GPT-5.2は74.6%など）を大きく上回った。</li>
+<li>最難関問題（人間の正答率50%未満）でも76.7%の高精度を維持し、上位2解答の正答率は92.5%に及ぶ。</li>
+<li>74.2%の解答でガイドライン級の根拠出典が示され、引用の正確性も100%確認された（エビデンスの追跡性あり）。</li>
+</ul>
+<p><strong>So What?:</strong> 専門領域の急速な知見更新と複雑な根拠体系を反映しつつ、信頼できる根拠を明示することで臨床判断支援の質を格段に向上できる。クリニカルAI導入の際、単なる情報収集ツールではなく、エビデンス監査可能なシステムの重要性を示している。</p>]]></description>
+</item>
+<item>
+<title>[要約] How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment</title>
+<link>https://arxiv.org/abs/2602.16039</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16039v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16039'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 大規模言語モデル（LLM）による自動採点における評価結果の「不確かさ」を測る指標を体系的に比較・分析しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>LLMは多様な問題形式に適応できる一方、その回答は確率的で「不確かさ」が避けられない。</li>
+<li>誤った不確かさの推定は、教育現場でのフィードバックや指導決定を不安定にし、学習への悪影響が懸念される。</li>
+<li>複数の不確かさ評価手法を自動採点の文脈でベンチマークし、方法ごとの特徴や限界を明らかにした。</li>
+<li>モデルの種類や課題、生成手法の違いが不確かさの値に大きく影響することを示唆している。</li>
+</ul>
+<p><strong>So What?:</strong> 教育分野でのLLM活用を安全かつ効果的に進めるためには、不確かさを正しく評価し管理することが不可欠。今回の知見を基に、誤った判定による学習妨害を防ぎつつ、より信頼性の高い自動採点システムの開発が期待されます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Optimization Instability in Autonomous Agentic Workflows for Clinical Symptom Detection</title>
+<link>https://arxiv.org/abs/2602.16037</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16037v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16037'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 自動改善を繰り返すAIシステムが、希少な臨床症状分類で予期せぬ性能低下を起こす問題を解明し、その対処法を提案した研究です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>自律的に自己改善を繰り返すAIワークフローで、性能が悪化する「最適化の不安定性」が確認された。</li>
+<li>症状の発生率が低いほど性能の振れ幅が大きく、3%の希少症状では高精度でも陽性例を全く検出できなかった。</li>
+<li>積極的に最適化を修正する「ガイディングエージェント」は逆に過学習を助長し悪化させた。</li>
+<li>後から最良の状態を選定する「セレクターエージェント」が、致命的な失敗を防ぎつつ性能を大幅に向上させた。</li>
+</ul>
+<p><strong>So What?:</strong> 医療AIの自動化は期待大ですが、希少症状の検出では評価指標に隠れた落とし穴があることが判明。改善策として、リアルタイム補正よりも「振り返り選択」が安定性・性能向上に効果的で、今後の臨床AI設計に重要な知見となります。</p>]]></description>
+</item>
+<item>
+<title>[要約] Towards Efficient Constraint Handling in Neural Solvers for Routing Problems</title>
+<link>https://arxiv.org/abs/2602.16012</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16012v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16012'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 神経ネットワークを使った経路問題の解決において、厳しい制約条件を効率的に扱う新手法「Construct-and-Refine（CaR）」が登場しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>CaRは明示的な学習ベースの制約適合性改善（feasibility refinement）を行う初の一般的・効率的フレームワーク。</li>
+<li>従来の手法は大量の後処理が必要だったが、CaRはわずか数ステップで高品質かつ多様な解を生成可能。</li>
+<li>構築（construction）と改善（refinement）を共有表現で連携させ、複雑な制約のある問題にも対応。</li>
+<li>実験結果では、従来の古典的・神経ネットワークベースの最先端ソルバーよりも制約遵守率、解の質、計算効率で優れている。</li>
+</ul>
+<p><strong>So What?:</strong> 制約が多く複雑な経路計画問題で高速かつ高精度な解を求める際、CaRの手法は計算コストを大幅に削減しつつ実用的な最適化を実現。このアプローチは物流や配送など現実課題の効率化に直結する可能性が高いです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Weight transport through spike timing for robust local gradients</title>
+<link>https://arxiv.org/abs/2503.02642</link>
+<guid isPermaLink='false'>oai:arXiv.org:2503.02642v2</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2503.02642'>元記事を読む</a></p><p><strong>一言で言うと:</strong> スパイク（神経信号）のタイミング情報を利用し、局所的に正確な勾配を伝える新しい学習ルール「Spike-based Alignment Learning（SAL）」を提案し、従来の課題を克服しています。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>SALは、スパイクの時間的統計を用いて互いに非対称な神経結合のズレを補正し、局所的で生物学的に妥当な学習を可能にする。</li>
+<li>ノイズを活かし、ヘッブ則（神経同時発火で結合強化）と逆ヘッブ則の相互作用により、物理的な神経ネットワークのばらつきも埋め合わせる。</li>
+<li>従来のフィードバックアライメントや誤差逆伝播法の問題点であった重みの運搬問題を、深層ネットワークや複雑な階層構造でも効果的に解決。</li>
+<li>確率的なスパイキングネットワークや皮質微小回路モデルでの実験により、SALが収束性や学習性能を大幅に改善することを実証。</li>
+</ul>
+<p><strong>So What?:</strong> ニューロモルフィック（神経回路模倣）ハードウェアや生物学的にリアルな人工知能の実現に不可欠な局所学習を飛躍的に進化させる手法です。これにより、大規模で深いスパイキングニューラルネットワークの効率的な学習が可能となり、AIのエネルギー効率向上や神経科学的理解の深化に貢献します。</p>]]></description>
+</item>
+<item>
+<title>[要約] A Systematic Evaluation of Sample-Level Tokenization Strategies for MEG Foundation Models</title>
+<link>https://arxiv.org/abs/2602.16626</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16626v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16626'>元記事を読む</a></p><p><strong>一言で言うと:</strong> MEG（脳磁図）データの大規模基盤モデルで使うトークナイゼーション（データの離散化）方法を体系的に比較し、単純な固定トークン化でも十分な性能が得られることを示した研究です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>神経活動の連続データを離散化する「トークナイゼーション」が基盤モデルの性能に影響するが、その比較は未解明だった。</li>
+<li>自己符号化器（autoencoder）を使った学習型トークナイザーと非学習型トークナイザーの性能を比較。</li>
+<li>3つの異なるMEGデータセットで検証し、両者とも高い信号再現性とモデル性能を示した。</li>
+<li>結果は、複雑な学習型でなくてもシンプルな固定トークン化戦略が有効であることを示唆している。</li>
+</ul>
+<p><strong>So What?:</strong> この知見は神経科学の大規模基盤モデル設計をシンプルかつ効率的に進める道を開き、脳活動解析や医療応用の発展を加速させる可能性があります。トークナイゼーションに悩む研究者や開発者にとって実用的な指標になるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Omni-iEEG: A Large-Scale, Comprehensive iEEG Dataset and Benchmark for Epilepsy Research</title>
+<link>https://arxiv.org/abs/2602.16072</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16072v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16072'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 世界最大級のてんかん研究用の脳内脳波(iEEG)データセット「Omni-iEEG」が公開され、臨床での発作源局在化と機械学習の橋渡しを目指す。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>302名の手術前てんかん患者から収集した178時間分の高解像度iEEGデータを統合・標準化。</li>
+<li>発作開始部位や手術結果など臨床情報を専門医が検証したメタデータとして一元管理。</li>
+<li>36,000を超える病理イベントの専門家注釈付きで、機械学習モデルの精度検証が可能。</li>
+<li>異なるセンターやフォーマットのデータを統一し、再現性と臨床適用を両立したベンチマーク基盤を提供。</li>
+</ul>
+<p><strong>So What?:</strong> てんかんの難治性患者に対する外科治療成功率向上を目指す研究者やAI開発者にとって、信頼できる大規模・多様なデータが得られる点が画期的。これにより、発作源探索の自動化・効率化が加速し、臨床現場での意思決定支援に直結する可能性が広がる。</p>]]></description>
+</item>
+<item>
+<title>[要約] The Representational Alignment Hypothesis: Evidence for and Consequences of Invariant Semantic Structure Across Embedding Modalities</title>
+<link>https://arxiv.org/abs/2602.16584</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16584v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16584'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 異なるAIの表現方法（テキスト、映像、音声など）が驚くほど似た意味構造を持つことを示す「表現整合仮説」が提唱され、その意義と限界が議論されています。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>独立に訓練されたAIの埋め込み（embedding）が、テキストや画像、神経信号など複数のモダリティ間で類似した幾何学的構造を共有している。</li>
+<li>表現類似解析やトポロジーデータ解析により、異なるモダリティ間で関係パターンが対応することが明らかになった。</li>
+<li>単純な線形変換を用いるだけで埋め込み空間を高精度に対応付けられ、これが近い同型関係（ほぼ同じ構造）を示唆している。</li>
+<li>この共通構造が「プラトン的実在論」（本質的な現実のレベル）を示すという解釈は慎重であるべきとし、メタ意味論（意味の成り立ちの理論）を踏まえた新たな視点を提案している。</li>
+</ul>
+<p><strong>So What?:</strong> AIが多様な情報源を通じて共通の意味表現を獲得しているなら、異なるモダリティ間の知識統合や転移学習が効率化できる可能性が高いです。さらに人間特有の条件に依存しない普遍的な意味理解の仕組みを探る手がかりにもなり、AIと哲学双方の研究発展に貢献します。</p>]]></description>
+</item>
+<item>
+<title>[要約] Time-Varying Directed Interactions in Functional Brain Networks: Modeling and Validation</title>
+<link>https://arxiv.org/abs/2602.16004</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16004v1</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16004'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 時間変動する脳ネットワークの「方向性のある」機能的結合を高精度に捉える新手法SWpCが開発され、動物実験から臨床応用まで有効性が示されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来の滑動窓相関（SWC）は脳内の双方向性情報の向きを明確にできなかったが、SWpCは線形時間不変モデル（LTI）を用いて「方向性付き」結合を測定可能にした。</li>
+<li>動物の局所場電位（LFP）とfMRIデータを用いて、持続時間や強度の面で安定した方向性推定が実証された。</li>
+<li>ヒトの運動課題fMRI解析では、SWpCが従来法より感度高く課題に伴う機能結合の変化を捉えた。</li>
+<li>外傷性脳損傷の後遺症である前庭機能障害患者の脳状態変化検出や健常者との識別精度向上にも寄与している。</li>
+</ul>
+<p><strong>So What?:</strong> 脳の情報の流れを「いつ」「どの方向に」変わるかリアルタイムで捉えられるため、認知機能の解明や神経疾患の診断・治療効果評価の新たなツールとなり得ます。知的好奇心旺盛なあなたなら最新の脳科学研究やAI脳モデリングに役立つ知見として注目すべきでしょう。</p>]]></description>
+</item>
 </channel></rss>
