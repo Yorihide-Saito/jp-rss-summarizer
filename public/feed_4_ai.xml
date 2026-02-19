@@ -4,35 +4,20 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 18 Feb 2026 13:01:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 01:57:03 +0000</lastBuildDate>
 <item>
-<title>[要約] Fastest Front End Tooling for Humans and AI</title>
-<link>https://cpojer.net/posts/fastest-frontend-tooling</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47060052</guid>
-<pubDate>Wed, 18 Feb 2026 11:51:01 +0000</pubDate>
-<description><![CDATA[<p><a href='https://cpojer.net/posts/fastest-frontend-tooling'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 人間とAIの両方に最適化された、最速のフロントエンド開発ツールが登場した。</p>
+<title>[要約] What is happening to writing? Cognitive debt, Claude Code, the space around AI</title>
+<link>https://resobscura.substack.com/p/what-is-happening-to-writing</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47061642</guid>
+<pubDate>Wed, 18 Feb 2026 14:59:16 +0000</pubDate>
+<description><![CDATA[<p><a href='https://resobscura.substack.com/p/what-is-happening-to-writing'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIの進化は「書くこと」のあり方を根本から変えつつあり、私たちは新たな認知的負債（頭の中の負担）や「Claude Code」（AI独自のコード言語）を理解して向き合う必要がある。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>新しいツールはフロントエンド開発の速度と効率を劇的に向上させる。</li>
-<li>人間の開発者とAI支援の両方に最適化されており、相互補完的に機能する。</li>
-<li>従来のツールチェーンよりも軽量でシンプルな設計が特徴。</li>
-<li>現場での実用性を重視し、セットアップからビルドまでの時間を大幅短縮した。</li>
+<li>「認知的負債」とは、情報過多やAIの介入によって生まれる理解・思考の余分な負担を指し、書き手に新たな挑戦をもたらしている。</li>
+<li>「Claude Code」は、OpenAI等のAIが生成する独特なコードや表現様式で、人間とAIのコミュニケーションの新境地を示している。</li>
+<li>AIが文章作成を支援することで、「書くこと」のプロセスや目的が変容し、従来のクリエイティブな価値観が揺らいでいる。</li>
+<li>AIと人間の「間」に広がるスペース（思考や創造のための余白）をどう活かすかが、未来のライティングの鍵となりそう。</li>
 </ul>
-<p><strong>So What?:</strong> このツールを使えば、開発者はより速く、ストレスなくコーディングできるだけでなく、AIの力も活用して生産性を最大化できる。結果として、新しいアイデアの迅速な検証やプロジェクトの加速が期待できる点で、フロントエンド開発の未来を感じさせる。</p>]]></description>
-</item>
-<item>
-<title>[要約] Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers</title>
-<link>https://www.ycombinator.com/companies/zep-ai/jobs</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47060117</guid>
-<pubDate>Wed, 18 Feb 2026 12:00:50 +0000</pubDate>
-<description><![CDATA[<p><a href='https://www.ycombinator.com/companies/zep-ai/jobs'>元記事を読む</a></p><p><strong>一言で言うと:</strong> YC W24参加のZep AIが、文脈グラフ（複雑な情報の関連性を示すデータ構造）構築を進めるためエンジニアを募集しています。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>Zep AIはY Combinator 2024年冬バッチ所属のスタートアップ</li>
-<li>文脈グラフを用いて情報の意味的なつながりをモデル化する技術を開発中</li>
-<li>現在、技術力のあるエンジニアを採用しチーム強化を図っている</li>
-<li>公式採用ページで詳細な募集情報を公開中（<a href="https://www.ycombinator.com/companies/zep-ai/jobs">https://www.ycombinator.com/companies/zep-ai/jobs</a>）</li>
-</ul>
-<p><strong>So What?:</strong> 文脈を理解し繋げるAI技術は情報検索や対話型アプリの精度を大きく高める可能性があり、Zep AIでのキャリアは最先端のAI応用に触れられる貴重なチャンスです。</p>]]></description>
+<p><strong>So What?:</strong> AIが文章生成に深く関わる今、単にツールとして使うだけでなく、その特徴や負荷を理解し、独自の思考を保つことが重要。新しい書き方や読み方を身につければ、より効率的かつ創造的なコミュニケーションが可能になるはずです。</p>]]></description>
 </item>
 </channel></rss>
