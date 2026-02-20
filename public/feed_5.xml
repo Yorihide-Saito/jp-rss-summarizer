@@ -4,33 +4,92 @@
 <title>日本語要約RSS - ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Fri, 20 Feb 2026 01:53:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 12:55:35 +0000</lastBuildDate>
 <item>
-<title>[要約] Clawi.ai</title>
-<link>https://www.producthunt.com/products/clawi-ai</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1080597</guid>
-<pubDate>2026-02-16T17:08:45-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/clawi-ai'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Clawi.aiはクラウド上で手間なく24時間稼働するOpenClaw（自動化ツール）を提供します。</p>
+<title>[要約] Coasty</title>
+<link>https://www.producthunt.com/products/coasty</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082295</guid>
+<pubDate>2026-02-19T10:02:36-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/coasty'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Coastyは、安全なクラウド仮想マシン(VM)上で永続的に稼働する自律型コンピュータエージェントを提供します。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>Clawi.aiは設定不要でクラウド環境に即導入可能なOpenClawツールを提供。</li>
-<li>24時間365日稼働するため、常に自動化タスクが実行され続ける。</li>
-<li>インフラ管理や面倒な初期設定から解放されるのが大きな特徴。</li>
+<li>Coastyはセキュリティに特化したクラウドVM上でエージェントを動かし続ける仕組み。</li>
+<li>これにより、24時間365日途切れずにタスクを自動化できる。</li>
+<li>ユーザーは中断を気にせずに複雑な処理や監視を任せられることが期待される。</li>
+<li>クラウド環境の柔軟性と耐障害性を活かしつつ、運用コストや手間を抑える狙いがある。</li>
 </ul>
-<p><strong>So What?:</strong> 煩雑な初期導入なしに自動化を始められるため、個人や企業が迅速に効率化を図りやすく、時間や労力の大幅な節約につながります。</p>]]></description>
+<p><strong>So What?:</strong> 常に稼働し続ける安全なエージェント環境は、ビジネスの自動化やリアルタイムなデータ処理を革新し、効率的かつ信頼性の高いサービス運用を支援してくれます。技術的知見やリソースが限られる中小企業や開発者に特に価値があるでしょう。</p>]]></description>
 </item>
 <item>
-<title>[要約] How AI is reshaping developer choice (and Octoverse data proves it)</title>
-<link>https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/</link>
-<guid isPermaLink='false'>https://github.blog/?p=93955</guid>
-<pubDate>Thu, 19 Feb 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AI対応が開発者の技術選択の新たな基準になりつつあることが、GitHubのOctoverseデータで明らかになった。</p>
+<title>[要約] UI Inspector</title>
+<link>https://www.producthunt.com/products/ui-inspector</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1078033</guid>
+<pubDate>2026-02-11T13:01:30-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/ui-inspector'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Google Chrome用の視覚的に操作できるCSS編集ツール「UI Inspector」が登場しました。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>AI搭載ツールの利便性（作業効率を高める機能）が開発者の選択を左右している。</li>
-<li>Octoverse 2025のデータは、AI互換性（AIと連携可能な技術）が技術採用の重要要素になっていることを示す。</li>
-<li>従来の技術評価基準に加え、AIとの親和性が「当たり前」になりつつある。</li>
+<li>UI Inspectorはブラウザ上で直接スタイル（CSS）を視覚的に編集できる拡張機能。</li>
+<li>コードを直接触らずにデザインを変更できるので、初心者にも扱いやすい。</li>
+<li>リアルタイムで編集結果が反映されるため、試行錯誤が素早くできる。</li>
+<li>開発者だけでなく、デザイナーやプロダクトマネージャーにも便利と思われる。</li>
 </ul>
-<p><strong>So What?:</strong> 開発者としては、AI対応ツールを積極的に取り入れることで生産性向上が期待でき、企業やプロジェクトもAI互換性を重視した技術選定が成功への鍵になるだろう。</p>]]></description>
+<p><strong>So What?:</strong> ウェブ制作の経験が浅い人でも直感的に見た目の調整が可能になり、スピーディなプロダクト改善やデザイン確認に役立つ。仕事の効率アップだけでなく、新しいアイデアの実験にも使えそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Claudebin</title>
+<link>https://www.producthunt.com/products/claudebin</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082108</guid>
+<pubDate>2026-02-19T03:49:48-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/claudebin'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Claude Codeのやり取りをURLで保存・共有できる新サービス「Claudebin」が登場しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>ClaudebinはAIとの対話セッション（Claude Code）を途中から再開できるURLに変換可能。</li>
+<li>このURLを使って、他人と対話履歴を簡単に共有できる。</li>
+<li>作業の中断やチームでの情報共有がスムーズになる仕組み。</li>
+<li>リンクはProduct Huntで公開されており、興味があればすぐ試せる。</li>
+</ul>
+<p><strong>So What?:</strong> AIとの対話内容を手軽に保存・共有できるため、プロジェクトの共同作業や情報整理が一段と効率化します。特に複数人でAI活用する現場で価値を発揮しそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Gemini 3.1 Pro</title>
+<link>https://www.producthunt.com/products/gemini-3-1-pro</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082239</guid>
+<pubDate>2026-02-19T08:13:55-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/gemini-3-1-pro'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Gemini 3.1 Proは、複雑なタスクに対応できるより高度なAIモデルです。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Gemini 3.1 Proは高度な処理能力を持ち、複雑で多様な作業に対応可能</li>
+<li>前モデルよりも賢く、効率的に問題解決や情報整理ができる設計</li>
+<li>専門的なタスクやクリエイティブな要求にも強く、応用範囲が広がっている</li>
+</ul>
+<p><strong>So What?:</strong> この進化したAIモデルを活用すれば、難易度の高い業務や創造的なプロジェクトもスムーズに進み、効率アップや新しい発想の実現に繋げられます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Dreamer</title>
+<link>https://www.producthunt.com/products/dreamer-3</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1081242</guid>
+<pubDate>2026-02-17T16:54:08-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/dreamer-3'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Dreamerは個人の知性を深めるための新しいプラットフォームです。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Dreamerはユーザーが自分の思考やアイデアを整理し、発展させるためのツールとして設計されている。</li>
+<li>個人の知性（personal intelligence）に焦点を当て、自己理解や洞察を促進する機能を備える。</li>
+<li>Product Huntでの評価を通じて、多くのユーザーが未来志向の思考やクリエイティビティ向上に役立つと感じている。</li>
+</ul>
+<p><strong>So What?:</strong> 自分の考えを体系化したい、アイデアをより具体的に育てたい人にとって、Dreamerは新たな知性強化ツールとして試す価値が高いです。情報過多時代に自分だけの思考空間を持つことは、創造性や問題解決力向上に直結します。</p>]]></description>
+</item>
+<item>
+<title>[要約] Even GenAI uses Wikipedia as a source</title>
+<link>https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/</link>
+<guid isPermaLink='false'>01c95969-a169-43f6-97cb-be2c9b5585df</guid>
+<pubDate>Fri, 20 Feb 2026 08:40:00 GMT</pubDate>
+<description><![CDATA[<p><a href='https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIも進化の過程でWikipedia由来のデータを活用し、膨大な情報をベクトル化して意味検索を実現している。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>ウィキメディア・ドイツのAIプロジェクトリード、Philippe Saadeが語るWikidata Embedding Projectの詳細。</li>
+<li>Wikidataの1億1900万エントリーのうち、約3000万件をベクトル化（意味空間上の数値化）している。</li>
+<li>この技術により、キーワードだけでなく文脈や意味を考慮した検索が可能になっている。</li>
+</ul>
+<p><strong>So What?:</strong> AIがWikipediaの構造化データを効率的に利用することで、より賢く正確な情報取得が可能になり、私たちの日常の検索体験や、自動情報処理の質が格段に向上すると期待できる。</p>]]></description>
 </item>
 </channel></rss>

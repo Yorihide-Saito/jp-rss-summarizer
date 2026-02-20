@@ -4,5 +4,305 @@
 <title>日本語要約RSS - arXiv (学術論文)</title>
 <link>https://github.com/</link>
 <description>arXiv (学術論文)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Fri, 20 Feb 2026 01:52:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 12:54:36 +0000</lastBuildDate>
+<item>
+<title>[要約] MGD: Moment Guided Diffusion for Maximum Entropy Generation</title>
+<link>https://arxiv.org/abs/2602.17211</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.17211v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.17211'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 限られた情報から最大エントロピー（不確実性の最大化）分布を効率的に生成する新手法「Moment Guided Diffusion（MGD）」が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来の最大エントロピー手法はMCMCやランジュバン力学によるサンプリングが遅く、高次元での効率が課題。</li>
+<li>拡散モデルはサンプル生成が高速だが理論的保証が弱く、データ不足時には過学習の懸念がある。</li>
+<li>MGDは確率微分方程式（SDE）でモーメント（確率分布の特徴量）を指定した値に誘導し、高速かつ理論的に妥当な最大エントロピー分布を生成。</li>
+<li>金融時系列や乱流、宇宙論的データの多尺度解析に応用可能で、エントロピー推定も実用的に行える。</li>
+</ul>
+<p><strong>So What?:</strong> 限られた情報から高次元かつ複雑なデータの不確実性を正確かつ高速に推定できるため、金融リスク管理や物理現象のモデリング、ビッグデータ解析の信頼性向上に役立ちそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Anti-causal domain generalization: Leveraging unlabeled data</title>
+<link>https://arxiv.org/abs/2602.17187</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.17187v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.17187'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ラベルなしデータを活用して、未知の環境でも頑健に動作する予測モデルを作る新しい手法が提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>ドメイン一般化（異なる環境での性能安定化）の課題を、結果が特徴量に影響を与える「反因果的」設定で考察している。</li>
+<li>環境による特徴量の変動（平均・共分散）にモデルが過剰反応しないようペナルティを課す新たな正則化手法を提案。</li>
+<li>これらの摂動方向の推定にラベル不要なので、複数環境の未ラベルデータも活用可能。</li>
+<li>理論的に最悪の環境変化に対する最適性保証を示し、物理システムや生理信号データでの実験結果も良好。</li>
+</ul>
+<p><strong>So What?:</strong> ラベルの少ない現実世界の多環境データからロバストな予測モデルを学べるので、医療やロボット制御などラベル獲得が難しい場面での応用が期待できる。未ラベルデータ活用による効率的なモデル改良に役立つ最新技術です。</p>]]></description>
+</item>
+<item>
+<title>[要約] Semi-Supervised Learning on Graphs using Graph Neural Networks</title>
+<link>https://arxiv.org/abs/2602.17115</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.17115v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.17115'>元記事を読む</a></p><p><strong>一言で言うと:</strong> グラフニューラルネットワーク（GNN）が半教師あり学習でなぜ高精度を出せるかを理論的に解明した最新研究です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>ノード特徴をグラフ上で伝播（メッセージパッシング）し、非線形関数で応答を導くモデルに注目。</li>
+<li>線形グラフ畳み込みと深いReLU読出しを用いた最小二乗推定で、近似誤差・確率誤差・最適化誤差を明確に分離。</li>
+<li>ラベル付きノードの割合やグラフ構造依存性が性能にどう影響するかを具体的なリスク境界で示す。</li>
+<li>完全教師あり学習時の古典的な収束挙動を再現しつつ、ラベルが少ない場合の性能も理論的に裏付け。</li>
+</ul>
+<p><strong>So What?:</strong> GNNを使う際、どれくらいラベルデータが必要かや性能の限界を理論的に理解できるため、データ不足下でのモデル設計や改善に役立ちます。最先端のグラフ分析を理論的に支える基盤として重要です。</p>]]></description>
+</item>
+<item>
+<title>[要約] Poisson-MNL Bandit: Nearly Optimal Dynamic Joint Assortment and Pricing with Decision-Dependent Customer Arrivals</title>
+<link>https://arxiv.org/abs/2602.16923</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16923v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16923'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 商品の品揃えと価格設定が顧客の来店数にも影響することを考慮した新モデルで、売上最大化をほぼ最適に達成できるアルゴリズムを提案しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来の多項ロジット（MNL）モデルは顧客到着数を固定と仮定し、最適解を逃す可能性がある。</li>
+<li>本研究はPoisson-MNLモデルを導入し、商品展開や価格が顧客の来店頻度（ポアソン過程で表現）に影響を与える点を捉えた。</li>
+<li>UCB（上限信頼境界）を利用した効率的なPMNLアルゴリズムを開発し、理論的にも近似最適な性能を証明。</li>
+<li>シミュレーション結果は、来店数変動を考慮したPMNLが固定到着率モデルより高収益であることを示している。</li>
+</ul>
+<p><strong>So What?:</strong> 顧客の来店数が品揃えや価格で変わる実際のビジネス現場に近いモデルとアルゴリズムを知ることで、より実践的で利益を最大化しやすい販売戦略の構築に役立てられます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Beyond Procedure: Substantive Fairness in Conformal Prediction</title>
+<link>https://arxiv.org/abs/2602.16794</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16794v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16794'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 機械学習の不確実性推定手法「コンフォーマル予測（CP）」における手続き的公平性だけでなく、実質的公平性（最終決定結果の公平さ）を評価・改善する方法を提案しています。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>CPは分布に依存しない不確実性評価手法だが、下流の意思決定における公平性との関連は十分に研究されていなかった。</li>
+<li>手続き的公平性（CP自体の公平さ）を超えて、実質的公平性（結果の公平性）を理論的に解析し、予測集合のサイズ差異を分解する上限を導出。</li>
+<li>「ラベルクラスタリング」型CPが方法論由来の不公平要因を抑え、実質的公平性を高めることを実験的に確認。</li>
+<li>人間の公平性評価を模倣する大規模言語モデル（LLM）を活用したスケーラブルな評価手法を開発し、多様なデータに適用可能に。</li>
+</ul>
+<p><strong>So What?:</strong> AIシステムの公平性は単に手続きの平等さだけでなく、実際の結果の平等さを目指すべきで、そのための理論的枠組みと評価手法が得られたことで、今後の公平性重視AI開発に具体的な指針を提供します。特にCPを用いる実務者は、予測集合のサイズを均一にすることが実質的公平性向上に重要だと知って活用できるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning</title>
+<link>https://arxiv.org/abs/2602.16742</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16742v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16742'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 多様で広範囲な数学データセット「DeepVision-103K」が、大規模マルチモーダルモデルの視覚的推論力を大きく向上させることが示されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>DeepVision-103KはK12（幼稚園から高校まで）の数学領域を幅広くカバーし、多様な視覚要素を含む10万点超のデータセット。</li>
+<li>従来は小規模や既存資源の組み合わせが多く、多様性とカバレッジが限られていた課題を克服。</li>
+<li>このデータで訓練したモデルはマルチモーダル数学ベンチマークで高い性能を発揮し、一般的なマルチモーダル推論への応用も有望。</li>
+<li>視覚認識・反省（反復的な見直し）・推論能力が強化され、マルチモーダル学習の進展に寄与すると考えられる。</li>
+</ul>
+<p><strong>So What?:</strong> 視覚情報とテキストを組み合わせる複雑な推論能力はAIの次のフロンティア。DeepVision-103Kを活用すれば、教育分野をはじめ、多様な現実問題へ賢く対応できるAI開発が加速すると期待されます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Quantifying LLM Attention-Head Stability: Implications for Circuit Universality</title>
+<link>https://arxiv.org/abs/2602.16740</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16740v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16740'>元記事を読む</a></p><p><strong>一言で言うと:</strong> トランスフォーマーモデルの注目ヘッド（attention heads）は層ごとに安定性が大きく異なり、その安定性がAIの安全性評価に重要な影響をもたらす。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>中間層の注目ヘッドは最も不安定でありつつ、表現の多様性が高い</li>
+<li>モデルが深くなるほど中間層の挙動のばらつきが大きくなる傾向</li>
+<li>不安定な深層の注目ヘッドは同層内で機能的に重要な役割を果たす</li>
+<li>重みの減衰（weight decay）を使うことで、異なる初期化に対するヘッドの安定性が向上する</li>
+</ul>
+<p><strong>So What?:</strong> AIの内部構造を理解し監視するうえで、「どの要素が一貫して機能するか」は信頼性と安全性の鍵。今回の成果は、異なる学習条件でも再現される「回路」の存在を検証し、将来のAIシステム監査や説明可能なAI設計の基盤となる可能性がある。</p>]]></description>
+</item>
+<item>
+<title>[要約] Real-time Secondary Crash Likelihood Prediction Excluding Post Primary Crash Features</title>
+<link>https://arxiv.org/abs/2602.16739</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16739v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16739'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 事後の事故情報を使わずにリアルタイムで二次事故の発生可能性を高精度に予測する新手法が開発されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>既存手法は二次事故後の情報（事故の種類や重症度）に依存し、リアルタイムでの活用が難しい点を課題視。</li>
+<li>一次事故発生地点とその上流の交通・環境データを動的に抽出する「時空間ウィンドウ」を導入。</li>
+<li>複数の機械学習モデル（一次事故モデル＋二次事故モデル２つ）を組み合わせたアンサンブル学習で予測精度を向上。</li>
+<li>実験ではフロリダ州の高速道路データを用い、91％の二次事故を正確に予測し誤報率も低い（0.20）高性能モデルを実証。</li>
+</ul>
+<p><strong>So What?:</strong> 交通管理システムにおいてリアルタイム予測が可能なら、事故後すぐに効果的な対策を講じて渋滞やさらなる事故発生を防げるため、安全性と交通効率の大幅向上が期待されます。</p>]]></description>
+</item>
+<item>
+<title>[要約] A Few-Shot LLM Framework for Extreme Day Classification in Electricity Markets</title>
+<link>https://arxiv.org/abs/2602.16735</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16735v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16735'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 大規模言語モデル（LLM）を使った少数ショット学習で、電力市場の翌日の価格急騰を高精度に予測できる方法が示された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>電力需要や再生可能エネルギーの発電量、天気予報、過去の価格データなどを自然言語のプロンプトに変換し、LLMに入力する独自の手法。</li>
+<li>テキサス州の過去の電力市場データを使い、サポートベクターマシンやXGBoostなどの従来手法と同等以上の性能を実証。</li>
+<li>データが限られている状況でも、LLMの少数ショット学習がより優れた予測力を発揮。</li>
+<li>価格急騰（スパイク）の日を事前に分類できるため、リスク管理や最適な市場対応に貢献する可能性。</li>
+</ul>
+<p><strong>So What?:</strong> 電力市場の価格変動は投資判断や電力供給の安定化に直結する重要課題。この手法なら大量の学習データがなくても高精度の予測が可能で、再生可能エネルギーの普及など変動要因が増す中で効果的な需要管理やコスト削減に役立つだろう。</p>]]></description>
+</item>
+<item>
+<title>[要約] MMCAformer: Macro-Micro Cross-Attention Transformer for Traffic Speed Prediction with Microscopic Connected Vehicle Driving Behavior</title>
+<link>https://arxiv.org/abs/2602.16730</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16730v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16730'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 個別の車両の細かい運転挙動を加味した新しいAIモデルが、交通速度予測の精度と信頼性を大幅に向上させました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来のマクロ（全体的な）交通流データだけでなく、Connected Vehicle（接続車両）から取得したミクロ（個別車両の）運転行動を融合。</li>
+<li>Macro-Micro Cross-Attention Transformer（MMCAformer）という独自のトランスフォーマーモデルを開発し、マクロとミクロの相互関係を学習。</li>
+<li>フロリダ州の4つの高速道路で実験し、速度予測の誤差を10％以上削減、かつ予測の不確実性も大幅に低減。</li>
+<li>急ブレーキや急加速の頻度が特に強い影響を持ち、混雑時の予測精度向上に貢献。</li>
+</ul>
+<p><strong>So What?:</strong> 交通管理や自動運転システムの精度アップに直結し、渋滞緩和や事故防止に役立つ可能性大。マイクロな人間行動をデータ化して活用する新たな方向性を示しており、スマートモビリティの未来を左右する技術です。</p>]]></description>
+</item>
+<item>
+<title>[要約] When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation</title>
+<link>https://arxiv.org/abs/2602.16763</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16763v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16763'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIベンチマーク（性能評価基準）は多くがすぐに飽和し、優秀なモデルを見分けられなくなる問題が明らかになった。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>60種類の大規模言語モデル向けベンチマークを調査、約半数がすでに飽和状態にあると判明。</li>
+<li>ベンチマークの設計や評価形式など14項目の特徴と飽和との関係を分析。</li>
+<li>テストデータを隠す手法（公開・非公開）は飽和防止に効果なし。</li>
+<li>専門家が厳選したベンチマークは、クラウドソーシングによる評価より長持ちする傾向にある。</li>
+</ul>
+<p><strong>So What?:</strong> AI開発者や研究者は、どの評価基準を使うべきか見直す材料になるだけでなく、より長期的に信頼できるベンチマーク設計のヒントも得られるため、次世代AI評価の質向上に貢献する可能性が高い。</p>]]></description>
+</item>
+<item>
+<title>[要約] Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation</title>
+<link>https://arxiv.org/abs/2602.16727</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16727v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16727'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 大規模な人間の移動シミュレーションを効率化するため、推論過程を再利用する新しいモビリティ対応キャッシュ技術「MobCache」が開発されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>大規模な都市計画や感染症モデルなどで使われる人間の移動シミュレーションに、LLM（大規模言語モデル）を活用した高度な推論が必要だが、計算コストが高い問題がある。</li>
+<li>MobCacheは推論ステップを潜在空間（抽象的なデータ表現）にエンコードし、それを再利用・組み合わせることで計算を大幅に削減する。</li>
+<li>軽量なデコーダーを用い、移動の法則に基づいた知識蒸留（モデル性能維持をしながら小型化する技術）で自然言語に変換し、効率と精度を両立。</li>
+<li>実験結果は、性能をほぼ保ちつつ、多方面で処理効率が大幅に向上していることを示した。</li>
+</ul>
+<p><strong>So What?:</strong> シミュレーションの高精度化と同時に効率アップが可能になり、都市計画やパンデミック対策での迅速な意思決定支援に役立つ。高コストなLLM活用の壁を越え、リアルタイム解析や大規模展開の実現に一歩近づいたと言えるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence</title>
+<link>https://arxiv.org/abs/2602.16716</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16716v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16716'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 適応型知能が単一の内部状態を使い回す限り、状況依存性（コンテキスチュアリティ）が情報理論的に避けられない制約として現れる。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>適応システムは限られた記憶や表現空間を使い回すため、単一の内部状態が多様な状況に対応する。</li>
+<li>状況依存性は量子力学特有の現象ではなく、古典的確率モデルでも単一状態利用の必然的結果である。</li>
+<li>内部状態だけでは状況に完全に依存した結果を表現できず、追加の情報理論的コストが発生する。</li>
+<li>非古典的確率モデル（量子力学とは異なる数学的枠組み）がこの制約を回避可能だが、それは量子力学的性質とは別の話。</li>
+</ul>
+<p><strong>So What?:</strong> これは人工知能や認知モデル設計に重要な示唆で、限られた内部表現で多様な状況に対応する際の根本的な情報的制約を理解できることで、より効率的な適応モデルや新たな確率枠組みの開発に役立つでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Retrieval Augmented (Knowledge Graph), and Large Language Model-Driven Design Structure Matrix (DSM) Generation of Cyber-Physical Systems</title>
+<link>https://arxiv.org/abs/2602.16715</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16715v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16715'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 大規模言語モデル（LLM）と知識グラフを活用し、サイバーフィジカルシステムの設計構造行列（DSM）を自動生成する新手法が提案された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>LLMと検索強化生成（RAG）、さらにグラフベースのRAG（GraphRAG）を用いてDSMを作成。</li>
+<li>電動ドライバーとCubeSat（小型人工衛星）をケーススタディとして、部品間の関係性特定を検証。</li>
+<li>既知部品の関係特定だけでなく、部品抽出から関係判別までの作業を自動で実施可能。</li>
+<li>コードは公開されており、設計分野の専門家によるさらなる改善が期待される。</li>
+</ul>
+<p><strong>So What?:</strong> 複雑なサイバーフィジカルシステム設計の初期段階を自動化することで、設計効率や精度向上に貢献し、製品開発のスピードアップや設計ミスの削減に役立つ可能性がある。</p>]]></description>
+</item>
+<item>
+<title>[要約] AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment</title>
+<link>https://arxiv.org/abs/2602.16714</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16714v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16714'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 犯罪科学の歯科年齢鑑定でAI活用を標準化し、透明性と再現性を高める新しいオントロジー（知識体系）が開発された。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>未成年者や証明書のない人の法的判断に重要な歯科年齢鑑定を対象にしている。</li>
+<li>現在は方法やデータ形式がバラバラで、AI技術導入で課題が増えている。</li>
+<li>AIdentifyAGEオントロジーは専門領域に特化し、手作業とAI双方の鑑定プロセスを統一的に表現。</li>
+<li>法的背景や個人情報、画像や統計データまで包括し、相互運用性と説明可能性を高める設計。</li>
+</ul>
+<p><strong>So What?:</strong> この知識体系があれば、歯科年齢鑑定の結果がより一貫性を持ち、AIの判断根拠が明確になるため、司法判断の信頼性向上や被疑者・被鑑定者の権利保護に役立つ。将来的には医療や法務システムの連携強化も期待できる。</p>]]></description>
+</item>
+<item>
+<title>[要約] Omni-iEEG: A Large-Scale, Comprehensive iEEG Dataset and Benchmark for Epilepsy Research</title>
+<link>https://arxiv.org/abs/2602.16072</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16072v2</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16072'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 世界初の大規模かつ統一フォーマットのiEEG（頭蓋内脳波）データセット「Omni-iEEG」がてんかん研究の新たな標準基盤を築きました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>302人分、178時間に及ぶ高解像度の術前iEEG記録を収録し、多施設データのフォーマットやメタデータを統合</li>
+<li>発作発生領域（EZ）や切除部位、手術結果などの臨床データを専門医が厳密に検証</li>
+<li>3万6千件以上の専門家による病理イベント注釈を含み、機械学習モデルの信頼性向上に貢献</li>
+<li>従来の単一施設データへの依存を脱却し、臨床応用を見据えた統一評価指標を提供</li>
+</ul>
+<p><strong>So What?:</strong> 多様なデータの壁を越えたOmni-iEEGは、機械学習の力でてんかんの手術成功率を高める可能性を秘めています。研究者や医師はこれを活用し、より精度の高い発作源特定や治療計画の最適化が期待できるでしょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Inferring entropy production in many-body systems using nonequilibrium maximum entropy</title>
+<link>https://arxiv.org/abs/2505.10444</link>
+<guid isPermaLink='false'>oai:arXiv.org:2505.10444v4</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2505.10444'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 高次元の多体系でも計算困難だったエントロピー生成量（EP）を、軌跡データだけで効率的に推定する新手法が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>従来難しかった多体系や長期記憶を持つ非マルコフ系のEPを推定可能</li>
+<li>高次元の確率分布や変化率行列の再構成を必要とせず、軌跡の時空間相関などのサンプルのみを利用</li>
+<li>最大エントロピー原理の非平衡版と凸双対性を応用し、平均EPの下限も計算できる</li>
+<li>多段階のEP分解や物理的直感が得られる「熱力学的不確定性関係」として解釈可能</li>
+</ul>
+<p><strong>So What?:</strong> 量子・生物・神経科学など複雑系の熱力学的非平衡性を実験データから直接分析できるので、より現実的かつ柔軟なシステム理解や制御に役立ちます。</p>]]></description>
+</item>
+<item>
+<title>[要約] Linton Stereo Illusion</title>
+<link>https://arxiv.org/abs/2408.00770</link>
+<guid isPermaLink='false'>oai:arXiv.org:2408.00770v4</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2408.00770'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 「Linton Stereo Illusion」は、立体視の奥行き感が実際の物理距離ではなく、網膜の視差（両目で見た像のズレ）に強く影響されることを示しています。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>異なる距離にある2つの円（大きい円が50cm、小さい円が40cm）を使った新しい立体視の錯視を発見。</li>
+<li>大きい円を前後に動かしたとき、小さい円も動かす必要があるが、移動距離は物理的距離でなく視差の変化に沿う。</li>
+<li>観察者は物理距離よりも網膜視差の一定性を基に奥行きを感じる傾向がある。</li>
+<li>このことは、立体視の深度知覚が3D空間のジオメトリよりも視覚信号の処理に依存することを示唆。</li>
+</ul>
+<p><strong>So What?:</strong> 奥行きの知覚が網膜視差に左右されるなら、VRや3Dディスプレイの設計において視差情報の正確な制御が重要になる。視覚効果や錯視の理解を深めることで、より自然で違和感の少ない立体映像体験が実現できるかもしれません。</p>]]></description>
+</item>
+<item>
+<title>[要約] Construction of a classification model for dementia among Brazilian adults aged 50 and over</title>
+<link>https://arxiv.org/abs/2602.16887</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.16887v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.16887'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ブラジルの中高年を対象に、多変量解析を用いた認知症リスク分類モデルが開発され、簡単に測れる生活関連要因が有効な予測因子として特定されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>データは9,412人のブラジル高齢者から取得し、認知症の有病率は9.6％。</li>
+<li>無学歴（OR=7.42）、90歳以上（OR=11.00）、低体重や握力低下などが高リスク要因。</li>
+<li>逆に高学歴、生活満足度の高さ、就労状況は認知症リスク軽減に関連。</li>
+<li>Random Forest（RF）モデルは従来のロジスティック回帰より精度が高く、感度・特異度ともに約70％を実現。</li>
+</ul>
+<p><strong>So What?:</strong> 簡単に評価可能な健康指標で認知症の早期発見が可能なため、脳の健康を促進する公的対策や一次医療でのリソース配分を効率化できる点が重要。多面的な認知症予防につながる有望な研究です。</p>]]></description>
+</item>
+<item>
+<title>[要約] Probability-Invariant Random Walk Learning on Gyral Folding-Based Cortical Similarity Networks for Alzheimer&apos;s and Lewy Body Dementia Diagnosis</title>
+<link>https://arxiv.org/abs/2602.17557</link>
+<guid isPermaLink='false'>oai:arXiv.org:2602.17557v1</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p><a href='https://arxiv.org/abs/2602.17557'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 大脳皮質の折り畳み構造を活用し、患者ごとに異なる脳形態を揃えずに認知症診断を高精度化する新しい機械学習法が提案されました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>アルツハイマー病（AD）とレビー小体型認知症（LBD）は症状が似ているが診断法は異なるため、個別の脳形態を活かした分析が必要。</li>
+<li>脳の三つの折り目（3-hinge gyri）を基にした大脳皮質折り畳みネットワークを用いるが、個人差や疾患で形状が大きく異なるため従来法では対応が困難。</li>
+<li>確率不変のランダムウォーク（無作為歩行）を使った新フレームワークで、ノードの位置合わせを必要とせず安定した特徴抽出を実現。</li>
+<li>大規模臨床データセットで既存の折り畳み・アトラスベースのモデルを上回る安定した診断性能が確認されている。</li>
+</ul>
+<p><strong>So What?:</strong> 個別脳形態の多様性をそのまま活かせるため、認知症診断の精度向上と信頼性アップに直結。将来的にはより細やかな神経変性疾患の早期検出や個別化医療への応用が期待されます。</p>]]></description>
+</item>
 </channel></rss>
