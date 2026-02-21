@@ -4,92 +4,65 @@
 <title>日本語要約RSS - ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Fri, 20 Feb 2026 12:55:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 01:48:28 +0000</lastBuildDate>
 <item>
-<title>[要約] Coasty</title>
-<link>https://www.producthunt.com/products/coasty</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082295</guid>
-<pubDate>2026-02-19T10:02:36-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/coasty'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Coastyは、安全なクラウド仮想マシン(VM)上で永続的に稼働する自律型コンピュータエージェントを提供します。</p>
+<title>[要約] Google Pomelli - Photoshoot</title>
+<link>https://www.producthunt.com/products/google</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082273</guid>
+<pubDate>2026-02-19T09:13:06-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/google'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Google Pomelliは、普通の製品写真を瞬時にプロ品質のスタジオ写真に変換するツールです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>Coastyはセキュリティに特化したクラウドVM上でエージェントを動かし続ける仕組み。</li>
-<li>これにより、24時間365日途切れずにタスクを自動化できる。</li>
-<li>ユーザーは中断を気にせずに複雑な処理や監視を任せられることが期待される。</li>
-<li>クラウド環境の柔軟性と耐障害性を活かしつつ、運用コストや手間を抑える狙いがある。</li>
+<li>誰でも手軽に製品写真をプロのような仕上がりにできる</li>
+<li>撮影スタジオが不要で時間とコストを削減</li>
+<li>画像加工や編集が苦手な人でも使いやすい設計</li>
+<li>AI技術を活用し、品質の高い写真を即座に生成</li>
 </ul>
-<p><strong>So What?:</strong> 常に稼働し続ける安全なエージェント環境は、ビジネスの自動化やリアルタイムなデータ処理を革新し、効率的かつ信頼性の高いサービス運用を支援してくれます。技術的知見やリソースが限られる中小企業や開発者に特に価値があるでしょう。</p>]]></description>
+<p><strong>So What?:</strong> ネットショップ運営やSNSでの魅力的な商品アピールに最適で、映えるビジュアル作成が簡単になるため、売上増加やブランドイメージ向上に役立ちます。</p>]]></description>
 </item>
 <item>
-<title>[要約] UI Inspector</title>
-<link>https://www.producthunt.com/products/ui-inspector</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1078033</guid>
-<pubDate>2026-02-11T13:01:30-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/ui-inspector'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Google Chrome用の視覚的に操作できるCSS編集ツール「UI Inspector」が登場しました。</p>
+<title>[要約] Merge</title>
+<link>https://www.producthunt.com/products/merge-connect-apple-watch-to-android</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1078358</guid>
+<pubDate>2026-02-12T04:14:48-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/merge-connect-apple-watch-to-android'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Apple WatchをAndroidスマホでも使えるようにする新サービス「Merge」が登場しました。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>UI Inspectorはブラウザ上で直接スタイル（CSS）を視覚的に編集できる拡張機能。</li>
-<li>コードを直接触らずにデザインを変更できるので、初心者にも扱いやすい。</li>
-<li>リアルタイムで編集結果が反映されるため、試行錯誤が素早くできる。</li>
-<li>開発者だけでなく、デザイナーやプロダクトマネージャーにも便利と思われる。</li>
+<li>「Merge」はApple WatchをAndroid端末と連携させる画期的なソリューション。</li>
+<li>これまでiPhone限定だったWatchの機能をAndroidユーザーも活用可能にする。</li>
+<li>アプリ経由での接続でセットアップが比較的簡単とされている。</li>
+<li>Appleの公式対応外ながら、需要の高いクロスプラットフォーム利用を促進。</li>
 </ul>
-<p><strong>So What?:</strong> ウェブ制作の経験が浅い人でも直感的に見た目の調整が可能になり、スピーディなプロダクト改善やデザイン確認に役立つ。仕事の効率アップだけでなく、新しいアイデアの実験にも使えそうです。</p>]]></description>
+<p><strong>So What?:</strong> Androidユーザーが待望していたApple Watchの利用が可能になり、スマートウォッチの選択肢が広がると同時に、複数OS間の壁が徐々に崩れていく兆しとも言えます。</p>]]></description>
 </item>
 <item>
-<title>[要約] Claudebin</title>
-<link>https://www.producthunt.com/products/claudebin</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082108</guid>
-<pubDate>2026-02-19T03:49:48-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/claudebin'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Claude Codeのやり取りをURLで保存・共有できる新サービス「Claudebin」が登場しました。</p>
+<title>[要約] moCODE</title>
+<link>https://www.producthunt.com/products/mocode</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082233</guid>
+<pubDate>2026-02-19T08:01:50-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/mocode'>元記事を読む</a></p><p><strong>一言で言うと:</strong> モバイルで使えるAIコードアシスタント「moCODE」が、OpenCode/KiloCodeサーバーと連携して効率的なコーディングをサポートします。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>ClaudebinはAIとの対話セッション（Claude Code）を途中から再開できるURLに変換可能。</li>
-<li>このURLを使って、他人と対話履歴を簡単に共有できる。</li>
-<li>作業の中断やチームでの情報共有がスムーズになる仕組み。</li>
-<li>リンクはProduct Huntで公開されており、興味があればすぐ試せる。</li>
+<li>moCODEはスマホ向けのAIコーディングアシスタントで、どこでもコード作成や修正ができる。</li>
+<li>OpenCodeやKiloCodeサーバーと直接連携し、クラウド上でコード管理や共有がスムーズに行える。</li>
+<li>PCを使わずにモバイルだけでプログラミングの生産性向上が期待できる。</li>
+<li>プロジェクトの即時フィードバックや修正案を受け取りやすい環境を提供している。</li>
 </ul>
-<p><strong>So What?:</strong> AIとの対話内容を手軽に保存・共有できるため、プロジェクトの共同作業や情報整理が一段と効率化します。特に複数人でAI活用する現場で価値を発揮しそうです。</p>]]></description>
+<p><strong>So What?:</strong> モバイル端末での開発環境が急速に進化している今、moCODEは外出先や隙間時間を活かしてコーディングしたいプログラマーにとって強力な武器になるでしょう。作業効率アップだけでなく、開発スタイルの多様化にも役立ちます。</p>]]></description>
 </item>
 <item>
-<title>[要約] Gemini 3.1 Pro</title>
-<link>https://www.producthunt.com/products/gemini-3-1-pro</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082239</guid>
-<pubDate>2026-02-19T08:13:55-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/gemini-3-1-pro'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Gemini 3.1 Proは、複雑なタスクに対応できるより高度なAIモデルです。</p>
+<title>[要約] Repaint</title>
+<link>https://www.producthunt.com/products/repaint-ai-website-builder</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1078097</guid>
+<pubDate>2026-02-11T16:13:15-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/repaint-ai-website-builder'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIとの対話だけでウェブサイトが簡単に作れる新時代のツール「Repaint」が登場しました。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>Gemini 3.1 Proは高度な処理能力を持ち、複雑で多様な作業に対応可能</li>
-<li>前モデルよりも賢く、効率的に問題解決や情報整理ができる設計</li>
-<li>専門的なタスクやクリエイティブな要求にも強く、応用範囲が広がっている</li>
+<li>「Repaint」はユーザーがAIとチャットする感覚でウェブサイト制作を進められるAIビルダー。</li>
+<li>複雑なコーディング不要で初心者でも手軽にウェブサイトを設計可能。</li>
+<li>プロダクトハントで話題になっており、デザインや機能のカスタマイズも柔軟に対応。</li>
+<li>ウェブ開発の敷居を下げ、クリエイティブなアイデアをすぐ形にできる点が魅力。</li>
 </ul>
-<p><strong>So What?:</strong> この進化したAIモデルを活用すれば、難易度の高い業務や創造的なプロジェクトもスムーズに進み、効率アップや新しい発想の実現に繋げられます。</p>]]></description>
-</item>
-<item>
-<title>[要約] Dreamer</title>
-<link>https://www.producthunt.com/products/dreamer-3</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1081242</guid>
-<pubDate>2026-02-17T16:54:08-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/dreamer-3'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Dreamerは個人の知性を深めるための新しいプラットフォームです。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>Dreamerはユーザーが自分の思考やアイデアを整理し、発展させるためのツールとして設計されている。</li>
-<li>個人の知性（personal intelligence）に焦点を当て、自己理解や洞察を促進する機能を備える。</li>
-<li>Product Huntでの評価を通じて、多くのユーザーが未来志向の思考やクリエイティビティ向上に役立つと感じている。</li>
-</ul>
-<p><strong>So What?:</strong> 自分の考えを体系化したい、アイデアをより具体的に育てたい人にとって、Dreamerは新たな知性強化ツールとして試す価値が高いです。情報過多時代に自分だけの思考空間を持つことは、創造性や問題解決力向上に直結します。</p>]]></description>
-</item>
-<item>
-<title>[要約] Even GenAI uses Wikipedia as a source</title>
-<link>https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/</link>
-<guid isPermaLink='false'>01c95969-a169-43f6-97cb-be2c9b5585df</guid>
-<pubDate>Fri, 20 Feb 2026 08:40:00 GMT</pubDate>
-<description><![CDATA[<p><a href='https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIも進化の過程でWikipedia由来のデータを活用し、膨大な情報をベクトル化して意味検索を実現している。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>ウィキメディア・ドイツのAIプロジェクトリード、Philippe Saadeが語るWikidata Embedding Projectの詳細。</li>
-<li>Wikidataの1億1900万エントリーのうち、約3000万件をベクトル化（意味空間上の数値化）している。</li>
-<li>この技術により、キーワードだけでなく文脈や意味を考慮した検索が可能になっている。</li>
-</ul>
-<p><strong>So What?:</strong> AIがWikipediaの構造化データを効率的に利用することで、より賢く正確な情報取得が可能になり、私たちの日常の検索体験や、自動情報処理の質が格段に向上すると期待できる。</p>]]></description>
+<p><strong>So What?:</strong> ウェブ制作がAIとの対話だけで進められることで、技術的な知識がなくても自分のオンラインプレゼンスを素早く実現でき、ビジネスや個人の表現力が大幅に広がるでしょう。</p>]]></description>
 </item>
 </channel></rss>
