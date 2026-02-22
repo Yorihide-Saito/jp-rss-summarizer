@@ -4,80 +4,35 @@
 <title>日本語要約RSS - ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Sat, 21 Feb 2026 12:41:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 01:56:13 +0000</lastBuildDate>
 <item>
-<title>[要約] PulseKit</title>
-<link>https://www.producthunt.com/products/pulsekit</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082716</guid>
-<pubDate>2026-02-20T04:53:12-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/pulsekit'>元記事を読む</a></p><p><strong>一言で言うと:</strong> PulseKitは、Appleデバイス上で主要な指標をウィジェット形式で手軽に確認できるツールです。</p>
+<title>[要約] WANotifier</title>
+<link>https://www.producthunt.com/products/wanotifier</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1081360</guid>
+<pubDate>2026-02-17T23:43:15-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/wanotifier'>元記事を読む</a></p><p><strong>一言で言うと:</strong> WANotifierはWhatsApp向けのマーケティングと自動化を一括で支援するツールです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>複数のApple製品（iPhone、iPad、Mac）で使えるウィジェットを提供</li>
-<li>リアルタイムで重要なデータを一目で把握できるダッシュボード的役割</li>
-<li>ユーザーの好みや必要に合わせてカスタマイズ可能な点が魅力</li>
-<li>効率的な情報把握で日常の意思決定や生産性向上に貢献する設計</li>
+<li>WhatsAppを活用したマーケティング活動を一元管理できるオールインワンツール。</li>
+<li>メッセージ送信やキャンペーン管理などの自動化機能を備えている。</li>
+<li>個別対応から大規模な顧客コミュニケーションまで幅広く対応可能。</li>
+<li>操作しやすいインターフェースで専門知識がなくても利用しやすい設計。</li>
 </ul>
-<p><strong>So What?:</strong> 時間や手間をかけずに重要情報を即座にチェックしたい人にとって、PulseKitは日常のデジタル体験を快適にし、よりスマートな生活や仕事の管理に役立つツールです。</p>]]></description>
+<p><strong>So What?:</strong> WhatsAppは世界中で日常的に使われるメッセージアプリなので、WANotifierを使うことで効率的に顧客とつながり、マーケティング効果を高められます。特に中小企業やマーケターが自動化で手間を減らしながら成長を狙うのに役立つでしょう。</p>]]></description>
 </item>
 <item>
-<title>[要約] Lyria 3 by Google Deepmind</title>
-<link>https://www.producthunt.com/products/lyria-3-by-google-deepmind</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1082279</guid>
-<pubDate>2026-02-19T09:27:26-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/lyria-3-by-google-deepmind'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Google Deepmindの「Lyria 3」は写真や思考からオリジナルの音楽を自動生成する新技術です。</p>
+<title>[要約] Rork Max</title>
+<link>https://www.producthunt.com/products/rork-app-for-ios</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1083049</guid>
+<pubDate>2026-02-20T16:52:06-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/rork-app-for-ios'>元記事を読む</a></p><p><strong>一言で言うと:</strong> iOSアプリ開発を劇的に効率化するAI搭載の新ツール「Rork Max」が注目されている。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>写真や頭に浮かんだイメージを入力すると、それを元にカスタムソングを作り出せる。</li>
-<li>音楽制作のハードルを下げ、誰でも自分だけの音楽表現が可能になる。</li>
-<li>Deepmindの最先端AIが感覚的な入力を音楽へと変換する高度な生成モデルを活用。</li>
-<li>クリエイティブ分野でのAI活用がさらに進み、パーソナルなアート制作が加速しそう。</li>
+<li>Rork MaxはXcode（Appleの公式開発環境）に代わる、AIベースのアプリ開発プラットフォーム。</li>
+<li>プログラミングの専門知識が少なくても、直感的にiOSアプリを作成可能。</li>
+<li>開発速度が飛躍的に上がり、アイデアから実装までの時間を大幅短縮。</li>
+<li>Product Huntで高い評価を得ており、注目のスタートアッププロダクトとして話題に。</li>
 </ul>
-<p><strong>So What?:</strong> 日常の何気ない瞬間やアイデアを即座に音にできるので、クリエイターはもちろん感性を膨らませたいすべての人に新しい表現手段を提供。音楽制作の民主化が一段と進むことで、これからの文化やエンタメの楽しみ方が変わっていくでしょう。</p>]]></description>
-</item>
-<item>
-<title>[要約] Prism Videos</title>
-<link>https://www.producthunt.com/products/prism-videos</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1081860</guid>
-<pubDate>2026-02-18T16:34:44-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/prism-videos'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIを活用して動画制作から編集まで一括で行える新しいワークスペース「Prism Videos」が登場しました。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>Prism Videosは動画生成と編集を一つのプラットフォームでシームレスに行える。</li>
-<li>AI技術を使い、効率的かつクリエイティブな動画制作をサポート。</li>
-<li>初心者からプロまで幅広く使えるユーザーフレンドリーな設計。</li>
-<li>プロダクトハントで話題となっており、注目のツールとして認知されている。</li>
-</ul>
-<p><strong>So What?:</strong> 動画コンテンツの需要が高まる中、制作工程の簡略化は大きな強み。Prism Videosを使えば手間を減らしつつ質の高い動画をスピーディに作れるため、個人クリエイターやマーケターにとって時間とコストの節約に直結します。</p>]]></description>
-</item>
-<item>
-<title>[要約] git-lrc</title>
-<link>https://www.producthunt.com/products/git-lrc</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1079262</guid>
-<pubDate>2026-02-14T01:40:23-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/git-lrc'>元記事を読む</a></p><p><strong>一言で言うと:</strong> git-lrcはコミットごとに無料で無制限のAIコードレビューを提供するツールです。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>git-lrcはコードの変更（コミット）ごとに自動でAIがレビューを実施する。</li>
-<li>利用回数に制限がなく、無料で利用できる点が特徴。</li>
-<li>コード品質の向上とバグの早期発見に役立つ。</li>
-<li>開発者のレビュー工数削減と効率化を促進する可能性が高い。</li>
-</ul>
-<p><strong>So What?:</strong> 開発の現場でレビュー負担を減らしつつ、コードの品質を担保できるため、特に少人数チームやスタートアップで即戦力になるツールと言えます。AIの力を借りて効率的な開発サイクルを実現したい人におすすめです。</p>]]></description>
-</item>
-<item>
-<title>[要約] Woise</title>
-<link>https://www.producthunt.com/products/woise-2</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1080223</guid>
-<pubDate>2026-02-16T03:41:30-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/woise-2'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Woiseはウェブサイト向けのAI音声＆画面録画ツールで、ユーザーの操作や声を簡単に記録できる。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>AI技術を使って音声と画面の録画をシームレスに行える。</li>
-<li>ウェブサイト上でのデモやチュートリアル、フィードバック収集に最適。</li>
-<li>技術的知識がなくても使えるユーザーフレンドリーな設計。</li>
-<li>Product Huntで注目されている最新ツールの一つ。</li>
-</ul>
-<p><strong>So What?:</strong> ウェブ制作やマーケティングの現場で、ユーザー体験の記録や説明コンテンツ作成が効率化できるため、コミュニケーションの質を高めたい人は要チェックです。</p>]]></description>
+<p><strong>So What?:</strong> iOS開発のハードルを下げることで、多様なクリエイターがアプリ市場に参入しやすくなる。新しいビジネスやサービスを迅速に形にしたい人には、Rork Maxが強力な武器になりうる。</p>]]></description>
 </item>
 </channel></rss>
