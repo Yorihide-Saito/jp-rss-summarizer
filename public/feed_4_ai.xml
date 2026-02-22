@@ -4,35 +4,5 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Sun, 22 Feb 2026 01:56:01 +0000</lastBuildDate>
-<item>
-<title>[要約] zclaw: personal AI assistant in under 888 KB, running on an ESP32</title>
-<link>https://github.com/tnm/zclaw</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47100232</guid>
-<pubDate>Sat, 21 Feb 2026 12:37:52 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.com/tnm/zclaw'>元記事を読む</a></p><p><strong>一言で言うと:</strong> ESP32という小型マイコンで動く、わずか888KBの超軽量パーソナルAIアシスタント「zclaw」が登場しました。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>「zclaw」はAIアシスタントとしては破格の小容量（888KB）で動作し、省メモリ環境でも使える。</li>
-<li>ESP32はWi-FiとBluetoothを搭載した小型マイコン（組み込み用コンピュータ）で、低コストかつ省電力。</li>
-<li>オープンソースで開発が進められており、個人でもカスタマイズしやすいのが特徴。</li>
-<li>高性能AIがクラウド依存なしでローカル実行できる可能性を示唆している。</li>
-</ul>
-<p><strong>So What?:</strong> AIアシスタントをスマホやクラウドに頼らず、身近な組み込み機器で安全かつ高速に動かせる未来が見えてきました。プライバシー重視やコスト削減を考えるユーザーや開発者にとって、新しい活用法のヒントになるはずです。</p>]]></description>
-</item>
-<item>
-<title>[要約] Who&apos;s liable when your AI agent burns down production?</title>
-<link>https://reading.sh/whos-liable-when-your-ai-agent-burns-down-production-039193d82746?sk=4921ed2dbc46f0c618835ac458cf5051</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47106406</guid>
-<pubDate>Sat, 21 Feb 2026 23:52:00 +0000</pubDate>
-<description><![CDATA[<p><a href='https://reading.sh/whos-liable-when-your-ai-agent-burns-down-production-039193d82746?sk=4921ed2dbc46f0c618835ac458cf5051'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIエージェントが製造現場でトラブルを起こした場合、誰に法的責任があるのかがまだ明確でないという問題が浮上している。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>AIが生産ラインで誤作動し、火災などの事故を起こした場合、その損害賠償責任の所在が未解決。</li>
-<li>従来の製造機械と違い、「意思決定」を行うAIの行動に対して誰が責任を持つべきかが法律的に曖昧。</li>
-<li>製造者、ソフトウェア開発者、あるいはAIを導入した企業のいずれかが責任を負うケースが考えられるが、各国で規制はまだ追いついていない。</li>
-<li>この問題はAIの普及とともに今後ますます重要になり、法整備や保険制度の見直しが求められている。</li>
-</ul>
-<p><strong>So What?:</strong> AIが現場での自動化を進める中、トラブル発生時の責任の取り方を理解しておくことは、企業だけでなく個人のリスク管理や保険選びにも直結するので注目すべきテーマです。</p>]]></description>
-</item>
+<lastBuildDate>Sun, 22 Feb 2026 12:42:56 +0000</lastBuildDate>
 </channel></rss>
