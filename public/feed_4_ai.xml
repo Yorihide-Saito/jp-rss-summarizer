@@ -4,5 +4,35 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Sun, 22 Feb 2026 12:42:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 01:57:14 +0000</lastBuildDate>
+<item>
+<title>[要約] We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them</title>
+<link>https://quesma.com/blog/introducing-binaryaudit/</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47111440</guid>
+<pubDate>Sun, 22 Feb 2026 14:50:44 +0000</pubDate>
+<description><![CDATA[<p><a href='https://quesma.com/blog/introducing-binaryaudit/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 約40MBの大規模バイナリに意図的に仕込んだバックドアを、AIと逆アセンブラ「Ghidra」を使って検出できるか試みた研究です。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>40MB規模の複雑バイナリにバックドア（不正アクセス用の隠し機能）を埋め込み検出をチャレンジ。</li>
+<li>分析ツール「Ghidra」とAI技術を組み合わせ、不正コードの自動検出に挑戦。</li>
+<li>手動解析では見落としやすい微細な改変もAIなら効率的に見つかる可能性が示唆された。</li>
+<li>しかし精度向上にはまだ課題が多く、完全自動化には追加の研究が必要。</li>
+</ul>
+<p><strong>So What?:</strong> ソフトウェアの安全性確保において、大規模バイナリ中のバックドア検出は非常に重要。今回の試みはAI活用による自動解析の未来を示し、リバースエンジニアリングやセキュリティ監査の効率化に役立つ可能性があります。</p>]]></description>
+</item>
+<item>
+<title>[要約] Introducing EVMbench</title>
+<link>https://openai.com/index/introducing-evmbench</link>
+<guid isPermaLink='false'>https://openai.com/index/introducing-evmbench</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+<description><![CDATA[<p><a href='https://openai.com/index/introducing-evmbench'>元記事を読む</a></p><p><strong>一言で言うと:</strong> OpenAIとParadigmが、スマートコントラクトの重大な脆弱性をAIが見つけて修正・悪用できるかを評価する新しいベンチマーク「EVMbench」を発表しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>「EVMbench」はスマートコントラクトの脆弱性検出と対応能力をAIエージェントでテストするベンチマーク。</li>
+<li>対象はEthereum仮想マシン（EVM）上の高リスクなセキュリティホール。</li>
+<li>AIのセキュリティ分野での実用能力を客観的に測定しやすくすることが狙い。</li>
+<li>OpenAIとParadigmの共同開発で、最先端のAI技術評価への応用が期待される。</li>
+</ul>
+<p><strong>So What?:</strong> スマートコントラクトは金融やアプリの根幹で使われるため、AIが脆弱性を迅速に特定・修正できればセキュリティ強化に直結します。このベンチマークはAIの実用性を高め、より安全なブロックチェーン技術の発展に役立つでしょう。</p>]]></description>
+</item>
 </channel></rss>
