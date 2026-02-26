@@ -4,20 +4,49 @@
 <title>日本語要約RSS - ジャンル3：野心・戦略思考 (Strategy &amp; Performance)</title>
 <link>https://github.com/</link>
 <description>ジャンル3：野心・戦略思考 (Strategy &amp; Performance)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Thu, 26 Feb 2026 01:52:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Feb 2026 13:02:16 +0000</lastBuildDate>
 <item>
-<title>[要約] The Pentagon Threatens Anthropic</title>
-<link>https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic</link>
-<guid isPermaLink='false'>https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic</guid>
-<pubDate>Wed, 25 Feb 2026 17:46:56 GMT</pubDate>
-<description><![CDATA[<p><a href='https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic'>元記事を読む</a></p><p><strong>一言で言うと:</strong> アメリカ国防総省がAI企業Anthropicに対し、安全保障上の懸念から監視と規制を強化する構えを見せている。</p>
+<title>[要約] Open Thread 422.5</title>
+<link>https://www.astralcodexten.com/p/open-thread-4225</link>
+<guid isPermaLink='false'>https://www.astralcodexten.com/p/open-thread-4225</guid>
+<pubDate>Thu, 26 Feb 2026 02:52:39 GMT</pubDate>
+<description><![CDATA[<p><a href='https://www.astralcodexten.com/p/open-thread-4225'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 「Open Thread 422.5」は最新のトピックや雑談を気軽に共有し合うオープンなディスカッションスペースです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>Pentagon（国防総省）がAnthropicのAI技術を「潜在的な国家安全保障リスク」と評価している。</li>
-<li>Anthropicは高度な言語モデル技術を開発し、民間や軍事用途の両面で注目されている。</li>
-<li>規制強化により、AI開発の透明性や倫理面での基準が今後さらに厳しくなる見込み。</li>
-<li>この動きは他のAI企業にも波及し、業界全体が国家安全保障と技術革新のバランスを模索する局面に入った。</li>
+<li>「Open Thread」は特定のテーマに縛られず、多様な話題を自由に投稿できる掲示板的な場である。</li>
+<li>参加者は最新ニュースや趣味、技術、文化など幅広い分野について意見交換ができる。</li>
+<li>これはコミュニティの活性化や新たな情報収集に役立つ場として定期的に設置されている。</li>
 </ul>
-<p><strong>So What?:</strong> AIの急速な進化が安全保障の枠組みを変えるなか、最新技術の利用や投資に関わる人は規制動向を注視し、倫理的かつ透明なAI活用を目指す必要があるでしょう。</p>]]></description>
+<p><strong>So What?:</strong> 日々変わる興味関心に柔軟に対応したい読者にとって、ジャンルを問わず気軽に情報や意見をシェアできる場所は知的好奇心を刺激し、新たな発見や交流のきっかけになります。</p>]]></description>
+</item>
+<item>
+<title>[要約] Next-Token Predictor Is An AI&apos;s Job, Not Its Species</title>
+<link>https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job</link>
+<guid isPermaLink='false'>https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job</guid>
+<pubDate>Thu, 26 Feb 2026 05:24:27 GMT</pubDate>
+<description><![CDATA[<p><a href='https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIの本質は「次に来る単語を予測すること」であり、その種（タイプや設計）ではない。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>AIは膨大なデータを基に次の単語を予測し、それを繰り返すことで文章や応答を生成している。</li>
+<li>「AIの種」と呼ばれる分類（例えば、ニューラルネットワークやルールベース）は重要だが、本質は次トークン（単語などの最小単位）予測の精度にある。</li>
+<li>異なるAIでも根底のタスクは共通しているため、性能向上は予測アルゴリズムの改善に依存している。</li>
+<li>そのため、AIを理解・活用する際は「次に何を創り出すか」という視点を持つことが大事。</li>
+</ul>
+<p><strong>So What?:</strong> AI技術の多様性に惑わされず、本質を掴むことで適切なAI選びや活用が可能になる。次トークン予測の仕組みを知ることは、AIとの対話や開発でも有利に働くはずです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Inside the Mind of Robinhood Co-Founder Vlad Tenev</title>
+<link>https://fs.blog/knowledge-project-podcast/vlad-tenev/</link>
+<guid isPermaLink='false'>https://fs.blog/?post_type=podcast&amp;p=79981</guid>
+<pubDate>Thu, 26 Feb 2026 10:30:00 +0000</pubDate>
+<description><![CDATA[<p><a href='https://fs.blog/knowledge-project-podcast/vlad-tenev/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Robinhood共同創業者のブラッド・テネフが、80％の市場暴落やGameStop騒動を乗り越え、企業の無駄を削減する「創業者モード」に切り替えた過程を明かした。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Robinhoodは市場の80％暴落という未曾有の危機を経験し、その中で経営資源の最適化を迫られた。</li>
+<li>GameStop株の急騰時には創業者としての決断力が試され、混乱の裏側で危機管理を行った。</li>
+<li>ブラッドは企業の「膨張化（bloat）」を排除し、効率的で柔軟な組織体制にシフトした。</li>
+<li>この経験から、創業者マインドセット（迅速な意思決定と大胆な行動）がいかに重要かを強調している。</li>
+</ul>
+<p><strong>So What?:</strong> 投資環境やテクノロジー企業の変動が激しい今、ブラッドの経験は経営者や投資家だけでなく、変化に対応するすべてのビジネスパーソンにとって学びが多い。特に危機時の迅速な対応力や組織のスリム化は、持続的成長の鍵と言えるだろう。</p>]]></description>
 </item>
 </channel></rss>
