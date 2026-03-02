@@ -4,20 +4,77 @@
 <title>日本語要約RSS - ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル5：クリエイティブ・エンジニアリング (App Dev &amp; Creative Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Mon, 02 Mar 2026 01:54:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 12:56:04 +0000</lastBuildDate>
 <item>
-<title>[要約] OpenAI WebSocket Mode for Responses API</title>
-<link>https://www.producthunt.com/products/openai-websocket-mode-for-responses-api</link>
-<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1085025</guid>
-<pubDate>2026-02-24T06:27:11-08:00</pubDate>
-<description><![CDATA[<p><a href='https://www.producthunt.com/products/openai-websocket-mode-for-responses-api'>元記事を読む</a></p><p><strong>一言で言うと:</strong> OpenAIのResponses APIにWebSocketモードが追加され、AIエージェントの応答速度が最大40%向上しました。</p>
+<title>[要約] Crawler.sh</title>
+<link>https://www.producthunt.com/products/crawler-sh</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1086676</guid>
+<pubDate>2026-02-26T17:49:25-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/crawler-sh'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Crawler.shはローカル環境で使えるSEO解析とMarkdown形式のコンテンツ抽出ツールです。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>WebSocketモードは従来のHTTPリクエストよりも持続的（persistent）な接続を利用。</li>
-<li>これにより、AI応答がよりスムーズで高速になる。</li>
-<li>最大で40%のパフォーマンス向上が報告されている。</li>
-<li>チャットボットやリアルタイムアプリケーションでの利便性が大幅アップ。</li>
+<li>Local AEO（Search Engine Optimizationの一種で、検索結果上の表示最適化）とSEO Spider（ウェブサイトの構造チェックを自動化するツール）を組み合わせている。</li>
+<li>Markdown形式でコンテンツを抽出できるため、技術者やライターが効率的に情報を整理可能。</li>
+<li>ローカル環境で動作するので、プライバシーやセキュリティ面で優れている。</li>
 </ul>
-<p><strong>So What?:</strong> レスポンス時間の短縮はユーザー体験の向上に直結します。開発者はこの新モードを活用することで、より高速で快適なAIインタラクションを実現できるため、次世代のAI搭載サービス開発に役立てられます。</p>]]></description>
+<p><strong>So What?:</strong> SEO対策やコンテンツ管理を自分のPC上で完結したい人にとって、Crawler.shは効率アップや情報の整理に役立つツールとなり得ます。ネットへの依存を減らしつつ高度な分析をしたい方におすすめです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Mosaic</title>
+<link>https://www.producthunt.com/products/mosaic-so</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1077463</guid>
+<pubDate>2026-02-10T16:06:43-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/mosaic-so'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Mosaicは動画編集の自動化を目指すZapier的ツールです。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Zapierのように複数のアプリやサービスを連携し、動画編集プロセスを自動化できる。</li>
+<li>動画編集のルーチン作業を減らすことで、クリエイターの時間を節約。</li>
+<li>Product Huntで注目されており、使いやすさと連携可能な範囲が評価されている。</li>
+</ul>
+<p><strong>So What?:</strong> 動画コンテンツ制作の需要が高まる中、Mosaicを活用することで編集作業の効率化が期待でき、創造的な部分により多くの時間を割けます。最新ツールを知ることで、今後の映像制作のスタンダードを先取りしましょう。</p>]]></description>
+</item>
+<item>
+<title>[要約] Voca AI</title>
+<link>https://www.producthunt.com/products/voca-ai</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1087960</guid>
+<pubDate>2026-03-01T06:46:59-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/voca-ai'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Voca AIは、裏で静かにプロジェクト管理を支援する新しいAIツールです。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>プロジェクトマネージャーの役割をAIが担うことで、日常の細かなタスクを自動化</li>
+<li>ユーザーの指示を待つのではなく、バックグラウンドで進行状況を監視し、必要なサポートを提供</li>
+<li>コミュニケーションやタスク管理の効率化により、チームの生産性向上に寄与</li>
+<li>Product Huntで注目を集めており、今後のビジネス現場での活用が期待される</li>
+</ul>
+<p><strong>So What?:</strong> 仕事の煩雑な管理から解放され、よりクリエイティブな作業や意思決定に集中できるので、忙しい現代人にとって役立つ存在になりそうです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Kimi Claw</title>
+<link>https://www.producthunt.com/products/kimi-ai-assistant</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1088234</guid>
+<pubDate>2026-03-01T20:08:17-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/kimi-ai-assistant'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIアシスタントOpenClawがKimiプラットフォーム上で24時間365日稼働可能になりました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>OpenClawはKimiというAIプラットフォームにネイティブ対応している。</li>
+<li>24時間いつでも稼働し続けるため、利用者は常時サポートを受けられる。</li>
+<li>KimiはAIアシスタントの機能を強化し、より実用的な体験を提供している。</li>
+<li>Product Huntでのディスカッションやリンクから詳細情報が得られる。</li>
+</ul>
+<p><strong>So What?:</strong> いつでも使えるAIサポートは仕事や生活の効率化に直結するので、最新AIツールを試してみたい人にとって注目すべき進展です。</p>]]></description>
+</item>
+<item>
+<title>[要約] Agent Commune</title>
+<link>https://www.producthunt.com/products/linkedin-for-ai-agents</link>
+<guid isPermaLink='false'>tag:www.producthunt.com,2005:Post/1087297</guid>
+<pubDate>2026-02-27T20:05:41-08:00</pubDate>
+<description><![CDATA[<p><a href='https://www.producthunt.com/products/linkedin-for-ai-agents'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Agent Communeは、個人や企業のエージェント同士をつなぐLinkedInのようなプラットフォームです。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>エージェント同士がネットワークを築き、情報やスキルを共有できる場を提供している。</li>
+<li>AI（人工知能）エージェントに特化したコミュニティ機能も取り入れている可能性がある。</li>
+<li>従来のSNSと異なり、個人・法人エージェントの専門性にフォーカスしている。</li>
+</ul>
+<p><strong>So What?:</strong> エージェント同士の連携や情報交換が効率化することで、新たなビジネス機会やコラボレーションが生まれやすくなり、専門家ネットワークの価値を最大化できます。</p>]]></description>
 </item>
 </channel></rss>
