@@ -4,20 +4,5 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Mon, 02 Mar 2026 12:55:39 +0000</lastBuildDate>
-<item>
-<title>[要約] If AI writes code, should the session be part of the commit?</title>
-<link>https://github.com/mandel-macaque/memento</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47212355</guid>
-<pubDate>Mon, 02 Mar 2026 00:27:52 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.com/mandel-macaque/memento'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIがコードを書く時代に、セッション（開発の一連の操作履歴）をコミットに含めるべきかが新たな議論を呼んでいる。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>AIによるコード生成が普及すると、誰がどの操作で何を生成したかを記録する「セッション情報」の重要性が増す。</li>
-<li>従来のコミットは変更内容のみを記録するが、セッションを含めることで開発経緯や意図がより明確になる可能性がある。</li>
-<li>GitHubのプロジェクト「memento」では、このセッション情報を管理・共有する仕組みを提案している。</li>
-<li>一方で、セッション情報の追加はプライバシーや情報過多の懸念、管理の複雑化を引き起こすリスクもある。</li>
-</ul>
-<p><strong>So What?:</strong> AIが書くコードが当たり前になると、ただ成果物を追うだけではなく、その生成過程も追跡可能にすることが、品質管理やコラボレーション向上につながる。開発者としては、新しい記録方法を理解し適切に活用することが今後のスタンダードになる可能性があるので要注目だ。</p>]]></description>
-</item>
+<lastBuildDate>Tue, 03 Mar 2026 01:56:19 +0000</lastBuildDate>
 </channel></rss>
