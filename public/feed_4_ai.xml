@@ -4,5 +4,35 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Mon, 09 Mar 2026 01:55:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 12:58:40 +0000</lastBuildDate>
+<item>
+<title>[要約] Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer</title>
+<link>https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47307169</guid>
+<pubDate>Mon, 09 Mar 2026 10:28:08 +0000</pubDate>
+<description><![CDATA[<p><a href='https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer'>元記事を読む</a></p><p><strong>一言で言うと:</strong> VS Code内で使えるGitOps対応のAI支援タスク管理ツール「Agent Kanban」が開発者の効率を劇的に向上させます。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>VS Codeにチームで使いやすいカンバンボードを統合し、GitOps（コード管理と連携した運用）が可能</li>
+<li>@kanbanコマンドで計画やTODO、実装ステップを構造化して管理できる</li>
+<li>独自のエージェントを内蔵せず、既存のAIエージェント環境を活用して柔軟に動作</li>
+<li>.md（Markdown）形式のタスク管理で、検討内容や決定事項も含め永続的な情報を保持し文脈の崩壊を防ぐ</li>
+</ul>
+<p><strong>So What?:</strong> AIを活用する開発現場で、効率的なタスク管理と情報共有が求められる今、「Agent Kanban」はVS Codeの利便性を活かしつつ確実に進捗を見える化。チームの生産性向上や意思決定の透明化に直結するため、今後の開発スタイルを大きく変える可能性があります。</p>]]></description>
+</item>
+<item>
+<title>[要約] Nvidia backs AI data center startup Nscale as it hits $14.6B valuation</title>
+<link>https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47307419</guid>
+<pubDate>Mon, 09 Mar 2026 10:58:15 +0000</pubDate>
+<description><![CDATA[<p><a href='https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html'>元記事を読む</a></p><p><strong>一言で言うと:</strong> NvidiaがAI向けデータセンター技術を手掛けるスタートアップNscaleに出資し、同社の評価額が146億ドルに到達しました。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>NscaleはAIの計算負荷を効率化する高性能データセンター技術を開発。</li>
+<li>Nvidiaが戦略的投資を通じてNscaleを支援し、共にAIインフラの拡大を目指す。</li>
+<li>146億ドル（約1.8兆円）の評価額は、AIインフラスタートアップとして業界トップクラス。</li>
+<li>この資金調達は、今後のAI需要拡大に向けたデータセンター技術強化の一環とみられる。</li>
+</ul>
+<p><strong>So What?:</strong> AIの進化に伴い、データ処理の効率化が急務。NvidiaとNscaleの提携は、今後のAIサービスや研究の土台を支え、高速かつ低コストなAIインフラの実現につながるため、投資や技術動向を追う価値があります。</p>]]></description>
+</item>
 </channel></rss>
