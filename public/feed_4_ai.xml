@@ -4,33 +4,35 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Tue, 10 Mar 2026 01:48:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 12:56:32 +0000</lastBuildDate>
 <item>
-<title>[要約] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft</title>
-<link>https://writings.hongminhee.org/2026/03/legal-vs-legitimate/</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47310160</guid>
-<pubDate>Mon, 09 Mar 2026 15:12:53 +0000</pubDate>
-<description><![CDATA[<p><a href='https://writings.hongminhee.org/2026/03/legal-vs-legitimate/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIによるソフトウェアの再実装が、法的には合法でもコピーレフト（利用条件を維持する自由ソフトウェアライセンス）の精神を侵食している問題を浮き彫りにしています。</p>
+<title>[要約] Learnings from paying artists royalties for AI-generated art</title>
+<link>https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47318421</guid>
+<pubDate>Tue, 10 Mar 2026 02:24:52 +0000</pubDate>
+<description><![CDATA[<p><a href='https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AI生成アートの利益を元のアーティストにロイヤリティ（使用料）として還元する試みから得られた実践的な学びを共有しています。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>AIが既存ソフトウェアの動作を解析し「再実装」する手法は、著作権侵害には当たらない法的見解が多い。</li>
-<li>しかし、この手法はコピーレフトの根幹である「派生物も同じ自由条件で公開する」という理念を損なう可能性がある。</li>
-<li>合法と正統性（legitimate）は必ずしも一致せず、技術の進化が公平なソフトウェア文化に新たな挑戦をもたらしている。</li>
+<li>AIアートの収益の一部を元作品のアーティストに支払うモデルを試行し、公正性と持続可能性を探った。</li>
+<li>透明な報酬分配がアーティストとの信頼構築に効果的で、AIツールへの理解と支持を得やすいと判明。</li>
+<li>技術面では作品識別の仕組み（デジタル署名やハッシュ技術）がロイヤリティ計算の鍵となる。</li>
+<li>しかし、完全な自動化には法的・技術的な課題が残り、共有プラットフォームの役割が重要。</li>
 </ul>
-<p><strong>So What?:</strong> AI技術の普及によって、従来のオープンソースや自由ソフトのガバナンスが揺らぐかもしれません。これを知ることで、開発者や利用者は法的枠組みだけでなく倫理や文化的な側面も考慮しつつ技術活用や議論ができるようになります。</p>]]></description>
+<p><strong>So What?:</strong> AIアートの急増で、アーティストの権利保護が課題になる中、このロイヤリティモデルは業界の未来指針となる可能性が。クリエイター支援や倫理的なAI利用を考える人にとって必読の実験報告です。</p>]]></description>
 </item>
 <item>
-<title>[要約] OpenAI to acquire Promptfoo</title>
-<link>https://openai.com/index/openai-to-acquire-promptfoo</link>
-<guid isPermaLink='false'>https://openai.com/index/openai-to-acquire-promptfoo</guid>
-<pubDate>Mon, 09 Mar 2026 10:00:00 GMT</pubDate>
-<description><![CDATA[<p><a href='https://openai.com/index/openai-to-acquire-promptfoo'>元記事を読む</a></p><p><strong>一言で言うと:</strong> OpenAIがAI開発におけるセキュリティ強化のため、AI脆弱性検出ツールのPromptfooを買収しました。</p>
+<title>[要約] Yann LeCun&apos;s AI startup raises $1B in Europe&apos;s largest ever seed round</title>
+<link>https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47321533</guid>
+<pubDate>Tue, 10 Mar 2026 10:50:30 +0000</pubDate>
+<description><![CDATA[<p><a href='https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1'>元記事を読む</a></p><p><strong>一言で言うと:</strong> Yann LeCun（AI研究の第一人者）のスタートアップが、ヨーロッパ史上最大の10億ドル規模のシード資金調達を達成しました。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>OpenAIがPromptfooを買収し、AIシステムの脆弱性（弱点）発見と修正支援を強化。</li>
-<li>Promptfooは開発段階でのAIセキュリティチェックに特化したプラットフォーム。</li>
-<li>買収によりOpenAIはより安全で信頼性の高いAIモデルの提供を目指す。</li>
+<li>調達した10億ドルはヨーロッパにおける史上最大のシードラウンド（初期投資）として注目されている。</li>
+<li>Yann LeCunはMeta（旧Facebook）のAIリサーチ部門創設者であり、深層学習のパイオニアとして知られる。</li>
+<li>この大規模資金は、高度なAI技術開発に向けた長期的な研究・事業拡大を可能にする。</li>
+<li>ヨーロッパのAIスタートアップ市場にとっても一大飛躍となる可能性がある。</li>
 </ul>
-<p><strong>So What?:</strong> AI活用が進む中、セキュリティリスクも増大。今回の買収は安全なAI開発を促進し、私たちの生活でAIを安心して使える未来につながる重要な一歩と言えます。</p>]]></description>
+<p><strong>So What?:</strong> グローバルAI競争が激化する中、LeCun氏のような世界的専門家が率いる企業に巨額投資が集まることは、最新AI技術の実用化を加速し、私たちの生活や産業に革新をもたらす期待が高まる重要なサインです。</p>]]></description>
 </item>
 </channel></rss>
