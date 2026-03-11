@@ -4,5 +4,35 @@
 <title>日本語要約RSS - ジャンル3：野心・戦略思考 (Strategy &amp; Performance)</title>
 <link>https://github.com/</link>
 <description>ジャンル3：野心・戦略思考 (Strategy &amp; Performance)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Wed, 11 Mar 2026 01:47:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 12:56:32 +0000</lastBuildDate>
+<item>
+<title>[要約] Last Rights</title>
+<link>https://www.astralcodexten.com/p/last-rights</link>
+<guid isPermaLink='false'>https://www.astralcodexten.com/p/last-rights</guid>
+<pubDate>Wed, 11 Mar 2026 05:01:45 GMT</pubDate>
+<description><![CDATA[<p><a href='https://www.astralcodexten.com/p/last-rights'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 最終的な権利（Last Rights）に関する議論が、個人の尊厳や社会的価値観を再考させている。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>Last Rightsは単なる儀式以上に、死生観や個人の意志を反映する重要な社会的慣習である。</li>
+<li>現代社会では、多様化する家族形態や宗教観により、Last Rightsのあり方も変化しつつある。</li>
+<li>テクノロジーの発展により、デジタル遺産の扱いや仮想空間での『最後の権利』の問題も浮上している。</li>
+<li>こうした変化は、個人の尊厳を守りつつも、社会全体の調和を図る新たな枠組み構築が求められていることを示す。</li>
+</ul>
+<p><strong>So What?:</strong> 自分自身や大切な人の最期をどう迎えるかを考えるうえで、Last Rightsの意味や役割を理解することは、より納得のいく選択や社会的対話を生み出すヒントになるはずです。</p>]]></description>
+</item>
+<item>
+<title>[要約] Solar Storms</title>
+<link>https://www.lesswrong.com/posts/ghq9EwiXbRbWSnDzF/solar-storms</link>
+<guid isPermaLink='false'>ghq9EwiXbRbWSnDzF</guid>
+<pubDate>Sun, 08 Mar 2026 14:04:25 GMT</pubDate>
+<description><![CDATA[<p><a href='https://www.lesswrong.com/posts/ghq9EwiXbRbWSnDzF/solar-storms'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 太陽嵐（Solar Storm）は、大規模な電力網の心臓部である大型変圧器（LPT）を破壊し、長期的な大規模停電を引き起こすリスクがあるが、既存の技術で防御可能であるにも関わらず十分に対策されていない。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>電力は人口密集地から遠く離れた発電所で高電圧で送電され、大型変圧器（LPT）が電圧を変換する役割を持つが、これらは非常に高価で生産が限られている。</li>
+<li>太陽嵐により地球の電離層に誘導される地磁気誘導電流（GIC）が長距離送電線を流れ、変圧器の鉄心を飽和させて壊す可能性がある。</li>
+<li>1989年のケベック停電やニュージーランドでのトランスフォーマー損傷など、過去の事例が重大な被害の可能性を示している。</li>
+<li>SolidGroundのような新技術を使えば、DC電流を遮断してLPTの破損を防げるが、アメリカでは十分な導入が進んでいない。</li>
+</ul>
+<p><strong>So What?:</strong> 太陽嵐による停電は日常生活やインフラの根幹に深刻な影響を与え得るものの、数十億ドルの費用で重大なダメージを大幅に減らせる技術が存在しているという事実。政府や産業界が適切に投資し、対策を進めることで将来の大規模停電や経済被害を防げるため、最新のトレンドとして安全保障とインフラ強化の観点から注目すべきテーマです。</p>]]></description>
+</item>
 </channel></rss>
