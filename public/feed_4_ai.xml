@@ -4,65 +4,20 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Fri, 13 Mar 2026 01:51:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 12:55:16 +0000</lastBuildDate>
 <item>
-<title>[要約] Document poisoning in RAG systems: How attackers corrupt AI&apos;s sources</title>
-<link>https://aminrj.com/posts/rag-document-poisoning/</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47350407</guid>
-<pubDate>Thu, 12 Mar 2026 13:40:36 +0000</pubDate>
-<description><![CDATA[<p><a href='https://aminrj.com/posts/rag-document-poisoning/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIの情報源を汚染する攻撃「ドキュメントポイズニング」が、高確率でRAG（Retrieval-Augmented Generation）システムを誤誘導することが明らかになった。</p>
+<title>[要約] Grief and the AI split</title>
+<link>https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/</link>
+<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47358206</guid>
+<pubDate>Thu, 12 Mar 2026 22:35:08 +0000</pubDate>
+<description><![CDATA[<p><a href='https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AIの急速な進化に伴い、人類は技術進化への悲しみと分断を経験している。</p>
 <p><strong>ポイント:</strong></p>
 <ul>
-<li>5文書の小規模コーパスで95%の成功率を示し、攻撃者に有利な環境ほど影響が大きい。</li>
-<li>成熟した大規模コーパスでは汚染文書の割合を増やす必要があるが、攻撃手法自体は同じ。</li>
-<li>埋め込み（embedding：文章の意味ベクトル化）段階での異常検知が最も効果的で、単独で攻撃成功率を95%から20%に低減。</li>
-<li>複数の防御層を組み合わせれば残余リスクは約10%まで減らせる。</li>
+<li>AI技術の発展が人間社会に根本的な変化をもたらし、旧来の価値観とのギャップを生んでいる。</li>
+<li>多くの人が技術による変化を「喪失」と感じ、精神的な悲嘆（グリーフ）を経験している可能性がある。</li>
+<li>この「AI分断」は、技術を受け入れる層と拒絶する層の間に社会的・心理的な隔たりを作り出している。</li>
+<li>悲しみを正しく理解しケアすることで、技術との健全な共存を目指す新しいアプローチが求められている。</li>
 </ul>
-<p><strong>So What?:</strong> AIの検索応答に使われる情報が簡単に汚染されるリスクを理解することは、より安全なAI運用や防御設計に不可欠。特に埋め込み段階での異常検知を活用すれば、コストをかけずに防御力を大幅に高められるため、実務での迅速な導入が期待される。</p>]]></description>
-</item>
-<item>
-<title>[要約] Show HN: Axe – A 12MB binary that replaces your AI framework</title>
-<link>https://github.com/jrswab/axe</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47350516</guid>
-<pubDate>Thu, 12 Mar 2026 13:49:12 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.com/jrswab/axe'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 小型でシンプルな12MBバイナリ「Axe」は、従来の重くて複雑なAIフレームワークに代わり、Unix的な小規模エージェントの連携でAIタスクを効率化します。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>AxeはPythonやDockerなしで動く軽量（12MB）バイナリで、依存はたったの2つだけ。</li>
-<li>AIエージェントをTOML設定ファイルで定義し、「コードレビュー」「ログ解析」など特化型に分割、CLIでパイプ接続が可能。</li>
-<li>エージェント同士の再帰的な呼び出しや状態を保持（メモリ）できるため柔軟な作業分担が可能。</li>
-<li>複数のAIモデル（OpenAIやAnthropicなど）や組み込みツール（web検索など）を組み合わせて使える。</li>
-</ul>
-<p><strong>So What?:</strong> 重たいAIチャットボットとは違い、小さく集中したAIツール群を組み合わせて自在に自動化できるので、開発や運用のコストを抑えつつ柔軟にAI活用が可能です。特に複数タスクの連携やCI/CDへの組み込みにも最適で、現場の生産性向上に直結します。</p>]]></description>
-</item>
-<item>
-<title>[要約] Show HN: OneCLI – Vault for AI Agents in Rust</title>
-<link>https://github.com/onecli/onecli</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47353558</guid>
-<pubDate>Thu, 12 Mar 2026 16:41:06 +0000</pubDate>
-<description><![CDATA[<p><a href='https://github.com/onecli/onecli'>元記事を読む</a></p><p><strong>一言で言うと:</strong> OneCLIはAIエージェントに直接シークレットを渡さず、安全にAPIアクセスを管理するRust製のオープンソースプロキシです。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>AIエージェントに生のAPIキーを渡すリスクを解消するため、実際の認証情報は暗号化されたVault（貯蔵庫）に一元管理。</li>
-<li>代理キーをエージェントに与え、HTTPリクエスト時にOneCLIが本物のキーに差し替える仕組みで、エージェントは本当の秘密に触れない。</li>
-<li>Rustで書かれたプロキシが単一のDockerコンテナ内で動作し、外部依存なしで管理が容易。AES-256-GCMで強力に暗号化される。</li>
-<li>今後はアクセス制御や監査ログ、人の承認が必要な操作など、セキュリティ強化の拡張が計画されている。</li>
-</ul>
-<p><strong>So What?:</strong> AIにAPIキーを直接渡すリスクを劇的に減らし、安全な運用が可能になるので、開発チームは安心してAIエージェントを活用できる。さらにオープンソースで自由にカスタマイズできる点も魅力的です。</p>]]></description>
-</item>
-<item>
-<title>[要約] Innocent woman jailed after being misidentified using AI facial recognition</title>
-<link>https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47356968</guid>
-<pubDate>Thu, 12 Mar 2026 20:55:51 +0000</pubDate>
-<description><![CDATA[<p><a href='https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case'>元記事を読む</a></p><p><strong>一言で言うと:</strong> AI顔認識の誤認識が原因で無実の女性が数ヶ月間も不当に拘束される事件が起きた。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>ノースダコタ州で、AI顔認識システムによる誤識別が無実の祖母を詐欺事件の容疑者と間違えた。</li>
-<li>この誤認が原因で、彼女は何ヶ月も拘束され続けた。</li>
-<li>顔認識技術は便利だが、誤認識が引き起こす人権侵害のリスクが顕在化した事例である。</li>
-<li>専門家からはAI技術の精度向上や運用ルールの整備が急務と指摘されている。</li>
-</ul>
-<p><strong>So What?:</strong> AIの社会実装が進む中、誤認による冤罪や個人の自由侵害に注意が必要。技術を過信せず人間による慎重な判断や法整備を促すことで、より安全で公平な社会づくりに役立てられる。</p>]]></description>
+<p><strong>So What?:</strong> AIが身近になる今、技術の進歩による感情的なギャップを無視すると社会的摩擦が増えるかもしれません。この気づきをもとに、技術受容の過程で生じる精神的な負担にも配慮することで、より調和の取れた未来を創造できるはずです。</p>]]></description>
 </item>
 </channel></rss>
