@@ -4,5 +4,20 @@
 <title>日本語要約RSS - ジャンル3：野心・戦略思考 (Strategy &amp; Performance)</title>
 <link>https://github.com/</link>
 <description>ジャンル3：野心・戦略思考 (Strategy &amp; Performance)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Sat, 14 Mar 2026 12:43:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 02:05:36 +0000</lastBuildDate>
+<item>
+<title>[要約] On The Independence Axiom</title>
+<link>https://www.lesswrong.com/posts/MsjWPWjAerDtiQ3Do/on-the-independence-axiom</link>
+<guid isPermaLink='false'>MsjWPWjAerDtiQ3Do</guid>
+<pubDate>Sun, 08 Mar 2026 14:38:08 GMT</pubDate>
+<description><![CDATA[<p><a href='https://www.lesswrong.com/posts/MsjWPWjAerDtiQ3Do/on-the-independence-axiom'>元記事を読む</a></p><p><strong>一言で言うと:</strong> 意思決定理論の「独立性公理」は必須条件ではなく、これを外した新しい理論の方が合理的で現実の意思決定をよりよく説明する可能性がある。</p>
+<p><strong>ポイント:</strong></p>
+<ul>
+<li>独立性公理は、選好を確率の期待値として線形に表現するための柱だが、これを外しても一貫した選好や合理的行動は可能。</li>
+<li>Allaisの逆説やEllsbergの逆説といった、人が独立性公理を破る現象は単なるバイアスではなく、全体的・時系列的なリスク評価に基づく合理的判断とも解釈できる。</li>
+<li>エルゴーディシティ経済学（ergodicity economics）やアップデートレス意思決定理論（updateless decision theory）などの異なる研究アプローチが、独立性公理を緩めることの合理性を支持している。</li>
+<li>従来の期待効用理論（EUT）は時間や状況のダイナミクスを十分に扱えず、AIや人間の意思決定のモデルとして限界がある。</li>
+</ul>
+<p><strong>So What?:</strong> 従来の期待効用最大化を前提とした合理性の枠組みを見直すことで、人間やAIの意思決定の実態により即した理論設計ができるかもしれません。特に複雑な時間経過やリスクの重なりを扱う場合に新理論は役立ち、合理的な意思決定支援やAI安全性の考察にも新たな道が開けるでしょう。</p>]]></description>
+</item>
 </channel></rss>

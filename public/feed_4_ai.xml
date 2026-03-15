@@ -4,20 +4,5 @@
 <title>日本語要約RSS - ジャンル4：AI・実装 (Implementation &amp; Logic)</title>
 <link>https://github.com/</link>
 <description>ジャンル4：AI・実装 (Implementation &amp; Logic)の英語記事を日本語要約して配信します。</description>
-<lastBuildDate>Sat, 14 Mar 2026 12:43:58 +0000</lastBuildDate>
-<item>
-<title>[要約] Emacs and Vim in the Age of AI</title>
-<link>https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/</link>
-<guid isPermaLink='false'>https://news.ycombinator.com/item?id=47319071</guid>
-<pubDate>Tue, 10 Mar 2026 04:21:32 +0000</pubDate>
-<description><![CDATA[<p><a href='https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/'>元記事を読む</a></p><p><strong>一言で言うと:</strong> EmacsとVimという伝統的なテキストエディタが、AIの進化によって新たな可能性と課題に直面している。</p>
-<p><strong>ポイント:</strong></p>
-<ul>
-<li>EmacsとVimはカスタマイズ性や効率性で長年支持されているが、AI補助ツールとの連携が今後の鍵になる。</li>
-<li>AIによるコード補完やバグ検出は生産性を飛躍的に高める一方で、ユーザーの習熟度やカスタマイズ度合いによって効果に差がある。</li>
-<li>伝統的なキーバインド（ショートカット操作）とAIインターフェースの融合は、操作感の再設計を促している可能性がある。</li>
-<li>コミュニティからはAI導入に対する期待と懸念が混在し、ユーザー主体の改善が求められている。</li>
-</ul>
-<p><strong>So What?:</strong> AIとの共存は単なる機能追加ではなく、開発者のワークフローそのものを進化させるチャンス。伝統的エディタの良さを活かしつつ、AIの力を賢く取り入れることで、より快適で創造的なコード環境を実現できるかがポイントです。</p>]]></description>
-</item>
+<lastBuildDate>Sun, 15 Mar 2026 02:05:38 +0000</lastBuildDate>
 </channel></rss>
