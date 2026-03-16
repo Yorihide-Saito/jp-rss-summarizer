@@ -1,9 +1,9 @@
 name: build-jp-rss
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0,12 * * *"  # UTCで0時/12時（日本時間は+9h）
+  # workflow_dispatch:
+  # schedule:
+  #   - cron: "0 0,12 * * *"  # UTCで0時/12時（日本時間は+9h）
 
 permissions:
   contents: write
